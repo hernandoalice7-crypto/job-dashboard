@@ -1,0 +1,156 @@
+# =====================================================
+# MES PRÉFÉRENCES DE RECHERCHE
+# Pour modifier : change le texte après les deux-points.
+# Les lignes qui commencent par # sont des commentaires.
+# Attention : garde bien les espaces au début des lignes.
+# =====================================================
+
+# ---------- TYPE DE CONTRAT ----------
+contrat:
+  duree_max_mois: 6            # durée maximale acceptée par l'école
+  types_acceptes:              # contrats acceptés
+    - stage
+    - vie
+    - graduate
+  type_prefere: stage          # le stage de fin d'études gagne plus de points
+
+# ---------- DATES DE DÉBUT ----------
+dates:
+  debut_min: "2027-03-22"      # lendemain de la fin des examens (week-end compris)
+  debut_max: "2027-07-31"      # au plus tard fin juillet 2027
+  # Offres qui commencent avant la fin des examens : affichées avec un badge
+  avant_examens_du: "2027-03-01"
+  avant_examens_au: "2027-03-21"
+  # Offres sans date de début : gardées, avec le badge « DATE ? »
+  garder_si_date_inconnue: true
+
+# ---------- MÉTIERS ----------
+metiers:
+  # Priorité : ces mots dans le titre donnent le maximum de points
+  prioritaires:
+    - consultant stratégie
+    - consultante stratégie
+    - conseil en stratégie
+    - conseil en entreprise
+    - strategy consultant
+    - strategy consulting
+    - associate consultant
+    - business analyst
+    - stratégie corporate
+    - corporate strategy
+    - strategy intern
+    - stagiaire consultant
+    - consultant stagiaire
+    - analyste stratégie
+  # Second choix : moins de points
+  acceptables:
+    - transformation
+    - transformation consultant
+    - conseil en transformation
+    - change management
+    - stratégie
+    - strategy
+  # Petit bonus de score si ces mots apparaissent dans l'offre
+  bonus:
+    - due diligence
+    - m&a
+    - fusion
+    - acquisition
+    - private equity
+    - transition écologique
+    - esg
+  # EXCLUS : une offre avec un de ces mots dans le titre est retirée
+  exclus:
+    - audit
+    - auditeur
+    - commissaire aux comptes
+    - senior
+    - manager
+    - directeur
+    - alternance
+    - apprentissage
+    - cdi
+    - freelance
+
+# ---------- LIEUX ----------
+lieux:
+  paris:                       # priorité 1
+    - paris
+    - île-de-france
+    - ile-de-france
+    - la défense
+    - la defense
+    - neuilly
+    - boulogne
+    - levallois
+    - issy
+    - pantin
+    - courbevoie
+  lyon_lille:                  # priorité 2
+    - lyon
+    - lille
+  suisse:                      # priorité 3 (permis de travail à vérifier)
+    - suisse
+    - switzerland
+    - genève
+    - geneva
+    - zurich
+    - lausanne
+    - bâle
+    - basel
+  exclus:                      # villes refusées
+    - nantes
+  # Offre sans lieu indiqué : gardée avec un badge « LIEU ? »
+  garder_si_lieu_inconnu: true
+
+# ---------- LANGUES ----------
+langues:
+  # Une offre qui exige l'une de ces langues est retirée
+  rédhibitoires:
+    - allemand
+    - german
+    - deutsch
+    - néerlandais
+    - dutch
+    - italien courant
+    - mandarin
+
+# ---------- ENTREPRISES ET SECTEURS ----------
+# Aucun critère : on ne filtre ni par secteur ni par taille.
+entreprises_exclues: []
+
+# ---------- SALAIRE ----------
+salaire:
+  minimum: 0                   # aucun minimum : on affiche le salaire, sans éliminer
+
+# ---------- SCORE SUR 100 ----------
+# Total des points = 100. Tu peux changer les chiffres.
+score:
+  metier: 35                   # prioritaire = 35, acceptable = 20
+  contrat: 15                  # stage fin d'études = 15, autre = 8
+  date_debut: 15               # 22 mars à mai = 15, juin = 12, juillet = 10, avant examens = 8, inconnue = 5
+  lieu: 15                     # Paris = 15, Lyon/Lille = 10, Suisse = 8
+  fraicheur: 10                # offre récente = plus de points
+  mots_bonus: 5
+  salaire_affiche: 5           # petit bonus si le salaire est indiqué
+
+# ---------- SOURCES ----------
+# true = utilisée, false = ignorée. Une source cassée ne bloque jamais les autres.
+sources:
+  consultor: true
+  welcome_to_the_jungle: true
+  france_travail: true         # nécessite une clé gratuite (voir plus tard)
+  business_france_vie: true
+  jobteaser: false             # souvent bloqué depuis GitHub
+  linkedin: false              # souvent bloqué depuis GitHub
+
+# Entreprises dont on suit la page carrières (on les ajoutera ensemble)
+entreprises_suivies:
+  greenhouse: []
+  lever: []
+  ashby: []
+  workday: []
+
+# ---------- NOTIFICATION ----------
+notifications:
+  email_si_nouvelles_offres: true   # via une « issue » GitHub
