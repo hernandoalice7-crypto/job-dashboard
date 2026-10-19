@@ -1,0 +1,14 @@
+# Fichiers personnels : ne jamais envoyer sur GitHub
+cv/
+CV*
+cv*
+Lettre*
+lettre*
+*.pdf
+*.docx
+*.doc
+
+# Fichiers techniques inutiles
+.env
+__pycache__/
+*.pyc
