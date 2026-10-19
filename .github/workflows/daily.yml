@@ -1,0 +1,64 @@
+name: Recherche quotidienne
+
+on:
+  schedule:
+    - cron: "0 5 * * *"      # 5h UTC = 7h l'été, 6h l'hiver (heure de Paris)
+  workflow_dispatch:         # bouton pour la lancer à la main
+
+permissions:
+  contents: write            # enregistrer la page et la mémoire dans le dépôt
+  issues: write              # créer l'issue qui t'envoie l'e-mail
+
+concurrency:
+  group: recherche-quotidienne
+  cancel-in-progress: false
+
+jobs:
+  recherche:
+    runs-on: ubuntu-latest
+    env:
+      NOUVELLES_FICHIER: /tmp/nouvelles_offres.md
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les outils
+        run: pip install -r requirements.txt
+
+      - name: Lancer la recherche
+        env:
+          FRANCE_TRAVAIL_ID: ${{ secrets.FRANCE_TRAVAIL_ID }}
+          FRANCE_TRAVAIL_SECRET: ${{ secrets.FRANCE_TRAVAIL_SECRET }}
+        run: python -m jobfinder.main
+
+      - name: Enregistrer la page et la mémoire
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs seen_offers.json
+          if git diff --cached --quiet; then
+            echo "Rien à enregistrer"
+          else
+            git commit -m "Mise à jour du dashboard"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Prévenir par e-mail s'il y a de nouvelles offres
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f "$NOUVELLES_FICHIER" ]; then
+            gh issue create \
+              --title "Nouvelles offres du $(TZ=Europe/Paris date +%d/%m/%Y)" \
+              --body-file "$NOUVELLES_FICHIER" \
+              --assignee "${{ github.repository_owner }}"
+          else
+            echo "Pas de nouvelle offre, pas d'e-mail"
+          fi
