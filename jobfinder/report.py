@@ -1,0 +1,182 @@
+"""Génère docs/index.html : une seule page autonome (HTML + JavaScript)."""
+
+import json
+from pathlib import Path
+
+DOSSIER = Path(__file__).resolve().parent.parent / "docs"
+
+MODELE = r"""<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Mon dashboard d'offres</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--tx:#1d1d1b;--mut:#6b6a64;--bd:#e3e1d8;--ac:#1f4e79;--tag:#e8eef5;--new:#e3f3e6;--newt:#1d6b32;--warn:#fdf0d8;--warnt:#8a5a00}
+@media (prefers-color-scheme:dark){:root{--bg:#161616;--card:#212121;--tx:#eee;--mut:#9a998f;--bd:#333;--ac:#7fb2e5;--tag:#2a3643;--new:#1f3a27;--newt:#8fd9a4;--warn:#3d3220;--warnt:#f0c674}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:900px;margin:0 auto;padding:16px}
+h1{font-size:21px;margin:0 0 2px}.sub{color:var(--mut);font-size:13px;margin-bottom:12px}
+.top{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+button,select,input,textarea{font:inherit;color:var(--tx)}
+.tabs button,.chip,.sm{background:var(--card);border:1px solid var(--bd);border-radius:20px;padding:6px 13px;cursor:pointer}
+.tabs button.on,.chip.on{background:var(--ac);color:var(--bg);border-color:var(--ac)}
+input[type=search],input[type=date],select,textarea{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:8px 10px}
+input[type=search]{flex:1;min-width:160px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.chip{font-size:13px;padding:4px 11px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px;margin-bottom:10px}
+.row{display:flex;gap:12px;align-items:flex-start}
+.score{flex:none;width:46px;height:46px;border-radius:50%;background:var(--tag);color:var(--ac);display:flex;align-items:center;justify-content:center;font-weight:700}
+.card h3{margin:0;font-size:16px}.co{color:var(--ac);font-weight:600;font-size:14px}.loc{color:var(--mut);font-size:13px}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+.b{background:var(--tag);border-radius:6px;padding:2px 8px;font-size:12px}
+.b.n{background:var(--new);color:var(--newt);font-weight:700}.b.w{background:var(--warn);color:var(--warnt)}
+details{font-size:13px;color:var(--mut);margin:4px 0 8px}
+.act{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.sm{font-size:13px;padding:5px 11px}
+a.go{color:var(--ac);font-size:13px;align-self:center;margin-left:auto}
+.cand{display:grid;gap:8px;margin-top:8px}
+textarea{width:100%;min-height:60px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+td,th{border-bottom:1px solid var(--bd);padding:8px 6px;text-align:left;vertical-align:top}
+.vide{color:var(--mut);text-align:center;padding:30px 10px}
+#toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + env(safe-area-inset-bottom));background:#222;color:#fff;padding:10px 16px;border-radius:10px;display:none;gap:14px;align-items:center;z-index:9}
+#toast button{background:none;border:0;color:#8fc4ff;font-weight:700;cursor:pointer}
+</style></head><body><main>
+<h1>Mon dashboard d'offres</h1>
+<div class="sub" id="maj"></div>
+<div class="top"><button class="sm" id="exp">Exporter mes choix</button><button class="sm" id="imp">Importer</button><input type="file" id="file" accept=".json" hidden></div>
+<div class="tabs" id="tabs"></div>
+<div id="filtres"><div class="top"><input type="search" id="q" placeholder="Rechercher un titre, une entreprise, une ville…"></div><div class="chips" id="chips"></div></div>
+<div id="liste"></div>
+<div id="toast"><span id="tmsg"></span><button id="tundo">Annuler</button></div>
+<script>
+const D=__DATA__;
+const KEY="jd_state_v1";
+let S;try{S=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){S={}}
+S.fav=S.fav||{};S.hidden=S.hidden||{};S.applied=S.applied||{};
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+const STATUTS=["Postulé","Relancé","Entretien","Offre","Refusé"];
+const RAISONS={mot_exclu_dans_titre:"Mot exclu dans le titre (audit, senior, manager…)",entreprise_exclue:"Entreprise exclue",langue_exigee:"Langue exigée (allemand…)",duree_trop_longue:"Durée de plus de 6 mois",contrat_refuse:"Type de contrat refusé",hors_sujet:"Titre hors sujet",date_trop_tot:"Début trop tôt (avant mars 2027)",date_trop_tard:"Début après juillet 2027",date_inconnue:"Date de début inconnue",lieu_exclu:"Ville exclue (Nantes)",lieu_inconnu:"Lieu inconnu",lieu_hors_zone:"Lieu hors zone"};
+const today=()=>new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Paris"});
+const fmt=d=>d?d.split("-").reverse().join("/"):"?";
+function h(t,p,...k){const e=document.createElement(t);for(const a in (p||{})){const v=p[a];if(a==="class")e.className=v;else if(a.startsWith("on"))e[a]=v;else e.setAttribute(a,v)}k.flat().forEach(c=>{if(c==null||c===false)return;e.append(c.nodeType?c:document.createTextNode(c))});return e}
+const $=s=>document.querySelector(s);
+
+let tab="offres",F={},Q="";
+const CHIPS=[
+ ["Nouveau",o=>o.is_new],
+ ["Paris",o=>/paris|île-de-france|ile-de-france|la défense|la defense|neuilly|pantin|levallois|boulogne|issy|courbevoie/i.test(o.location||"")],
+ ["Lyon / Lille",o=>/lyon|lille/i.test(o.location||"")],
+ ["Suisse",o=>/suisse|switzerland|genève|geneva|zurich|lausanne|bâle|basel/i.test(o.location||"")],
+ ["Score ≥ 70",o=>o.score>=70],
+ ["Date compatible",o=>!(o.badges||[]).some(b=>["DATE ?","AVANT FIN D'EXAMS","VÉRIFIER DATE"].includes(b))]
+];
+
+let undo=null,tt=null;
+function toast(msg,fn){$("#tmsg").textContent=msg;undo=fn;$("#toast").style.display="flex";clearTimeout(tt);tt=setTimeout(()=>{$("#toast").style.display="none";undo=null},6000)}
+$("#tundo").onclick=()=>{if(undo)undo();undo=null;$("#toast").style.display="none"};
+
+const snap=o=>({id:o.id,title:o.title,company:o.company,url:o.url,location:o.location||"",score:o.score||0});
+function toggleFav(o){if(S.fav[o.id])delete S.fav[o.id];else S.fav[o.id]=snap(o);save();render()}
+function hide(o){S.hidden[o.id]=snap(o);save();render();toast("Offre masquée",()=>{delete S.hidden[o.id];save();render()})}
+function apply(o){const old=S.hidden[o.id];S.applied[o.id]={...snap(o),date:today(),status:"Postulé",notes:""};delete S.hidden[o.id];save();render();toast("Ajoutée aux candidatures",()=>{delete S.applied[o.id];if(old)S.hidden[o.id]=old;save();render()})}
+function restore(id){delete S.hidden[id];save();render()}
+
+function card(o,mode){
+ const star=!!S.fav[o.id];
+ const bs=(o.badges||[]).map(b=>h("span",{class:"b"+(b==="NOUVEAU"?" n":(b==="DATE ?"||b==="LIEU ?"||b==="VÉRIFIER DATE"||b==="AVANT FIN D'EXAMS"||b==="AUTRE VILLE")?" w":"")},b));
+ const meta=[o.location,o.published?("publiée le "+fmt(o.published)):"",o.start_date?("début "+fmt(o.start_date)):"",o.salary].filter(Boolean).join(" · ");
+ const act=h("div",{class:"act"});
+ if(mode==="masquees"){act.append(h("button",{class:"sm",onclick:()=>restore(o.id)},"Rétablir"))}
+ else{
+  act.append(h("button",{class:"sm",onclick:()=>toggleFav(o)},star?"★ Gardée":"☆ Garder"));
+  act.append(h("button",{class:"sm",onclick:()=>apply(o)},"✓ Postulé"));
+  act.append(h("button",{class:"sm",onclick:()=>hide(o)},"✕ Pas intéressée"));
+ }
+ act.append(h("a",{class:"go",href:o.url,target:"_blank",rel:"noopener"},"Voir l'offre →"));
+ return h("div",{class:"card"},
+  h("div",{class:"row"},h("div",{class:"score"},o.score?String(o.score):"–"),
+   h("div",{},h("h3",{},o.title),h("div",{class:"co"},o.company),h("div",{class:"loc"},meta))),
+  bs.length?h("div",{class:"badges"},bs):null,
+  (o.reasons&&o.reasons.length)?h("details",{},h("summary",{},"Pourquoi ce score ?"),h("ul",{},o.reasons.map(r=>h("li",{},r)))):null,
+  act);
+}
+
+function candCard(a){
+ const jours=Math.floor((new Date(today())-new Date(a.date))/86400000);
+ const relance=a.status==="Postulé"&&jours>=10;
+ const sel=h("select",{onchange:e=>{a.status=e.target.value;save();render()}},STATUTS.map(s=>{const o=h("option",{value:s},s);if(s===a.status)o.selected=true;return o}));
+ const dt=h("input",{type:"date",value:a.date,onchange:e=>{a.date=e.target.value||today();save();render()}});
+ const notes=h("textarea",{placeholder:"Notes (contact, entretien, prochaine étape…)",oninput:e=>{a.notes=e.target.value;save()}});notes.value=a.notes||"";
+ return h("div",{class:"card"},
+  h("h3",{},a.title),h("div",{class:"co"},a.company),
+  relance?h("div",{class:"badges"},h("span",{class:"b w"},"À RELANCER ("+jours+" jours)")):null,
+  h("div",{class:"cand"},h("div",{class:"act"},dt,sel,h("a",{class:"go",href:a.url,target:"_blank",rel:"noopener"},"Voir l'offre →")),notes,
+   h("div",{class:"act"},h("button",{class:"sm",onclick:()=>{if(confirm("Supprimer cette candidature ?")){delete S.applied[a.id];save();render()}}},"Supprimer"))));
+}
+
+function sourcesView(){
+ const st=D.stats||{},rows=[];
+ for(const s in st){const x=st[s];
+  const ret=Object.entries(x.retirees||{}).map(([k,n])=>h("div",{},n+" × "+(RAISONS[k]||k)));
+  const etat=x.erreur?h("div",{class:"b w"},"Erreur : "+x.erreur):(x.trouvees===0?h("div",{class:"b w"},"0 offre : source peut-être cassée"):null);
+  rows.push(h("tr",{},h("td",{},s,etat),h("td",{},String(x.trouvees)),h("td",{},String(x.gardees)),h("td",{},ret.length?ret:"–")));
+ }
+ if(!rows.length)return h("div",{class:"vide"},"Aucune donnée de source.");
+ return h("div",{class:"card"},h("table",{},h("tr",{},h("th",{},"Source"),h("th",{},"Trouvées"),h("th",{},"Gardées"),h("th",{},"Retirées pour")),rows));
+}
+
+function filtrer(list){
+ const q=Q.trim().toLowerCase();
+ return list.filter(o=>(!q||((o.title||"")+" "+(o.company||"")+" "+(o.location||"")).toLowerCase().includes(q))&&CHIPS.every(([n,f])=>!F[n]||f(o)));
+}
+
+function render(){
+ const offres=D.offers.filter(o=>!S.hidden[o.id]&&!S.applied[o.id]);
+ const byId={};D.offers.forEach(o=>byId[o.id]=o);
+ const gardees=Object.keys(S.fav).map(id=>byId[id]||S.fav[id]);
+ const cands=Object.values(S.applied);
+ const masq=Object.values(S.hidden);
+ const TABS=[["offres","Offres ("+offres.length+")"],["gardees","Gardées ("+gardees.length+")"],["cand","Candidatures ("+cands.length+")"],["masquees","Masquées ("+masq.length+")"],["sources","Sources"]];
+ const t=$("#tabs");t.innerHTML="";
+ TABS.forEach(([k,l])=>t.append(h("button",{class:tab===k?"on":"",onclick:()=>{tab=k;render()}},l)));
+ $("#filtres").style.display=(tab==="offres"||tab==="gardees")?"":"none";
+ const c=$("#chips");c.innerHTML="";
+ CHIPS.forEach(([n])=>c.append(h("button",{class:"chip"+(F[n]?" on":""),onclick:()=>{F[n]=!F[n];render()}},n)));
+ const L=$("#liste");L.innerHTML="";
+ if(tab==="offres"){const r=filtrer(offres);r.length?r.forEach(o=>L.append(card(o,"offres"))):L.append(h("div",{class:"vide"},"Aucune offre ne correspond."))}
+ else if(tab==="gardees"){const r=filtrer(gardees);r.length?r.forEach(o=>L.append(card(o,"gardees"))):L.append(h("div",{class:"vide"},"Aucune offre gardée pour l'instant (☆ Garder)."))}
+ else if(tab==="cand"){cands.sort((a,b)=>(b.date||"").localeCompare(a.date||""));cands.length?cands.forEach(a=>L.append(candCard(a))):L.append(h("div",{class:"vide"},"Aucune candidature pour l'instant (✓ Postulé)."))}
+ else if(tab==="masquees"){masq.length?masq.forEach(o=>L.append(card(o,"masquees"))):L.append(h("div",{class:"vide"},"Aucune offre masquée."))}
+ else L.append(sourcesView());
+}
+
+$("#q").addEventListener("input",e=>{Q=e.target.value;render()});
+$("#maj").textContent="Mis à jour le "+D.updated+" (heure de Paris) · "+D.offers.length+" offres"+(D.nouvelles?(" · "+D.nouvelles+" nouvelle(s)"):"");
+$("#exp").onclick=()=>{const b=new Blob([JSON.stringify(S)],{type:"application/json"});const a=h("a",{href:URL.createObjectURL(b),download:"mes-choix-dashboard.json"});document.body.append(a);a.click();a.remove()};
+$("#imp").onclick=()=>$("#file").click();
+$("#file").onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const x=JSON.parse(r.result);S={fav:x.fav||{},hidden:x.hidden||{},applied:x.applied||{}};save();render();toast("Choix importés",null)}catch(err){alert("Fichier illisible.")}};r.readAsText(f)};
+render();
+</script></main></body></html>
+"""
+
+
+def generer(offres, stats, maj, nouvelles=0):
+    """Écrit docs/index.html.
+    offres : liste d'objets Offer déjà filtrés et notés
+    stats : statistiques par source (venant de matching.traiter)
+    maj : date et heure de mise à jour, en texte (heure de Paris)
+    nouvelles : nombre de nouvelles offres de ce passage"""
+    data = {
+        "updated": maj,
+        "nouvelles": nouvelles,
+        "offers": [o.to_dict() for o in offres],
+        "stats": stats,
+    }
+    js = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    html = MODELE.replace("__DATA__", js)
+    DOSSIER.mkdir(exist_ok=True)
+    (DOSSIER / "index.html").write_text(html, encoding="utf-8")
