@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write            # enregistrer la page et la mémoire dans le dépôt
   issues: write              # créer l'issue qui t'envoie l'e-mail
+  pages: write               # demander la publication du site
 
 concurrency:
   group: recherche-quotidienne
@@ -62,3 +63,8 @@ jobs:
           else
             echo "Pas de nouvelle offre, pas d'e-mail"
           fi
+
+      - name: Publier le site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
