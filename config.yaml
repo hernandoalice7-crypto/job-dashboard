@@ -142,7 +142,7 @@ sources:
   france_travail: true         # nécessite une clé gratuite (voir plus tard)
   business_france_vie: true
   jobteaser: false             # souvent bloqué depuis GitHub
-  linkedin: false              # souvent bloqué depuis GitHub
+  linkedin: true              # souvent bloqué depuis GitHub
 
 # Entreprises dont on suit la page carrières (on les ajoutera ensemble)
 entreprises_suivies:
