@@ -1,13 +1,13 @@
 {
  "offres": {
   "004673f1095e99a2": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "EY",
    "titre": "Internship in Mobility Consulting - Swiss & International TAX",
    "vue_le": "2026-10-28"
   },
   "01923e2c10d09194": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Inddigo",
    "titre": "Stage en Stratégie mobilité et conception cyclable H/F",
    "vue_le": "2026-10-27"
@@ -55,7 +55,7 @@
    "vue_le": "2026-10-28"
   },
   "0940bfe3c5d4ff5d": {
-   "derniere_vue": "2026-11-05",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Crédit Agricole Personal Finance & Mobility",
    "titre": "Stage 2027       Consultant en organisation et stratégie junior       H/F",
    "vue_le": "2026-10-29"
@@ -85,22 +85,28 @@
    "vue_le": "2026-10-26"
   },
   "0c5b144982f62149": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Simon-Kucher",
    "titre": "Intern/Associate Consultant – Industrials (m/w/d)",
    "vue_le": "2026-10-28"
   },
   "0d414905a9257c23": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Marsh Agency",
    "titre": "Oliver Wyman - Core Consulting Group - Intern (m/f/d) - Zurich",
    "vue_le": "2026-11-12"
   },
   "0d57672d2872f5d3": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Capgemini Invent",
    "titre": "Consultante / Consultant Stratégie, Innovation & Expérience Client - Stage",
    "vue_le": "2026-10-31"
+  },
+  "0ec2b80a6e394f8f": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "ABB",
+   "titre": "Strategy & Business Development Intern f/m/d (80-100%)",
+   "vue_le": "2026-11-13"
   },
   "100ab8b95e2d3f6a": {
    "derniere_vue": "2026-11-07",
@@ -113,6 +119,12 @@
    "entreprise": "Artefact",
    "titre": "Intern - Media Consultant - Paris",
    "vue_le": "2026-10-28"
+  },
+  "10ed7c8031aa2ca3": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Capgemini Invent",
+   "titre": "Consultante/Consultant Sustainable Future - Stage",
+   "vue_le": "2026-11-13"
   },
   "13f151703cc0c91f": {
    "derniere_vue": "2026-10-28",
@@ -127,7 +139,7 @@
    "vue_le": "2026-10-28"
   },
   "15a515bd6021fb81": {
-   "derniere_vue": "2026-10-28",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Strategy consultant - Intern",
    "vue_le": "2026-10-20"
@@ -181,7 +193,7 @@
    "vue_le": "2026-10-26"
   },
   "202d4f52caab8be8": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Richemont",
    "titre": "China Affairs & Strategy Intern",
    "vue_le": "2026-10-28"
@@ -199,13 +211,13 @@
    "vue_le": "2026-10-28"
   },
   "22bcdd95c53d12df": {
-   "derniere_vue": "2026-11-05",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Nestlé Nespresso SA",
    "titre": "Stagiaire Ingénieur-e Digital Transformation & AI Agents",
    "vue_le": "2026-10-28"
   },
   "237b67003539fb3f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Wavestone",
    "titre": "AI Strategy & Business Transformation - Stage de fin d'études (H/F)",
    "vue_le": "2026-11-05"
@@ -217,7 +229,7 @@
    "vue_le": "2026-10-28"
   },
   "23dcdc9efd36b8ea": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Wavestone",
    "titre": "Stage de fin d'études - Consultant·e  Change Management",
    "vue_le": "2026-10-29"
@@ -229,19 +241,25 @@
    "vue_le": "2026-11-06"
   },
   "24002e26db876bda": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "EFESO Management Consultants",
    "titre": "Stage Consultant - stratégie des opérations & optimisation des performances (H/F)",
    "vue_le": "2026-10-30"
   },
+  "25a3a639188ad0e9": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "La Banque Postale",
+   "titre": "Stage - Consultant interne F/H",
+   "vue_le": "2026-11-13"
+  },
   "270ad0533d9ed5c1": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Danone",
    "titre": "STAGE - Chef(fe) de projet Transformation Digitale & Data Industrielle – Janvier 2027 (H/F)",
    "vue_le": "2026-10-26"
   },
   "272eb76fc0ee78fc": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage Conseil en Transformation F/H",
    "vue_le": "2026-10-26"
@@ -253,19 +271,19 @@
    "vue_le": "2026-10-30"
   },
   "2a1eb8e930633433": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Ailancy Advisory",
    "titre": "Consultant stagiaire Organisation et Management - Secteur Financier (H/F)",
    "vue_le": "2026-10-30"
   },
   "2aeab458329ccf58": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "KPMG France",
    "titre": "Consultant Stagiaire Secteur Public F/H",
    "vue_le": "2026-11-04"
   },
   "2b03424465cdd95f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Detecon",
    "titre": "Student Consultant - Digitalisierung öffentlicher Institutionen (all genders)",
    "vue_le": "2026-11-06"
@@ -283,7 +301,7 @@
    "vue_le": "2026-10-28"
   },
   "2c10fd9880df0a86": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Wavestone",
    "titre": "Stage de fin d'études - Consultant.e Cybersécurité Technique - Lyon",
    "vue_le": "2026-10-28"
@@ -295,7 +313,7 @@
    "vue_le": "2026-10-30"
   },
   "2f44f2e508843526": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Detecon",
    "titre": "Student Consultant - IT- und Enterprise Architecture (all genders)",
    "vue_le": "2026-11-01"
@@ -307,7 +325,7 @@
    "vue_le": "2026-10-28"
   },
   "30c35770d858604a": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "European Space Agency - ESA",
    "titre": "Intern in the Strategy Department - Strategy, Sustainability, and Strategic Foresight Tracks",
    "vue_le": "2026-11-06"
@@ -331,7 +349,7 @@
    "vue_le": "2026-10-28"
   },
   "32ecc2cd5e92a851": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Sopra Steria",
    "titre": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
    "vue_le": "2026-11-07"
@@ -343,13 +361,19 @@
    "vue_le": "2026-11-06"
   },
   "35aeb8fce3f8a824": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage de fin d'études - Monitor Deloitte - Conseil en Stratégie (F/H)",
    "vue_le": "2026-10-26"
   },
+  "368c830ceb40a6a7": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "PwC France",
+   "titre": "Stagiaire conseil santé– Industries, Etablissements et Politiques de Santé F/H",
+   "vue_le": "2026-11-13"
+  },
   "36bebe3062df6af9": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "AFRY",
    "titre": "Stage – Consultant en stratégie – Énergie",
    "vue_le": "2026-10-26"
@@ -373,31 +397,31 @@
    "vue_le": "2026-10-28"
   },
   "38965de569b5b58d": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Abbott",
    "titre": "Intern Strategy - Future Talent Program",
    "vue_le": "2026-10-28"
   },
   "391bceefeda8dc50": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Consultant(e) stagiaire",
    "vue_le": "2026-10-20"
   },
   "3a3771ff37f659d5": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Artefact",
    "titre": "Stage Data Consultant - Paris - H/F/X",
    "vue_le": "2026-10-28"
   },
   "3bc952e7d877f81d": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Renault Group",
    "titre": "CS27- Stage – BAC+5 – Consultant en stratégie et management - H/F",
    "vue_le": "2026-10-28"
   },
   "3c7cf9a2cabf4c4b": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "PwC France",
    "titre": "Stagiaire en transformation de la fonction Finance - Lyon - F/H",
    "vue_le": "2026-10-28"
@@ -415,7 +439,7 @@
    "vue_le": "2026-11-05"
   },
   "3ce113a33ab80d7a": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Crédit Agricole Personal Finance & Mobility",
    "titre": "Stage 2027           Consultant en organisation et stratégie junior       H/F",
    "vue_le": "2026-10-28"
@@ -425,6 +449,12 @@
    "entreprise": "Wüest Partner",
    "titre": "Graduate Programme: Real Estate Consulting - 12 Monate, Start 1. März 2027",
    "vue_le": "2026-11-05"
+  },
+  "3f1595e018aadfdc": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Havas International - Paris",
+   "titre": "Brand Strategy Consultant(e) Junior - F/H",
+   "vue_le": "2026-11-13"
   },
   "3fba61c1e8483d16": {
    "derniere_vue": "2026-10-20",
@@ -439,13 +469,13 @@
    "vue_le": "2026-10-26"
   },
   "43001b312d841574": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Capgemini Invent",
    "titre": "Consultante / Consultant Smart Plant - Stage",
    "vue_le": "2026-11-12"
   },
   "43482dca8ad2d3e5": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "KPMG France",
    "titre": "Consultant Stagiaire Secteur Public F/H",
    "vue_le": "2026-10-26"
@@ -457,7 +487,7 @@
    "vue_le": "2026-11-05"
   },
   "451132b0620bd3ff": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "EY-Parthenon",
    "titre": "Internship - Financial Services - EY Parthenon - Strategy & Execution",
    "vue_le": "2026-10-28"
@@ -469,7 +499,7 @@
    "vue_le": "2026-11-03"
   },
   "477920b24e7f7ff3": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Altman Solon",
    "titre": "Strategy Consulting Intern TMT (m/f/d)",
    "vue_le": "2026-10-26"
@@ -499,7 +529,7 @@
    "vue_le": "2026-10-28"
   },
   "4b9ea444e7f87d06": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Stage Associate consultant Healthcare & life sciences",
    "vue_le": "2026-10-20"
@@ -511,7 +541,7 @@
    "vue_le": "2026-11-07"
   },
   "4d57f417300dae57": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Alteca",
    "titre": "STAGE PFE - Business Analyst domaine Banque/Finance (H/F)",
    "vue_le": "2026-11-06"
@@ -541,16 +571,22 @@
    "vue_le": "2026-10-26"
   },
   "4ee40e66b74d5058": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "GROUPE FACTORIA",
    "titre": "Stagiaire Management, Conseil & Stratégie",
    "vue_le": "2026-10-26"
   },
   "4f0328aa43b7d014": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stagiaire Consultant(e)– Business Strategy (Industrie & Aéronautique) H/F",
    "vue_le": "2026-10-26"
+  },
+  "4f03490b73343e38": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "MASAÏ",
+   "titre": "Consultant stagiaire énergie/Consultante énergie",
+   "vue_le": "2026-11-13"
   },
   "50a582c3a759ee59": {
    "derniere_vue": "2026-11-01",
@@ -565,7 +601,7 @@
    "vue_le": "2026-10-28"
   },
   "531e3fd690d5e968": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Bloomco",
    "titre": "Stage - Talent & Strategy Consultant (Conseil)-Lille",
    "vue_le": "2026-11-07"
@@ -583,13 +619,13 @@
    "vue_le": "2026-10-28"
   },
   "5921f9c7311e0b20": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Avanade",
    "titre": "Stagiaire Digital Advisory – Change, IA & Transformation",
    "vue_le": "2026-10-28"
   },
   "5ae4430132a01c43": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Talan",
    "titre": "Talan - Consultant Stagiaire – Conseil en stratégie (H/F)",
    "vue_le": "2026-10-26"
@@ -637,13 +673,13 @@
    "vue_le": "2026-10-28"
   },
   "6027e29211287874": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "AlixPartners",
    "titre": "Praktikum im Consulting - Risk Advisory (m/w/d)",
    "vue_le": "2026-10-28"
   },
   "60aee5d079b1c74f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Abbott",
    "titre": "Intern Portfolio Strategy & Innovation - Future Talent Program",
    "vue_le": "2026-10-28"
@@ -660,6 +696,12 @@
    "titre": "STAGE - CONSULTANT MARKETING STRATEGY3 (F/H/NB)",
    "vue_le": "2026-10-29"
   },
+  "62552fe941cc7598": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "BDO Germany",
+   "titre": "Consultant Healthcare (w/m/d)",
+   "vue_le": "2026-11-13"
+  },
   "62f1a60b28db76e4": {
    "derniere_vue": "2026-11-05",
    "entreprise": "Migros Supermarkt AG",
@@ -667,25 +709,25 @@
    "vue_le": "2026-10-28"
   },
   "641380b30979db3b": {
-   "derniere_vue": "2026-10-29",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Dassault Systèmes",
    "titre": "STAGE - DELMIA Supply Chain Consultant Logiciel (F/H)",
    "vue_le": "2026-10-29"
   },
   "641c62ced6b3e486": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Kering",
    "titre": "KERING Strategy Analyst (stage)",
    "vue_le": "2026-11-06"
   },
   "6434a3393a7463f0": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Sopra Steria Next",
    "titre": "Stage - Consultant(e) - Transformation digitale en Aéronautique -Ile de France",
    "vue_le": "2026-11-06"
   },
   "64b3615cc2c01767": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "CGI Business Consulting",
    "titre": "Stage Conseil : Consultant(e) Télécommunication F/H",
    "vue_le": "2026-10-28"
@@ -703,19 +745,19 @@
    "vue_le": "2026-10-28"
   },
   "6a196efdcb2fd6f2": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "SAVENCIA",
    "titre": "Stagiaire à la direction Stratégie et Transformation (H/F/X)",
    "vue_le": "2026-10-27"
   },
   "6ac41212f668d280": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "ALTEN",
    "titre": "Stagiaire - Chargé de mission Stratégie Opé. Junior H/F",
    "vue_le": "2026-10-28"
   },
   "6bf22b8752790e0f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Protiviti France",
    "titre": "Stage de fin d’études Consultant H/F",
    "vue_le": "2026-10-30"
@@ -727,13 +769,13 @@
    "vue_le": "2026-10-28"
   },
   "6c642b4ccc7a823e": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Intern - Technology Strategy & Transformation",
    "vue_le": "2026-10-28"
   },
   "6cba7d05594f69ff": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Michelin",
    "titre": "Stage - Consultant Innovation Digital (F/H)",
    "vue_le": "2026-11-05"
@@ -745,13 +787,13 @@
    "vue_le": "2026-11-03"
   },
   "703e589c8f784e5e": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Altman Solon",
    "titre": "Strategy Consulting Intern TMT (m/f/d)",
    "vue_le": "2026-11-12"
   },
   "7094a3f7d39a5354": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Stage Consultant(e) en stratégie",
    "vue_le": "2026-10-20"
@@ -763,7 +805,7 @@
    "vue_le": "2026-10-28"
   },
   "744c9685861c660a": {
-   "derniere_vue": "2026-11-11",
+   "derniere_vue": "2026-11-13",
    "entreprise": "XPO Logistics",
    "titre": "Internship - Stratégie & Transformation (H/F)",
    "vue_le": "2026-10-26"
@@ -775,7 +817,7 @@
    "vue_le": "2026-10-28"
   },
   "75bef4e94b82ecd9": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "MENESTYS RECRUTEMENT",
    "titre": "Consultant Stratégie et Organisation - Stage - F/H",
    "vue_le": "2026-11-04"
@@ -811,7 +853,7 @@
    "vue_le": "2026-10-28"
   },
   "7a52d4ebe5f52e18": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "UBS",
    "titre": "2027 Internship – Digital Assets Strategy & Transformation – Zurich",
    "vue_le": "2026-10-28"
@@ -835,7 +877,7 @@
    "vue_le": "2026-10-28"
   },
   "7c6e3a6c0195d50e": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Assystem",
    "titre": "Ingénierie commerciale & Conseil en transformation digitale - Stage H/F",
    "vue_le": "2026-10-27"
@@ -847,13 +889,13 @@
    "vue_le": "2026-10-26"
   },
   "7d47f58e574b7b29": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Oderis",
    "titre": "Consultant(e) Stagiaire Evaluation",
    "vue_le": "2026-11-04"
   },
   "7da56b46c3b5a3b1": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Simon-Kucher",
    "titre": "Intern/Associate Consultant – Healthcare & Life Sciences (m/w/d)",
    "vue_le": "2026-11-12"
@@ -865,19 +907,19 @@
    "vue_le": "2026-11-05"
   },
   "7ef6d35dbb40aeb5": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Interpath",
    "titre": "Internship - Financial Restructuring I Consulting - Starting February 2027",
    "vue_le": "2026-11-12"
   },
   "7f8b9a6dd2e2d32f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "ADEO",
    "titre": "[STAGE] Business Analyst / Strategy Marketplace - Lille ou Paris - H/F",
    "vue_le": "2026-10-30"
   },
   "7faf034d6ccd2e5b": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Mendo",
    "titre": "Founder's Associate (Strategy & Operations) – Stage 6 mois",
    "vue_le": "2026-11-06"
@@ -901,13 +943,13 @@
    "vue_le": "2026-11-06"
   },
   "82a4d228523ea67a": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Asys",
    "titre": "STAGE - Stratégie et Customer Insight F/H",
    "vue_le": "2026-11-04"
   },
   "83029cb4383c9717": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "KPMG France",
    "titre": "Consultant - Stagiaire Evaluation et modélisation financière H/F",
    "vue_le": "2026-10-28"
@@ -918,6 +960,18 @@
    "titre": "CONSULTANT(E) STAGIAIRE EN STRATÉGIE, INNOVATION & PROSPECTIVE",
    "vue_le": "2026-10-29"
   },
+  "845c39b882b344ad": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Betty Bossi",
+   "titre": "Praktikum Food Consulting (w/m/d)",
+   "vue_le": "2026-11-13"
+  },
+  "84d1c1fdc5c95e60": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Oresys",
+   "titre": "Consultant en management/Consultante en management",
+   "vue_le": "2026-11-13"
+  },
   "851a4fbee78880eb": {
    "derniere_vue": "2026-11-05",
    "entreprise": "Migros Supermarkt AG",
@@ -925,7 +979,7 @@
    "vue_le": "2026-10-28"
   },
   "85cf2b11501739c4": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Saegus",
    "titre": "Consultant.e Adoption des usages IA – Stage de fin d'études",
    "vue_le": "2026-11-05"
@@ -954,11 +1008,23 @@
    "titre": "Praktikum im Consulting - Turnaround & Restructuring (m/w/d)",
    "vue_le": "2026-10-28"
   },
+  "8a6e633ff4a548af": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Ipsen",
+   "titre": "Stagiaire Stratégie et Transformation",
+   "vue_le": "2026-11-13"
+  },
   "8b5225ad37c7ffb8": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Mews Partners",
    "titre": "Consultant(e) stagiaire en Transformations des Organisations (F/H)",
    "vue_le": "2026-11-06"
+  },
+  "8b6b02b5f6058cc5": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Mondial Relay",
+   "titre": "Business Analyst RH Digital & IA STAGE (H/F)",
+   "vue_le": "2026-11-13"
   },
   "8bbfa25dbb670267": {
    "derniere_vue": "2026-11-04",
@@ -967,13 +1033,13 @@
    "vue_le": "2026-10-30"
   },
   "8c3d1be1c9dbb8d4": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Artimon",
    "titre": "Stage (M2) Consultant(e) en transformation - Transport et Mobilités",
    "vue_le": "2026-11-12"
   },
   "8d78267fcc4059ba": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Magellan",
    "titre": "Stage - consultant fonctionnel f/h",
    "vue_le": "2026-11-04"
@@ -991,31 +1057,31 @@
    "vue_le": "2026-10-28"
   },
   "8f9388bf50612d1f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage de fin d’études – Conseil Transformation Finance (H/F)",
    "vue_le": "2026-10-26"
   },
   "8fd6301c173723c6": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Simon-Kucher",
    "titre": "Associate Consultant (m/f/d) - Stage de fin d'études - TSPE",
    "vue_le": "2026-10-31"
   },
   "9336e9b26b61926b": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Talisker",
    "titre": "Consultant(e) en Management & Organisation - Stage",
    "vue_le": "2026-11-03"
   },
   "93c22ca844bfb84c": {
-   "derniere_vue": "2026-11-03",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Hermès",
    "titre": "Stage - Consultant Junior Conseil Interne (H/F)",
    "vue_le": "2026-10-28"
   },
   "9422b27804d1b3c4": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Caisse d'Epargne Hauts de France",
    "titre": "Stage – Stratégie &amp; Développement International (H/F)",
    "vue_le": "2026-10-26"
@@ -1032,8 +1098,20 @@
    "titre": "Stage : Consultant en montage de projets nationaux et européens H/F",
    "vue_le": "2026-10-27"
   },
+  "954d206642e01c90": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "WEMEAN",
+   "titre": "Stagiaire Consultant(e) en stratégie, communication et transformation",
+   "vue_le": "2026-11-13"
+  },
+  "9582786a6b5f722e": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Swiss International Air Lines",
+   "titre": "Internship in Ancillary & Offer Strategy and Business Development (limited 6 months, 80-100%, all genders)",
+   "vue_le": "2026-11-13"
+  },
   "96d28a158f7dca8e": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Intern - Technology Strategy & Transformation",
    "vue_le": "2026-10-28"
@@ -1045,7 +1123,7 @@
    "vue_le": "2026-10-26"
   },
   "989018853b31d58f": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Associate Consultant Intern",
    "vue_le": "2026-10-20"
@@ -1057,13 +1135,13 @@
    "vue_le": "2026-10-26"
   },
   "9a98f3dfa9a10792": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "SECAFI",
    "titre": "Stage - Consultant en finance et comptabilité - Lille (H/F)",
    "vue_le": "2026-10-28"
   },
   "9b7a179e2c3f6d04": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Bloomco",
    "titre": "Stage - Talent & Strategy Consultant (Conseil)-Lyon",
    "vue_le": "2026-11-07"
@@ -1075,7 +1153,7 @@
    "vue_le": "2026-10-29"
   },
   "9b9688c91d1d7644": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Junior Associate Consultant – Digital & AI Strategy - STAGE",
    "vue_le": "2026-10-20"
@@ -1093,7 +1171,7 @@
    "vue_le": "2026-10-28"
   },
   "9d7a18920d341305": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "CEVA Logistics",
    "titre": "INTERNSHIP - Global Strategic Planning & Performance - January 2027 La Défense (strategy role)",
    "vue_le": "2026-10-29"
@@ -1111,13 +1189,13 @@
    "vue_le": "2026-10-26"
   },
   "a2e4f2a716d3c281": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Stagiaire Consultant en stratégie (stage de 2ème partie de césure) (H/F)",
    "vue_le": "2026-10-20"
   },
   "a327023c39b9bdaa": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Onepoint",
    "titre": "Stage de fin d'études - Consultant en stratégie opérationnelle F/H",
    "vue_le": "2026-10-26"
@@ -1165,13 +1243,13 @@
    "vue_le": "2026-10-28"
   },
   "aa19dbcb4c258bfb": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Capgemini Invent",
    "titre": "Consultante / Consultant Entreprise Transformation - Stage",
    "vue_le": "2026-10-28"
   },
   "aa29fc46395c6ef4": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Dynergie",
    "titre": "Stage - Consultant(e) en stratégie d'innovation (Paris)",
    "vue_le": "2026-10-26"
@@ -1231,7 +1309,7 @@
    "vue_le": "2026-11-09"
   },
   "b299dbc46aa3865f": {
-   "derniere_vue": "2026-10-30",
+   "derniere_vue": "2026-11-13",
    "entreprise": "PHOTOSOL",
    "titre": "Stage - Analyste Stratégie (F/H)",
    "vue_le": "2026-10-30"
@@ -1243,13 +1321,13 @@
    "vue_le": "2026-10-26"
   },
   "b3259df61632d05a": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Swiss International Air Lines",
    "titre": "Hochschulpraktikant:in Business Analytics Cabin Strategy (befristet bis 6 Monate, 80-100%, alle Geschlechter)",
    "vue_le": "2026-11-03"
   },
   "b34e6fe504aba414": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "zeb consulting",
    "titre": "Praktikum Consulting für Banken & Versicherungen",
    "vue_le": "2026-10-28"
@@ -1267,7 +1345,7 @@
    "vue_le": "2026-10-28"
   },
   "b6242bb7b059729a": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Capgemini Invent",
    "titre": "Consultante / Consultant Manufacturing Automotive & Life Sciences - Stage",
    "vue_le": "2026-11-12"
@@ -1278,8 +1356,14 @@
    "titre": "Benefits and Engagement Strategy Team",
    "vue_le": "2026-10-28"
   },
+  "b8546793dd4df157": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "UBS",
+   "titre": "2027 Internship – Group Internal Consulting – Zurich",
+   "vue_le": "2026-11-13"
+  },
   "b8e3b64448936d0b": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Sopra Steria Next",
    "titre": "Stage - Consultant(e) transformation digitale - Lyon",
    "vue_le": "2026-10-28"
@@ -1290,14 +1374,20 @@
    "titre": "STAGE 6M : Chargé / Chargée de mission Stratégie de la Banque des Territoires",
    "vue_le": "2026-10-27"
   },
+  "b9f5214f10661347": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Agnostic Intelligence",
+   "titre": "Junior IT Security Consultant (m/w/d)- 100%",
+   "vue_le": "2026-11-13"
+  },
   "baacd05bb6131537": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "ABB",
    "titre": "Strategy & Business Development Intern f/m/d (80-100%)",
    "vue_le": "2026-11-12"
   },
   "bb921f57c99046b8": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "EY",
    "titre": "Quant & Analytics Intern   -   Financial Services Risk Consulting",
    "vue_le": "2026-10-28"
@@ -1321,13 +1411,19 @@
    "vue_le": "2026-10-31"
   },
   "be252ae86023394f": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "EY",
    "titre": "Intern - Consulting - Technology Strategy and Transformation",
    "vue_le": "2026-10-31"
   },
+  "be36e78ad9f0c73a": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Richemont",
+   "titre": "Digital Logistics Business Analyst Intern",
+   "vue_le": "2026-11-13"
+  },
   "be6387ac4363a498": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Sideby",
    "titre": "Stagiaire Consultant(e) – Fin d'études (H/F) - Paris & Lyon",
    "vue_le": "2026-10-28"
@@ -1344,14 +1440,26 @@
    "titre": "Stage Consultant Junior Customer Experience & Service Transformation - F/H Paris",
    "vue_le": "2026-11-06"
   },
+  "c0229d8aca935d1e": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Deloitte",
+   "titre": "Stage Consultant en Stratégie Digitale, Expérience Client & IA générative - F/H",
+   "vue_le": "2026-11-13"
+  },
+  "c120da6d0176b983": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "RMS",
+   "titre": "Stage - Business & Strategy Project Assistant",
+   "vue_le": "2026-11-13"
+  },
   "c18cebb0da159639": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Wavestone",
    "titre": "Stage de fin d'études - Consultant.e Data/IA - Lyon",
    "vue_le": "2026-10-28"
   },
   "c25769758b4ab223": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Devoteam Digital Impulse",
    "titre": "Consultant en Transformation Digitale - Stage de fin d'études (H/F)",
    "vue_le": "2026-11-03"
@@ -1363,31 +1471,43 @@
    "vue_le": "2026-10-28"
   },
   "c43d0d406d808492": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Stagiaire Consultant en stratégie (stage de fin d’études) (H/F)",
    "vue_le": "2026-10-20"
   },
+  "c4a1a1bd7dba6060": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "ABB",
+   "titre": "Strategy & Business Development Intern f/m/d (80-100%)",
+   "vue_le": "2026-11-13"
+  },
   "c68d966ed16a654e": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Artefact",
    "titre": "Intern SMA Consultant - Paris",
    "vue_le": "2026-11-06"
   },
+  "c6a283b07fdf68c8": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "ABGi France",
+   "titre": "Stage : Consultant Scientifique en Innovation- Spécialisation IT H/F",
+   "vue_le": "2026-11-13"
+  },
   "c6c6fa1601c460ec": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Sia",
    "titre": "Final Year Internship Consultant - Energy, Transport & Manufacturing",
    "vue_le": "2026-10-26"
   },
   "c72ab42c16a53ab7": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Thales",
    "titre": "STAGE - Consultant en transformation IA (H/F)",
    "vue_le": "2026-10-28"
   },
   "c75323b1e3567db3": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage de fin d’études Strategy & Business Design (FSI / Payments) F/H",
    "vue_le": "2026-10-28"
@@ -1399,13 +1519,13 @@
    "vue_le": "2026-10-28"
   },
   "c7f0e7436eac7b36": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Accenture France",
    "titre": "Stage Consultant – Strategic Technology Effectiveness – Paris",
    "vue_le": "2026-11-11"
   },
   "c7f1385cfdd628ed": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Eramet",
    "titre": "Stage Strategy & Business Development BU Manganese Allows - F/H",
    "vue_le": "2026-11-07"
@@ -1415,6 +1535,12 @@
    "entreprise": "Almond",
    "titre": "Stage - Consultant(e) cybersécurité et résilience H/F",
    "vue_le": "2026-10-30"
+  },
+  "c985698603b943f6": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Abeille Assurances",
+   "titre": "Chargé(e) de mission Stratégie et M&A (H/F) - Stage",
+   "vue_le": "2026-11-13"
   },
   "ca0c83517324d6c8": {
    "derniere_vue": "2026-11-09",
@@ -1427,6 +1553,12 @@
    "entreprise": "Wavestone",
    "titre": "Stage de fin d'études - Consultant·e  Change Management",
    "vue_le": "2026-10-28"
+  },
+  "cfc2a5ee73068ac7": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Swiss Life Asset Managers",
+   "titre": "Internship Infrastructure Private Equity - Value-add Strategy (6 months, start January 2027 or earlier )",
+   "vue_le": "2026-11-13"
   },
   "d028cf097829871f": {
    "derniere_vue": "2026-11-07",
@@ -1441,7 +1573,7 @@
    "vue_le": "2026-10-28"
   },
   "d0fd53fcfaf07e2a": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Bartle",
    "titre": "Stage Consultant en Transformation H/F",
    "vue_le": "2026-11-03"
@@ -1459,25 +1591,31 @@
    "vue_le": "2026-10-30"
   },
   "d66fe386959c8849": {
-   "derniere_vue": "2026-10-26",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Europ Assistance",
    "titre": "Stage - Conseil en Stratégie, Transformation et IA H/F",
    "vue_le": "2026-10-26"
   },
   "d6d2b3171477004a": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Stage Consultant en Transformation/Stratégie Paris & Lille H/F",
    "vue_le": "2026-10-20"
   },
+  "d6e15caf2ec03013": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Carrefour",
+   "titre": "Analyste stratégie & performance (F/H) - en stage",
+   "vue_le": "2026-11-13"
+  },
   "d8db7db5a06edf6c": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Pasqal",
    "titre": "Strategy & Corporate Development Internship",
    "vue_le": "2026-10-28"
   },
   "d9f120b7d5d4b1ee": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Colombus Consulting",
    "titre": "Consultant.e Stagiaire - Banque & Services Financiers (F/H)",
    "vue_le": "2026-10-28"
@@ -1493,6 +1631,12 @@
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "Strategy Transformation Internship Program - June 2025 start",
    "vue_le": "2026-10-20"
+  },
+  "dc2d5368b101534b": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "ABGi France",
+   "titre": "Stage : Consultant Scientifique en Innovation - Spé Mécanique H/F",
+   "vue_le": "2026-11-13"
   },
   "dc7930d31aa3d54f": {
    "derniere_vue": "2026-10-28",
@@ -1512,8 +1656,14 @@
    "titre": "Consultante / Consultant Manufacturing Automotive & Life Sciences - Stage",
    "vue_le": "2026-11-03"
   },
+  "e041ac32d244fd16": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Diptyque Paris",
+   "titre": "Stage - Assistant Stratégie & Business Performance H/F",
+   "vue_le": "2026-11-13"
+  },
   "e14a1e92db96843d": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Capgemini Invent",
    "titre": "Strategy & Transformation Associate Consultant - Intern",
    "vue_le": "2026-10-28"
@@ -1525,10 +1675,16 @@
    "vue_le": "2026-10-28"
   },
   "e2f299e948764bd5": {
-   "derniere_vue": "2026-11-05",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Simon-Kucher",
    "titre": "Associate Consultant (m/f/d) - Stage de fin d'études",
    "vue_le": "2026-11-04"
+  },
+  "e349d2a44ace05ae": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Audi Revolut F1 Team",
+   "titre": "Intern Commercial Strategy",
+   "vue_le": "2026-11-13"
   },
   "e3a3caa9bb5fc618": {
    "derniere_vue": "2026-11-06",
@@ -1537,19 +1693,19 @@
    "vue_le": "2026-10-26"
   },
   "e3e134a812b14ec8": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Accenture France",
    "titre": "Consultant fonctionnel PLM en stage F/H - Paris",
    "vue_le": "2026-11-12"
   },
   "e56c8b7be5dba1d4": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "MSC Cruises",
    "titre": "Strategy Intern - Organisational Development",
    "vue_le": "2026-10-28"
   },
   "e71ec7ce389d4ca1": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Sia",
    "titre": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
    "vue_le": "2026-10-28"
@@ -1559,6 +1715,12 @@
    "entreprise": "Interpath",
    "titre": "Internship - Financial Restructuring I Consulting - Starting February 2027",
    "vue_le": "2026-11-05"
+  },
+  "e7d41e1adbc1b6df": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "ABB",
+   "titre": "Strategy & Business Development Intern f/m/d (80-100%)",
+   "vue_le": "2026-11-13"
   },
   "e88fc0757a01f971": {
    "derniere_vue": "2026-11-04",
@@ -1573,7 +1735,7 @@
    "vue_le": "2026-10-28"
   },
   "ebecda39dfa35ad1": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Marsh Agency",
    "titre": "Oliver Wyman - Core Consulting Group - Entry-level Consultant (m/f/d) - Zurich",
    "vue_le": "2026-11-12"
@@ -1585,7 +1747,7 @@
    "vue_le": "2026-10-28"
   },
   "ef7800d9c09fbc00": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage Conseil : Solutions d'entreprises - SAP F/H",
    "vue_le": "2026-10-29"
@@ -1603,7 +1765,7 @@
    "vue_le": "2026-10-28"
   },
   "f1bf96934c2c402c": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "CGI Business Consulting",
    "titre": "Stage Conseil : Consultant(e) CFO Advisory F/H",
    "vue_le": "2026-10-31"
@@ -1621,13 +1783,13 @@
    "vue_le": "2026-11-04"
   },
   "f392c8f3feb45ef4": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Capgemini Invent",
    "titre": "Consultante / Consultant Transformation Digitale IT - Stage",
    "vue_le": "2026-11-03"
   },
   "f51ab768e4606d5d": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage de fin d’études – Conseil Techno & Gestion de projet (H/F)",
    "vue_le": "2026-10-26"
@@ -1645,49 +1807,61 @@
    "vue_le": "2026-10-28"
   },
   "f64a223e844b5e24": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "BDO France",
    "titre": "Stagiaire Consultant en Stratégie pôle Aviation- F/H",
    "vue_le": "2026-10-28"
   },
   "f680d2283c8c0c3d": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Hello Tomorrow",
    "titre": "Deep Tech & Innovation Consulting Intern",
    "vue_le": "2026-11-03"
   },
+  "f712dd1bff4ea46e": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Jung von Matt IMPACT",
+   "titre": "Trainee Digital Media Consultant",
+   "vue_le": "2026-11-13"
+  },
+  "f720eeae27a99fe8": {
+   "derniere_vue": "2026-11-13",
+   "entreprise": "Emerton",
+   "titre": "Strategy Consultant (Internship)",
+   "vue_le": "2026-11-13"
+  },
   "f72e932ccd75fa29": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Artimon",
    "titre": "Stage (M2) Consultant(e) en transformation - Organisation et digital",
    "vue_le": "2026-11-12"
   },
   "f7f4cee48c7a3d30": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Accenture France",
    "titre": "Consultant SAP Supply Chain en stage - F/H Paris",
    "vue_le": "2026-10-28"
   },
   "f951f887944b73f9": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Onepoint",
    "titre": "Stage de fin d'études - Consultant Stratégie IA F/H",
    "vue_le": "2026-11-03"
   },
   "f9b76e5fe2357c03": {
-   "derniere_vue": "2026-11-07",
+   "derniere_vue": "2026-11-13",
    "entreprise": "MBDA",
    "titre": "Stage Stratégie : R&T Capture Plan France F/H",
    "vue_le": "2026-10-28"
   },
   "fbe324474646a3b4": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stagiaire Stratégie IT - Organisation et Performance de la DSI F/H",
    "vue_le": "2026-11-05"
   },
   "fc5a10df48ad61d7": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Deloitte",
    "titre": "Stage Consultant IA & Business Transformation F/H",
    "vue_le": "2026-10-28"
@@ -1699,13 +1873,13 @@
    "vue_le": "2026-10-26"
   },
   "fcd12b41eb350c40": {
-   "derniere_vue": "2026-11-12",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Cabinet (voir l'offre)",
    "titre": "STAGE – Consultant CIB Consulting (H/F) – 6 mois",
    "vue_le": "2026-10-20"
   },
   "fdc1eef3194a0732": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-13",
    "entreprise": "Porsche Consulting",
    "titre": "Associate Consultant Intern (H/F)",
    "vue_le": "2026-11-07"
