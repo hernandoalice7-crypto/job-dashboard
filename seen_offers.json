@@ -3,12 +3,38 @@
   "004673f1095e99a2": {
    "derniere_vue": "2026-11-15",
    "entreprise": "EY",
+   "offre": {
+    "company": "EY",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Bâle, Bâle, Suisse",
+    "published": "2026-11-15",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship in Mobility Consulting - Swiss & International TAX",
+    "url": "https://ch.linkedin.com/jobs/view/internship-in-mobility-consulting-swiss-international-tax-at-ey-4465176211"
+   },
    "titre": "Internship in Mobility Consulting - Swiss & International TAX",
    "vue_le": "2026-10-28"
   },
   "01923e2c10d09194": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Inddigo",
+   "offre": {
+    "company": "Inddigo",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage en Stratégie mobilité et conception cyclable H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-en-strat%C3%A9gie-mobilit%C3%A9-et-conception-cyclable-h-f-at-inddigo-4481763011"
+   },
    "titre": "Stage en Stratégie mobilité et conception cyclable H/F",
    "vue_le": "2026-10-27"
   },
@@ -33,6 +59,19 @@
   "0319832d9003d823": {
    "derniere_vue": "2026-11-15",
    "entreprise": "OPTEVEN ASSURANCES",
+   "offre": {
+    "company": "OPTEVEN ASSURANCES",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Villeurbanne",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Assistant Performance/Business Analyst (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-assistant-performance-business-analyst-f-h-at-opteven-assurances-4485202307"
+   },
    "titre": "Stage Assistant Performance/Business Analyst (F/H)",
    "vue_le": "2026-11-15"
   },
@@ -63,6 +102,19 @@
   "0940bfe3c5d4ff5d": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Crédit Agricole Personal Finance & Mobility",
+   "offre": {
+    "company": "Crédit Agricole Personal Finance & Mobility",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Massy",
+    "published": "2026-10-21",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage 2027       Consultant en organisation et stratégie junior       H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-2027-consultant-en-organisation-et-strat%C3%A9gie-junior-h-f-at-cr%C3%A9dit-agricole-personal-finance-mobility-4482097333"
+   },
    "titre": "Stage 2027       Consultant en organisation et stratégie junior       H/F",
    "vue_le": "2026-10-29"
   },
@@ -81,6 +133,19 @@
   "0c1949b9930c8aae": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-10-28",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern - Customer Strategy & Design",
+    "url": "https://ch.linkedin.com/jobs/view/intern-customer-strategy-design-at-deloitte-4484460239"
+   },
    "titre": "Intern - Customer Strategy & Design",
    "vue_le": "2026-10-30"
   },
@@ -93,18 +158,57 @@
   "0c5b144982f62149": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Simon-Kucher",
+   "offre": {
+    "company": "Simon-Kucher",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-07",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern/Associate Consultant – Industrials (m/w/d)",
+    "url": "https://ch.linkedin.com/jobs/view/intern-associate-consultant-%E2%80%93-industrials-m-w-d-at-simon-kucher-4470136556"
+   },
    "titre": "Intern/Associate Consultant – Industrials (m/w/d)",
    "vue_le": "2026-10-28"
   },
   "0d414905a9257c23": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Marsh Agency",
+   "offre": {
+    "company": "Marsh Agency",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Oliver Wyman - Core Consulting Group - Intern (m/f/d) - Zurich",
+    "url": "https://ch.linkedin.com/jobs/view/oliver-wyman-core-consulting-group-intern-m-f-d-zurich-at-marsh-agency-4489999571"
+   },
    "titre": "Oliver Wyman - Core Consulting Group - Intern (m/f/d) - Zurich",
    "vue_le": "2026-11-12"
   },
   "0d57672d2872f5d3": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-10-30",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Stratégie, Innovation & Expérience Client - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-strat%C3%A9gie-innovation-exp%C3%A9rience-client-stage-at-capgemini-invent-4485364045"
+   },
    "titre": "Consultante / Consultant Stratégie, Innovation & Expérience Client - Stage",
    "vue_le": "2026-10-31"
   },
@@ -165,6 +269,19 @@
   "18b4163fd8e60e6c": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Sia",
+   "offre": {
+    "company": "Sia",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
+    "url": "https://fr.linkedin.com/jobs/view/final-year-internship-consultant-transport-manufacturing-retail-at-sia-4490723857"
+   },
    "titre": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
    "vue_le": "2026-11-14"
   },
@@ -207,6 +324,19 @@
   "202d4f52caab8be8": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Richemont",
+   "offre": {
+    "company": "Richemont",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Bellevue, Genève, Suisse",
+    "published": "2026-11-08",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "China Affairs & Strategy Intern",
+    "url": "https://ch.linkedin.com/jobs/view/china-affairs-strategy-intern-at-richemont-4434355016"
+   },
    "titre": "China Affairs & Strategy Intern",
    "vue_le": "2026-10-28"
   },
@@ -231,6 +361,19 @@
   "237b67003539fb3f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Wavestone",
+   "offre": {
+    "company": "Wavestone",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Puteaux",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "AI Strategy & Business Transformation - Stage de fin d'études (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/ai-strategy-business-transformation-stage-de-fin-d-%C3%A9tudes-h-f-at-wavestone-4485500465"
+   },
    "titre": "AI Strategy & Business Transformation - Stage de fin d'études (H/F)",
    "vue_le": "2026-11-05"
   },
@@ -243,6 +386,19 @@
   "23dcdc9efd36b8ea": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Wavestone",
+   "offre": {
+    "company": "Wavestone",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d'études - Consultant·e  Change Management",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant%C2%B7e-change-management-at-wavestone-4482511741"
+   },
    "titre": "Stage de fin d'études - Consultant·e  Change Management",
    "vue_le": "2026-10-29"
   },
@@ -255,24 +411,76 @@
   "24002e26db876bda": {
    "derniere_vue": "2026-11-15",
    "entreprise": "EFESO Management Consultants",
+   "offre": {
+    "company": "EFESO Management Consultants",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Ville de Paris",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant - stratégie des opérations & optimisation des performances (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-strat%C3%A9gie-des-op%C3%A9rations-optimisation-des-performances-h-f-at-efeso-management-consultants-4384849435"
+   },
    "titre": "Stage Consultant - stratégie des opérations & optimisation des performances (H/F)",
    "vue_le": "2026-10-30"
   },
   "25a3a639188ad0e9": {
    "derniere_vue": "2026-11-15",
    "entreprise": "La Banque Postale",
+   "offre": {
+    "company": "La Banque Postale",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant interne F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-interne-f-h-at-la-banque-postale-4487010026"
+   },
    "titre": "Stage - Consultant interne F/H",
    "vue_le": "2026-11-13"
   },
   "270ad0533d9ed5c1": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Danone",
+   "offre": {
+    "company": "Danone",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Steenvoorde",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "STAGE - Chef(fe) de projet Transformation Digitale & Data Industrielle – Janvier 2027 (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-chef-fe-de-projet-transformation-digitale-data-industrielle-%E2%80%93-janvier-2027-h-f-at-danone-4482084896"
+   },
    "titre": "STAGE - Chef(fe) de projet Transformation Digitale & Data Industrielle – Janvier 2027 (H/F)",
    "vue_le": "2026-10-26"
   },
   "272eb76fc0ee78fc": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-14",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Conseil en Transformation F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-conseil-en-transformation-f-h-at-deloitte-4207107846"
+   },
    "titre": "Stage Conseil en Transformation F/H",
    "vue_le": "2026-10-26"
   },
@@ -285,18 +493,57 @@
   "2a1eb8e930633433": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Ailancy Advisory",
+   "offre": {
+    "company": "Ailancy Advisory",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-10-29",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant stagiaire Organisation et Management - Secteur Financier (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-stagiaire-organisation-et-management-secteur-financier-h-f-at-ailancy-4484999052"
+   },
    "titre": "Consultant stagiaire Organisation et Management - Secteur Financier (H/F)",
    "vue_le": "2026-10-30"
   },
   "2aeab458329ccf58": {
    "derniere_vue": "2026-11-15",
    "entreprise": "KPMG France",
+   "offre": {
+    "company": "KPMG France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Courbevoie",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant Stagiaire Secteur Public F/H",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-stagiaire-secteur-public-f-h-at-kpmg-france-4486841646"
+   },
    "titre": "Consultant Stagiaire Secteur Public F/H",
    "vue_le": "2026-11-04"
   },
   "2b03424465cdd95f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Detecon",
+   "offre": {
+    "company": "Detecon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Suisse",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Student Consultant - Digitalisierung öffentlicher Institutionen (all genders)",
+    "url": "https://ch.linkedin.com/jobs/view/student-consultant-digitalisierung-%C3%B6ffentlicher-institutionen-all-genders-at-detecon-4486775033"
+   },
    "titre": "Student Consultant - Digitalisierung öffentlicher Institutionen (all genders)",
    "vue_le": "2026-11-06"
   },
@@ -315,6 +562,19 @@
   "2c10fd9880df0a86": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Wavestone",
+   "offre": {
+    "company": "Wavestone",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Villeurbanne",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d'études - Consultant.e Cybersécurité Technique - Lyon",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-e-cybers%C3%A9curit%C3%A9-technique-lyon-at-wavestone-4413160112"
+   },
    "titre": "Stage de fin d'études - Consultant.e Cybersécurité Technique - Lyon",
    "vue_le": "2026-10-28"
   },
@@ -327,24 +587,76 @@
   "2f44f2e508843526": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Detecon",
+   "offre": {
+    "company": "Detecon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Suisse",
+    "published": "2026-10-19",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Student Consultant - IT- und Enterprise Architecture (all genders)",
+    "url": "https://ch.linkedin.com/jobs/view/student-consultant-it-und-enterprise-architecture-all-genders-at-detecon-4480228138"
+   },
    "titre": "Student Consultant - IT- und Enterprise Architecture (all genders)",
    "vue_le": "2026-11-01"
   },
   "30b870d922b89f45": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Leyton",
+   "offre": {
+    "company": "Leyton",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage PFE Master 2 - Consultant(e) Performance Environnementale H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-pfe-master-2-consultant-e-performance-environnementale-h-f-at-leyton-4480354135"
+   },
    "titre": "Stage PFE Master 2 - Consultant(e) Performance Environnementale H/F",
    "vue_le": "2026-10-28"
   },
   "30c35770d858604a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "European Space Agency - ESA",
+   "offre": {
+    "company": "European Space Agency - ESA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-01",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern in the Strategy Department - Strategy, Sustainability, and Strategic Foresight Tracks",
+    "url": "https://fr.linkedin.com/jobs/view/intern-in-the-strategy-department-strategy-sustainability-and-strategic-foresight-tracks-at-european-space-agency-esa-4485186205"
+   },
    "titre": "Intern in the Strategy Department - Strategy, Sustainability, and Strategic Foresight Tracks",
    "vue_le": "2026-11-06"
   },
   "3190a8183948ae75": {
    "derniere_vue": "2026-11-15",
    "entreprise": "On",
+   "offre": {
+    "company": "On",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern - Functional Consulting",
+    "url": "https://ch.linkedin.com/jobs/view/intern-functional-consulting-at-on-4490529948"
+   },
    "titre": "Intern - Functional Consulting",
    "vue_le": "2026-11-14"
   },
@@ -357,6 +669,19 @@
   "31dddc97bba0cea6": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Crédit Agricole Technologies et Services",
+   "offre": {
+    "company": "Crédit Agricole Technologies et Services",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-30",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Business Analyst - Crédits Agri-Pro & Entreprises (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-business-analyst-cr%C3%A9dits-agri-pro-entreprises-f-h-at-cr%C3%A9dit-agricole-technologies-et-services-4483463853"
+   },
    "titre": "Stage - Business Analyst - Crédits Agri-Pro & Entreprises (F/H)",
    "vue_le": "2026-11-14"
   },
@@ -369,6 +694,19 @@
   "32a4f2aec27aeba5": {
    "derniere_vue": "2026-11-15",
    "entreprise": "UBS",
+   "offre": {
+    "company": "UBS",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "2026 Internship - GWM Transformation - ZH",
+    "url": "https://ch.linkedin.com/jobs/view/2026-internship-gwm-transformation-zh-at-ubs-4472737820"
+   },
    "titre": "2026 Internship - GWM Transformation - ZH",
    "vue_le": "2026-10-28"
   },
@@ -381,6 +719,19 @@
   "34b7a1303a343ed3": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Sia",
+   "offre": {
+    "company": "Sia",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Final Year Internship Consultant - Energy, Transport & Manufacturing",
+    "url": "https://fr.linkedin.com/jobs/view/final-year-internship-consultant-energy-transport-manufacturing-at-sia-4490730687"
+   },
    "titre": "Final Year Internship Consultant - Energy, Transport & Manufacturing",
    "vue_le": "2026-11-14"
   },
@@ -393,18 +744,57 @@
   "35aeb8fce3f8a824": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d'études - Monitor Deloitte - Conseil en Stratégie (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-monitor-deloitte-conseil-en-strat%C3%A9gie-f-h-at-deloitte-4225890280"
+   },
    "titre": "Stage de fin d'études - Monitor Deloitte - Conseil en Stratégie (F/H)",
    "vue_le": "2026-10-26"
   },
   "368c830ceb40a6a7": {
    "derniere_vue": "2026-11-15",
    "entreprise": "PwC France",
+   "offre": {
+    "company": "PwC France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Neuilly-sur-Seine",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire conseil santé– Industries, Etablissements et Politiques de Santé F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-conseil-sant%C3%A9%E2%80%93-industries-etablissements-et-politiques-de-sant%C3%A9-f-h-at-pwc-france-4490348997"
+   },
    "titre": "Stagiaire conseil santé– Industries, Etablissements et Politiques de Santé F/H",
    "vue_le": "2026-11-13"
   },
   "36bebe3062df6af9": {
    "derniere_vue": "2026-11-15",
    "entreprise": "AFRY",
+   "offre": {
+    "company": "AFRY",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-07",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage – Consultant en stratégie – Énergie",
+    "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-consultant-en-strat%C3%A9gie-%E2%80%93-%C3%A9nergie-at-afry-4480510205"
+   },
    "titre": "Stage – Consultant en stratégie – Énergie",
    "vue_le": "2026-10-26"
   },
@@ -435,24 +825,76 @@
   "391bceefeda8dc50": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Strategia Partners",
+    "contract": "stage",
+    "description": "Paris Consultant(e) stragiaire Entreprise Strategia Partners est un cabinet international de conseil en stratégie avec des bureaux à Paris, Zurich, New York et Shanghai. Strategia Partners accompagne les directions générales des grands groupes dans leurs stratégies de croissance et d'allocation de ressources, ainsi que les fonds d'investissement et leurs participations dans leurs projets stratégiques. Strategia Partners possède une expertise approfondie dans des domaines variés tels que les biens de grande consommation, le luxe, la santé, les nouvelles technologies, les services aux entreprises, l'énergie et la mobilité. Poste Nous sommes un cabinet de conseil dynamique et en forte croissance, en France comme à l'international . Nous offrons à cet égard des évolutions de carrière rapides ainsi qu’une forte exposition client . Vous accompagnerez nos clients dans l’élaboration et la mise en œuvre de leur stratégie, en France et à l’étranger. Vous réaliserez et présenterez différents types d’analyses permettant de répondre aux défis stratégiques et d’identifier les opportunités de croissance de nos clients. Vous serez notamment exposé(e) à des analyses de marché, concurrentielles, économiques, de modèles d'activité et d'options stratégiques. Vous participerez aux réunions en interne et aux réunions clients, avec des déplacements en France et à l’étranger à prévoir. Profil Vous êtes diplômé(e) d’une Grande Ecole de commerce ou d’ingénieurs (HEC, ESCP, ESSEC, Polytechnique, Centra",
+    "duration_months": 0,
+    "location": "Strategia Partners - Consultant(e) stagiaire",
+    "published": "2026-05-15",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Consultant(e) stagiaire",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/consultant-e-stagiaire"
+   },
    "titre": "Consultant(e) stagiaire",
    "vue_le": "2026-10-20"
   },
   "3a3771ff37f659d5": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Artefact",
+   "offre": {
+    "company": "Artefact",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Data Consultant - Paris - H/F/X",
+    "url": "https://fr.linkedin.com/jobs/view/stage-data-consultant-paris-h-f-x-at-artefact-4464394068"
+   },
    "titre": "Stage Data Consultant - Paris - H/F/X",
    "vue_le": "2026-10-28"
   },
   "3bc952e7d877f81d": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Renault Group",
+   "offre": {
+    "company": "Renault Group",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Boulogne-Billancourt",
+    "published": "2026-10-27",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "CS27- Stage – BAC+5 – Consultant en stratégie et management - H/F",
+    "url": "https://fr.linkedin.com/jobs/view/cs27-stage-%E2%80%93-bac%2B5-%E2%80%93-consultant-en-strat%C3%A9gie-et-management-h-f-at-renault-group-4466520755"
+   },
    "titre": "CS27- Stage – BAC+5 – Consultant en stratégie et management - H/F",
    "vue_le": "2026-10-28"
   },
   "3c7cf9a2cabf4c4b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "PwC France",
+   "offre": {
+    "company": "PwC France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire en transformation de la fonction Finance - Lyon - F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-en-transformation-de-la-fonction-finance-lyon-f-h-at-pwc-france-4473739290"
+   },
    "titre": "Stagiaire en transformation de la fonction Finance - Lyon - F/H",
    "vue_le": "2026-10-28"
   },
@@ -471,18 +913,57 @@
   "3cc4ad2f51d2f62d": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Oney",
+   "offre": {
+    "company": "Oney",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Croix",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Chef(fe) de projet Transformation F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-chef-fe-de-projet-transformation-f-h-at-oney-4489558126"
+   },
    "titre": "Stage Chef(fe) de projet Transformation F/H",
    "vue_le": "2026-11-14"
   },
   "3ce113a33ab80d7a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Crédit Agricole Personal Finance & Mobility",
+   "offre": {
+    "company": "Crédit Agricole Personal Finance & Mobility",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Massy",
+    "published": "2026-10-21",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage 2027           Consultant en organisation et stratégie junior       H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-2027-consultant-en-organisation-et-strat%C3%A9gie-junior-h-f-at-cr%C3%A9dit-agricole-personal-finance-mobility-4482106121"
+   },
    "titre": "Stage 2027           Consultant en organisation et stratégie junior       H/F",
    "vue_le": "2026-10-28"
   },
   "3dab70ea3db6de25": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Audiens",
+   "offre": {
+    "company": "Audiens",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Vanves",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Analyste Stratégie stagiaire (H/F/X)",
+    "url": "https://fr.linkedin.com/jobs/view/analyste-strat%C3%A9gie-stagiaire-h-f-x-at-audiens-4488931920"
+   },
    "titre": "Analyste Stratégie stagiaire (H/F/X)",
    "vue_le": "2026-11-14"
   },
@@ -495,6 +976,19 @@
   "3f1595e018aadfdc": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Havas International - Paris",
+   "offre": {
+    "company": "Havas International - Paris",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Puteaux",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Brand Strategy Consultant(e) Junior - F/H",
+    "url": "https://fr.linkedin.com/jobs/view/brand-strategy-consultant-e-junior-f-h-at-havas-international-paris-4490500370"
+   },
    "titre": "Brand Strategy Consultant(e) Junior - F/H",
    "vue_le": "2026-11-13"
   },
@@ -519,6 +1013,19 @@
   "43001b312d841574": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Smart Plant - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-smart-plant-stage-at-capgemini-invent-4489916177"
+   },
    "titre": "Consultante / Consultant Smart Plant - Stage",
    "vue_le": "2026-11-12"
   },
@@ -537,18 +1044,57 @@
   "451132b0620bd3ff": {
    "derniere_vue": "2026-11-15",
    "entreprise": "EY-Parthenon",
+   "offre": {
+    "company": "EY-Parthenon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship - Financial Services - EY Parthenon - Strategy & Execution",
+    "url": "https://ch.linkedin.com/jobs/view/internship-financial-services-ey-parthenon-strategy-execution-at-ey-parthenon-4480713298"
+   },
    "titre": "Internship - Financial Services - EY Parthenon - Strategy & Execution",
    "vue_le": "2026-10-28"
   },
   "45600968b5c295ff": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Agnostic Intelligence",
+   "offre": {
+    "company": "Agnostic Intelligence",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zoug, Zoug, Suisse",
+    "published": "2026-10-19",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Praktikum HR Consulting (m/w/d), 100% - 6 Monate",
+    "url": "https://ch.linkedin.com/jobs/view/praktikum-hr-consulting-m-w-d-100%25-6-monate-at-agnostic-intelligence-4478244876"
+   },
    "titre": "Praktikum HR Consulting (m/w/d), 100% - 6 Monate",
    "vue_le": "2026-11-03"
   },
   "477920b24e7f7ff3": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Altman Solon",
+   "offre": {
+    "company": "Altman Solon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-07",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Strategy Consulting Intern TMT (m/f/d)",
+    "url": "https://fr.linkedin.com/jobs/view/strategy-consulting-intern-tmt-m-f-d-at-altman-solon-4296080452"
+   },
    "titre": "Strategy Consulting Intern TMT (m/f/d)",
    "vue_le": "2026-10-26"
   },
@@ -567,6 +1113,19 @@
   "4906d3064ec31f2c": {
    "derniere_vue": "2026-11-15",
    "entreprise": "PPT Consulting",
+   "offre": {
+    "company": "PPT Consulting",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-14",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
+    "url": "https://fr.linkedin.com/jobs/view/final-year-internship-consultant-transport-manufacturing-retail-at-ppt-consulting-4489854263"
+   },
    "titre": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
    "vue_le": "2026-11-14"
   },
@@ -585,12 +1144,38 @@
   "4b9ea444e7f87d06": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Simon-Kucher",
+    "contract": "stage",
+    "description": "Paris Entreprise Simon-Kucher est un cabinet de conseil international qui compte plus de 2000 employés répartis dans 30 pays à travers le monde. Notre focus est d’aider nos clients à déployer une croissance vertueuse qui génère des revenus et des bénéfices tangibles. Nous y parvenons en optimisant chaque levier de leur stratégie commerciale – produit, prix, innovation, marketing et ventes – sur la base d’une compréhension fine des besoins de nos clients. Avec près de 40 ans d’expérience sur des enjeux variés en matière de monétisation, nous sommes considérés comme le spécialiste mondial dans les stratégies de croissance des revenus et de pricing. www.simon-kucher.com Nous aspirons à instaurer une culture prônant la diversité, l’équité et l’inclusion, en créant un environnement où nos collaborateurs se sentent appréciés, libres d’être authentiques et persuadés que leur contribution est essentielle. Grâce à cet environnement, nos résultats seront améliorés à la fois pour nos collaborateurs, nos projets et nos clients. Profil Votre profil professionnel : Vous êtes étudiant(e) d’une Grande École de Commerce ou d’Ingénieurs de premier rang en 2ème ou 3ème année avec un intérêt spécifique pour les Life-Sciences Vous êtes étudiant en sciences (pharmacie, médecine, biologie...) et vous préparez un double diplôme 1-2 ans d’expérience (stage et ou CDI/CDD) dans un cabinet de conseil spécialisé dans les stratégies de marketing, dans l’industrie pharmaceutique, ou tout autre expérience p",
+    "duration_months": 0,
+    "location": "",
+    "published": "2026-05-11",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Stage Associate consultant Healthcare & life sciences",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/stage-associate-consultant-healthcare-life-sciences"
+   },
    "titre": "Stage Associate consultant Healthcare & life sciences",
    "vue_le": "2026-10-20"
   },
   "4ba055685f99f7b4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Meanquest",
+   "offre": {
+    "company": "Meanquest",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Vaud, Suisse",
+    "published": "2026-10-30",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant-e / référent-e numérique responsable",
+    "url": "https://ch.linkedin.com/jobs/view/consultant-e-r%C3%A9f%C3%A9rent-e-num%C3%A9rique-responsable-at-meanquest-4484850761"
+   },
    "titre": "Consultant-e / référent-e numérique responsable",
    "vue_le": "2026-11-07"
   },
@@ -612,6 +1197,25 @@
    "titre": "Praktikum Consulting (m/w/d), 100% - 6 Monate",
    "vue_le": "2026-10-28"
   },
+  "4e1b633f089064cf": {
+   "derniere_vue": "2026-11-15",
+   "entreprise": "Actalian",
+   "offre": {
+    "company": "Actalian",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-21",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant junior/Consultante junior en excellence opérationnelle",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-junior-consultante-junior-en-excellence-op%C3%A9rationnelle-at-actalian-4478979746"
+   },
+   "titre": "Consultant junior/Consultante junior en excellence opérationnelle",
+   "vue_le": "2026-11-15"
+  },
   "4e55726f0672156e": {
    "derniere_vue": "2026-11-01",
    "entreprise": "Mews Partners",
@@ -627,18 +1231,57 @@
   "4ee40e66b74d5058": {
    "derniere_vue": "2026-11-15",
    "entreprise": "GROUPE FACTORIA",
+   "offre": {
+    "company": "GROUPE FACTORIA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Boulogne-Billancourt",
+    "published": "2026-10-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Management, Conseil & Stratégie",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-management-conseil-strat%C3%A9gie-at-groupe-factoria-4479945243"
+   },
    "titre": "Stagiaire Management, Conseil & Stratégie",
    "vue_le": "2026-10-26"
   },
   "4f0328aa43b7d014": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Consultant(e)– Business Strategy (Industrie & Aéronautique) H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-consultant-e-%E2%80%93-business-strategy-industrie-a%C3%A9ronautique-h-f-at-deloitte-4467602954"
+   },
    "titre": "Stagiaire Consultant(e)– Business Strategy (Industrie & Aéronautique) H/F",
    "vue_le": "2026-10-26"
   },
   "4f03490b73343e38": {
    "derniere_vue": "2026-11-15",
    "entreprise": "MASAÏ",
+   "offre": {
+    "company": "MASAÏ",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant stagiaire énergie/Consultante énergie",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-stagiaire-%C3%A9nergie-consultante-%C3%A9nergie-at-masa%C3%AF-4490317197"
+   },
    "titre": "Consultant stagiaire énergie/Consultante énergie",
    "vue_le": "2026-11-13"
   },
@@ -663,12 +1306,38 @@
   "531e3fd690d5e968": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Bloomco",
+   "offre": {
+    "company": "Bloomco",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Talent & Strategy Consultant (Conseil)-Lille",
+    "url": "https://fr.linkedin.com/jobs/view/stage-talent-strategy-consultant-conseil-lille-at-bloomco-4487301919"
+   },
    "titre": "Stage - Talent & Strategy Consultant (Conseil)-Lille",
    "vue_le": "2026-11-07"
   },
   "54cf172e8bf0456b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "SYNETIS",
+   "offre": {
+    "company": "SYNETIS",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-01",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "STAGE - Consultant IAM Fonctionnel H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-iam-fonctionnel-h-f-at-synetis-4485423631"
+   },
    "titre": "STAGE - Consultant IAM Fonctionnel H/F",
    "vue_le": "2026-11-14"
   },
@@ -687,12 +1356,38 @@
   "5921f9c7311e0b20": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Avanade",
+   "offre": {
+    "company": "Avanade",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-10-27",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Digital Advisory – Change, IA & Transformation",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-digital-advisory-%E2%80%93-change-ia-transformation-at-avanade-4484059737"
+   },
    "titre": "Stagiaire Digital Advisory – Change, IA & Transformation",
    "vue_le": "2026-10-28"
   },
   "5ae4430132a01c43": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Talan",
+   "offre": {
+    "company": "Talan",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Talan - Consultant Stagiaire – Conseil en stratégie (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/talan-consultant-stagiaire-%E2%80%93-conseil-en-strat%C3%A9gie-h-f-at-talan-4477986349"
+   },
    "titre": "Talan - Consultant Stagiaire – Conseil en stratégie (H/F)",
    "vue_le": "2026-10-26"
   },
@@ -741,6 +1436,19 @@
   "6027e29211287874": {
    "derniere_vue": "2026-11-15",
    "entreprise": "AlixPartners",
+   "offre": {
+    "company": "AlixPartners",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Praktikum im Consulting - Risk Advisory (m/w/d)",
+    "url": "https://ch.linkedin.com/jobs/view/praktikum-im-consulting-risk-advisory-m-w-d-at-alixpartners-4459243575"
+   },
    "titre": "Praktikum im Consulting - Risk Advisory (m/w/d)",
    "vue_le": "2026-10-28"
   },
@@ -777,24 +1485,76 @@
   "641380b30979db3b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Dassault Systèmes",
+   "offre": {
+    "company": "Dassault Systèmes",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Limonest",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "STAGE - DELMIA Supply Chain Consultant Logiciel (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-delmia-supply-chain-consultant-logiciel-f-h-at-dassault-syst%C3%A8mes-4464329508"
+   },
    "titre": "STAGE - DELMIA Supply Chain Consultant Logiciel (F/H)",
    "vue_le": "2026-10-29"
   },
   "641c62ced6b3e486": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Kering",
+   "offre": {
+    "company": "Kering",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "KERING Strategy Analyst (stage)",
+    "url": "https://fr.linkedin.com/jobs/view/kering-strategy-analyst-stage-at-kering-4488027013"
+   },
    "titre": "KERING Strategy Analyst (stage)",
    "vue_le": "2026-11-06"
   },
   "6434a3393a7463f0": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Sopra Steria Next",
+   "offre": {
+    "company": "Sopra Steria Next",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Courbevoie",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant(e) - Transformation digitale en Aéronautique -Ile de France",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-e-transformation-digitale-en-a%C3%A9ronautique-ile-de-france-at-sopra-steria-next-4487775930"
+   },
    "titre": "Stage - Consultant(e) - Transformation digitale en Aéronautique -Ile de France",
    "vue_le": "2026-11-06"
   },
   "64b3615cc2c01767": {
    "derniere_vue": "2026-11-15",
    "entreprise": "CGI Business Consulting",
+   "offre": {
+    "company": "CGI Business Consulting",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-10-22",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Conseil : Consultant(e) Télécommunication F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-conseil-consultant-e-t%C3%A9l%C3%A9communication-f-h-at-cgi-business-consulting-4482769332"
+   },
    "titre": "Stage Conseil : Consultant(e) Télécommunication F/H",
    "vue_le": "2026-10-28"
   },
@@ -813,18 +1573,57 @@
   "6a196efdcb2fd6f2": {
    "derniere_vue": "2026-11-15",
    "entreprise": "SAVENCIA",
+   "offre": {
+    "company": "SAVENCIA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Viroflay",
+    "published": "2026-10-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire à la direction Stratégie et Transformation (H/F/X)",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-%C3%A0-la-direction-strat%C3%A9gie-et-transformation-h-f-x-at-savencia-4482959113"
+   },
    "titre": "Stagiaire à la direction Stratégie et Transformation (H/F/X)",
    "vue_le": "2026-10-27"
   },
   "6ac41212f668d280": {
    "derniere_vue": "2026-11-15",
    "entreprise": "ALTEN",
+   "offre": {
+    "company": "ALTEN",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Boulogne-Billancourt",
+    "published": "2026-10-27",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire - Chargé de mission Stratégie Opé. Junior H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-charg%C3%A9-de-mission-strat%C3%A9gie-op%C3%A9-junior-h-f-at-alten-4474902500"
+   },
    "titre": "Stagiaire - Chargé de mission Stratégie Opé. Junior H/F",
    "vue_le": "2026-10-28"
   },
   "6bf22b8752790e0f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Protiviti France",
+   "offre": {
+    "company": "Protiviti France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-28",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d’études Consultant H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d%E2%80%99%C3%A9tudes-consultant-h-f-at-protiviti-france-4482545666"
+   },
    "titre": "Stage de fin d’études Consultant H/F",
    "vue_le": "2026-10-30"
   },
@@ -837,6 +1636,19 @@
   "6c642b4ccc7a823e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Genève, Genève, Suisse",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern - Technology Strategy & Transformation",
+    "url": "https://ch.linkedin.com/jobs/view/intern-technology-strategy-transformation-at-deloitte-4434454933"
+   },
    "titre": "Intern - Technology Strategy & Transformation",
    "vue_le": "2026-10-28"
   },
@@ -849,6 +1661,19 @@
   "6dbfaa592dbad728": {
    "derniere_vue": "2026-11-15",
    "entreprise": "MSC Cruises",
+   "offre": {
+    "company": "MSC Cruises",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Genève, Genève, Suisse",
+    "published": "2026-10-27",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Finance Transformation Intern",
+    "url": "https://ch.linkedin.com/jobs/view/finance-transformation-intern-at-msc-cruises-4482202886"
+   },
    "titre": "Finance Transformation Intern",
    "vue_le": "2026-11-14"
   },
@@ -861,12 +1686,38 @@
   "703e589c8f784e5e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Altman Solon",
+   "offre": {
+    "company": "Altman Solon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-10-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Strategy Consulting Intern TMT (m/f/d)",
+    "url": "https://ch.linkedin.com/jobs/view/strategy-consulting-intern-tmt-m-f-d-at-altman-solon-4480493593"
+   },
    "titre": "Strategy Consulting Intern TMT (m/f/d)",
    "vue_le": "2026-11-12"
   },
   "7094a3f7d39a5354": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "CMI",
+    "contract": "stage",
+    "description": "Paris Stage Entreprise CMI est un cabinet de conseil en stratégie basé à Paris 9 e qui, depuis 40 ans, s’attache à dénouer les problématiques complexes des décideurs publics et privés. Notre challenge : élaborer des solutions dont la simplicité et la clarté rivalisent avec la complexité des problèmes posés. Chez CMI, nous croyons en l’importance de la stratégie, y compris et surtout dans un monde difficilement prévisible. Imaginer le futur, ce n’est pas s’enfermer dans une vision, au contraire, c’est ouvrir de nouvelles portes. C’est également fixer un cap cohérent avec la mission de l’organisation, avec ses valeurs, avec l’ADN des hommes et des femmes qui la composent et avec l’évolution pressentie des attentes des publics auxquels ils s’adressent. La qualité de nos interventions se fonde sur le croisement entre expertises métiers et connaissance approfondie de certains secteurs d’activité : politiques publiques, private equity, santé, IT, industrie, télécoms, agroalimentaire, construction et habitat, … CMI est également membre de l'Alliance Consulting for Capital pour accompagner les entreprises européennes et les fonds d'investissement à l'international. Pour en savoir plus sur la vie chez CMI, consultez notre site et nos dernières actualités sur linkedin ! Poste Vous participez aux différentes phases d’une mission : analyse de la problématique, définition de la méthodologie, collecte et analyse de données, élaboration des recommandations. Sur l’axe « Politiques publiques ",
+    "duration_months": 0,
+    "location": "CMI - Stage Consultant(e) en stratégie",
+    "published": "2026-02-11",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Stage Consultant(e) en stratégie",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/stage-consultant-e-en-strategie"
+   },
    "titre": "Stage Consultant(e) en stratégie",
    "vue_le": "2026-10-20"
   },
@@ -879,6 +1730,19 @@
   "744c9685861c660a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "XPO Logistics",
+   "offre": {
+    "company": "XPO Logistics",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Andancette",
+    "published": "2026-10-31",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship - Stratégie & Transformation (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/internship-strat%C3%A9gie-transformation-h-f-at-xpo-logistics-4441446254"
+   },
    "titre": "Internship - Stratégie & Transformation (H/F)",
    "vue_le": "2026-10-26"
   },
@@ -891,6 +1755,19 @@
   "75bef4e94b82ecd9": {
    "derniere_vue": "2026-11-15",
    "entreprise": "MENESTYS RECRUTEMENT",
+   "offre": {
+    "company": "MENESTYS RECRUTEMENT",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Rueil-Malmaison",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant Stratégie et Organisation - Stage - F/H",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-strat%C3%A9gie-et-organisation-stage-f-h-at-menestys-recrutement-4484104157"
+   },
    "titre": "Consultant Stratégie et Organisation - Stage - F/H",
    "vue_le": "2026-11-04"
   },
@@ -951,6 +1828,19 @@
   "7c6e3a6c0195d50e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Assystem",
+   "offre": {
+    "company": "Assystem",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Ingénierie commerciale & Conseil en transformation digitale - Stage H/F",
+    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nierie-commerciale-conseil-en-transformation-digitale-stage-h-f-at-assystem-4482997631"
+   },
    "titre": "Ingénierie commerciale & Conseil en transformation digitale - Stage H/F",
    "vue_le": "2026-10-27"
   },
@@ -969,6 +1859,19 @@
   "7da56b46c3b5a3b1": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Simon-Kucher",
+   "offre": {
+    "company": "Simon-Kucher",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern/Associate Consultant – Healthcare & Life Sciences (m/w/d)",
+    "url": "https://ch.linkedin.com/jobs/view/intern-associate-consultant-%E2%80%93-healthcare-life-sciences-m-w-d-at-simon-kucher-4488218167"
+   },
    "titre": "Intern/Associate Consultant – Healthcare & Life Sciences (m/w/d)",
    "vue_le": "2026-11-12"
   },
@@ -987,18 +1890,57 @@
   "7f8b9a6dd2e2d32f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "ADEO",
+   "offre": {
+    "company": "ADEO",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Ronchin",
+    "published": "2026-10-29",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "[STAGE] Business Analyst / Strategy Marketplace - Lille ou Paris - H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-business-analyst-strategy-marketplace-lille-ou-paris-h-f-at-adeo-4483032216"
+   },
    "titre": "[STAGE] Business Analyst / Strategy Marketplace - Lille ou Paris - H/F",
    "vue_le": "2026-10-30"
   },
   "7faf034d6ccd2e5b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Mendo",
+   "offre": {
+    "company": "Mendo",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Founder's Associate (Strategy & Operations) – Stage 6 mois",
+    "url": "https://fr.linkedin.com/jobs/view/founder-s-associate-strategy-operations-%E2%80%93-stage-6-mois-at-mendo-4486919165"
+   },
    "titre": "Founder's Associate (Strategy & Operations) – Stage 6 mois",
    "vue_le": "2026-11-06"
   },
   "810183be84fce052": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Accenture France",
+   "offre": {
+    "company": "Accenture France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-10-21",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant Cybersécurité industrielle (ICS/OT) en stage - F/H Paris",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-cybers%C3%A9curit%C3%A9-industrielle-ics-ot-en-stage-f-h-paris-at-accenture-france-4481176141"
+   },
    "titre": "Consultant Cybersécurité industrielle (ICS/OT) en stage - F/H Paris",
    "vue_le": "2026-10-29"
   },
@@ -1017,12 +1959,38 @@
   "82a4d228523ea67a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Asys",
+   "offre": {
+    "company": "Asys",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "STAGE - Stratégie et Customer Insight F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-strat%C3%A9gie-et-customer-insight-f-h-at-asys-4486843718"
+   },
    "titre": "STAGE - Stratégie et Customer Insight F/H",
    "vue_le": "2026-11-04"
   },
   "83029cb4383c9717": {
    "derniere_vue": "2026-11-15",
    "entreprise": "KPMG France",
+   "offre": {
+    "company": "KPMG France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-19",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant - Stagiaire Evaluation et modélisation financière H/F",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-stagiaire-evaluation-et-mod%C3%A9lisation-financi%C3%A8re-h-f-at-kpmg-france-4481265475"
+   },
    "titre": "Consultant - Stagiaire Evaluation et modélisation financière H/F",
    "vue_le": "2026-10-28"
   },
@@ -1035,12 +2003,38 @@
   "845c39b882b344ad": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Betty Bossi",
+   "offre": {
+    "company": "Betty Bossi",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Bâle, Bâle, Suisse",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Praktikum Food Consulting (w/m/d)",
+    "url": "https://ch.linkedin.com/jobs/view/praktikum-food-consulting-w-m-d-at-betty-bossi-4488313183"
+   },
    "titre": "Praktikum Food Consulting (w/m/d)",
    "vue_le": "2026-11-13"
   },
   "84d1c1fdc5c95e60": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Oresys",
+   "offre": {
+    "company": "Oresys",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant en management/Consultante en management",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-en-management-consultante-en-management-at-oresys-4488870112"
+   },
    "titre": "Consultant en management/Consultante en management",
    "vue_le": "2026-11-13"
   },
@@ -1053,6 +2047,19 @@
   "85cf2b11501739c4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Saegus",
+   "offre": {
+    "company": "Saegus",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant.e Adoption des usages IA – Stage de fin d'études",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-adoption-des-usages-ia-%E2%80%93-stage-de-fin-d-%C3%A9tudes-at-saegus-4486392539"
+   },
    "titre": "Consultant.e Adoption des usages IA – Stage de fin d'études",
    "vue_le": "2026-11-05"
   },
@@ -1065,6 +2072,19 @@
   "86a8ffa4bdb715c9": {
    "derniere_vue": "2026-11-15",
    "entreprise": "VISEO",
+   "offre": {
+    "company": "VISEO",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant SAP Finance F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-sap-finance-f-h-at-viseo-4490584850"
+   },
    "titre": "Stage Consultant SAP Finance F/H",
    "vue_le": "2026-11-14"
   },
@@ -1095,18 +2115,57 @@
   "8a6e633ff4a548af": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Ipsen",
+   "offre": {
+    "company": "Ipsen",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Stratégie et Transformation",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-strat%C3%A9gie-et-transformation-at-ipsen-4487987107"
+   },
    "titre": "Stagiaire Stratégie et Transformation",
    "vue_le": "2026-11-13"
   },
   "8b5225ad37c7ffb8": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Mews Partners",
+   "offre": {
+    "company": "Mews Partners",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant(e) stagiaire en Transformations des Organisations (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-stagiaire-en-transformations-des-organisations-f-h-at-mews-partners-4485773159"
+   },
    "titre": "Consultant(e) stagiaire en Transformations des Organisations (F/H)",
    "vue_le": "2026-11-06"
   },
   "8b6b02b5f6058cc5": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Mondial Relay",
+   "offre": {
+    "company": "Mondial Relay",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Villeneuve-d'Ascq",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Business Analyst RH Digital & IA STAGE (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/business-analyst-rh-digital-ia-stage-h-f-%C2%A0-at-mondial-relay-4488363731"
+   },
    "titre": "Business Analyst RH Digital & IA STAGE (H/F)",
    "vue_le": "2026-11-13"
   },
@@ -1119,12 +2178,38 @@
   "8c3d1be1c9dbb8d4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Artimon",
+   "offre": {
+    "company": "Artimon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage (M2) Consultant(e) en transformation - Transport et Mobilités",
+    "url": "https://fr.linkedin.com/jobs/view/stage-m2-consultant-e-en-transformation-transport-et-mobilit%C3%A9s-at-artimon-4487152336"
+   },
    "titre": "Stage (M2) Consultant(e) en transformation - Transport et Mobilités",
    "vue_le": "2026-11-12"
   },
   "8d78267fcc4059ba": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Magellan",
+   "offre": {
+    "company": "Magellan",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-27",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - consultant fonctionnel f/h",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-fonctionnel-f-h-at-magellan-4484059873"
+   },
    "titre": "Stage - consultant fonctionnel f/h",
    "vue_le": "2026-11-04"
   },
@@ -1143,6 +2228,19 @@
   "8f9388bf50612d1f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-14",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d’études – Conseil Transformation Finance (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d%E2%80%99%C3%A9tudes-%E2%80%93-conseil-transformation-finance-h-f-at-deloitte-4139021756"
+   },
    "titre": "Stage de fin d’études – Conseil Transformation Finance (H/F)",
    "vue_le": "2026-10-26"
   },
@@ -1155,18 +2253,57 @@
   "9336e9b26b61926b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Talisker",
+   "offre": {
+    "company": "Talisker",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant(e) en Management & Organisation - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-en-management-organisation-stage-at-talisker-4485762295"
+   },
    "titre": "Consultant(e) en Management & Organisation - Stage",
    "vue_le": "2026-11-03"
   },
   "93c22ca844bfb84c": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Hermès",
+   "offre": {
+    "company": "Hermès",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Le Pré-Saint-Gervais",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant Junior Conseil Interne (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-junior-conseil-interne-h-f-at-herm%C3%A8s-4460945989"
+   },
    "titre": "Stage - Consultant Junior Conseil Interne (H/F)",
    "vue_le": "2026-10-28"
   },
   "9422b27804d1b3c4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Caisse d'Epargne Hauts de France",
+   "offre": {
+    "company": "Caisse d'Epargne Hauts de France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage – Stratégie &amp; Développement International (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-strat%C3%A9gie-amp-d%C3%A9veloppement-international-h-f-at-caisse-d-epargne-hauts-de-france-4478907732"
+   },
    "titre": "Stage – Stratégie &amp; Développement International (H/F)",
    "vue_le": "2026-10-26"
   },
@@ -1191,12 +2328,38 @@
   "9582786a6b5f722e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Swiss International Air Lines",
+   "offre": {
+    "company": "Swiss International Air Lines",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Kloten, Zurich, Suisse",
+    "published": "2026-11-07",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship in Ancillary & Offer Strategy and Business Development (limited 6 months, 80-100%, all genders)",
+    "url": "https://ch.linkedin.com/jobs/view/internship-in-ancillary-offer-strategy-and-business-development-limited-6-months-80-100%25-all-genders-at-swiss-international-air-lines-4486645339"
+   },
    "titre": "Internship in Ancillary & Offer Strategy and Business Development (limited 6 months, 80-100%, all genders)",
    "vue_le": "2026-11-13"
   },
   "96d28a158f7dca8e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern - Technology Strategy & Transformation",
+    "url": "https://ch.linkedin.com/jobs/view/intern-technology-strategy-transformation-at-deloitte-4434453891"
+   },
    "titre": "Intern - Technology Strategy & Transformation",
    "vue_le": "2026-10-28"
   },
@@ -1209,12 +2372,38 @@
   "989018853b31d58f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Bain & Company",
+    "contract": "stage",
+    "description": "Paris Consultant intern Entreprise Bain & Company est l’un des leaders mondiaux du Conseil en Stratégie et Management. Notre bureau parisien se classe parmi les tout premiers cabinets de conseil en France et offre, à ce titre, de très belles opportunités professionnelles. Poste Nous proposons un programme de stages qui débutera le 5 janvier 2026, aux étudiant(e)s en césure ou en dernière année, pour une durée de 5 à 6 mois (Programme Grande Ecole). En tant que membre à part entière d’une équipe, vous bénéficierez d’un encadrement quotidien dans votre apprentissage du métier et votre rôle sera le même qu’un “Associate Consultant” (analyste junior). Vous devrez faire appel à vos capacités d’analyse afin d’aider à la construction d’approches méthodologiques permettant d’apporter des résultats tangibles et durables aux clients Vous mettrez à l’épreuve et développerez vos compétences académiques et personnelles au quotidien Vous relèverez les défis les plus passionnants tout en travaillant aux côtés de pairs brillants et solidaires Profil Engagé(e) et ambitieux (se), vous avez développé une forte curiosité intellectuelle, une grande adaptabilité et le goût de l’effort. Vous maîtrisez parfaitement le français et l’anglais ; voire une ou plusieurs autres langues. Démarrage du stage le 7 septembre 2026. Les candidatures sont à soumettre entre 1 er janvier et le 28 février 2026. Les différents entretiens de recrutement se tiendront entre mars et avril 2026. Test de pré-qualification e",
+    "duration_months": 0,
+    "location": "Bain & Company - Associate Consultant Intern",
+    "published": "2026-05-15",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Associate Consultant Intern",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/associate-consultant-intern-2"
+   },
    "titre": "Associate Consultant Intern",
    "vue_le": "2026-10-20"
   },
   "994baa819461dd94": {
    "derniere_vue": "2026-11-15",
    "entreprise": "SICPA",
+   "offre": {
+    "company": "SICPA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Prilly, Vaud, Suisse",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Business Analyst Intern",
+    "url": "https://ch.linkedin.com/jobs/view/business-analyst-intern-at-sicpa-4488524811"
+   },
    "titre": "Business Analyst Intern",
    "vue_le": "2026-11-15"
   },
@@ -1227,6 +2416,19 @@
   "9a98f3dfa9a10792": {
    "derniere_vue": "2026-11-15",
    "entreprise": "SECAFI",
+   "offre": {
+    "company": "SECAFI",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant en finance et comptabilité - Lille (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-en-finance-et-comptabilit%C3%A9-lille-h-f-at-secafi-4471329861"
+   },
    "titre": "Stage - Consultant en finance et comptabilité - Lille (H/F)",
    "vue_le": "2026-10-28"
   },
@@ -1245,6 +2447,19 @@
   "9b9688c91d1d7644": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Publicis Sapient Strategy",
+    "contract": "stage",
+    "description": "Paris Consultant(e) Associé(e) Junior Entreprise Company Description Publicis Sapient est un cabinet de conseil en transformation technologique. Nous accompagnons les entreprises pour les aider à créer et à maintenir un avantage concurrentiel dans un monde de plus en plus digital. Notre expertise unique regroupée sous l acronyme SPEED (Stratégie, Produit, Expérience, Engineering et Data & IA), combinée à notre connaissance approfondie des différents secteurs d activité, nous permet de créer des produits et des expériences innovants centrés sur la valeur qu’ils délivrent à leurs clients. Notre approche agile, axée sur les données et les dernières technologies, permet aux entreprises de faire face au changement, en plaçant le digital au cœur de leur activité. Avec plus de 20 000 collaborateurs à travers 72 bureaux dans le monde, Publicis Sapient est le pôle de transformation digitale de Publicis Groupe. Poste Vos responsabilités En tant que Junior Associate Consultant (Digital & IA Strategy) - (H/F) , sous le mentorat d’un(e) Consultant(e) expérimenté(e), vous serez au cœur des équipes projet. Vous contribuerez ainsi à définir et exécuter des stratégies innovantes en matière de digital, de data et d’IA : Analyser les tendances de marché, les modèles économiques, et les use cases IA émergents Participer à l’élaboration de stratégies innovantes pour nos clients, tous secteurs confondus Construire des business cases solides pour orienter les décisions d’investissement (ROI, gains ",
+    "duration_months": 0,
+    "location": "",
+    "published": "2026-09-15",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Junior Associate Consultant – Digital & AI Strategy - STAGE",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/junior-associate-consultant-digital-ai-strategy-stage"
+   },
    "titre": "Junior Associate Consultant – Digital & AI Strategy - STAGE",
    "vue_le": "2026-10-20"
   },
@@ -1263,6 +2478,19 @@
   "9d7a18920d341305": {
    "derniere_vue": "2026-11-15",
    "entreprise": "CEVA Logistics",
+   "offre": {
+    "company": "CEVA Logistics",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-10-28",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "INTERNSHIP - Global Strategic Planning & Performance - January 2027 La Défense (strategy role)",
+    "url": "https://fr.linkedin.com/jobs/view/internship-global-strategic-planning-performance-january-2027-la-d%C3%A9fense-strategy-role-at-ceva-logistics-4482514328"
+   },
    "titre": "INTERNSHIP - Global Strategic Planning & Performance - January 2027 La Défense (strategy role)",
    "vue_le": "2026-10-29"
   },
@@ -1281,18 +2509,57 @@
   "9fee5c8154a56036": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Accenture France",
+   "offre": {
+    "company": "Accenture France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant – Architecture & Industry Strategy – Paris",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-%E2%80%93-architecture-industry-strategy-%E2%80%93-paris-at-accenture-france-4487861197"
+   },
    "titre": "Stage Consultant – Architecture & Industry Strategy – Paris",
    "vue_le": "2026-11-14"
   },
   "a2e4f2a716d3c281": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Advancy",
+    "contract": "stage",
+    "description": "Paris Entreprise Pourquoi rejoindre Advancy : Nous sommes la seule société de stratégie mondiale à avoir une échelle humaine. Vous travaillerez sur des projets significatifs, vous serez exposé à la haute direction et grandirez dans une culture qui valorise l’appropriation, l’apprentissage et le plaisir. Ce que nous proposons : Missions à fort impact : fusions et acquisitions, stratégie, transformation, restructuration Mentorat et coaching par des consultants expérimentés Une culture d’équipe dynamique et méritocratique De vraies opportunités pour transformer votre stage en offre à temps plein Mobilité internationale et connexions inter-bureaux Un esprit de « bureau heureux » : après-travail, événements d’équipe, hors sites Poste Votre stage est un tremplin. Chez Advancy Paris, vous n’êtes pas là pour observer, vous êtes là pour contribuer. Dès le premier jour, vous ferez partie d’une équipe de conseil qui résout des défis stratégiques pour des leaders industriels mondiaux. Vous gagnerez rapidement une vraie exposition, une vraie responsabilité et un véritable apprentissage. Ce que vous ferez : Travailler sur un projet en direct avec 4 à 6 consultants Aider à structurer les problèmes et réaliser des analyses stratégiques Étudier les marchés, les concurrents et les chaînes de valeur Construisez des recommandations claires et prêtes pour le client Engager les clients seniors et soutenir la prestation Collaborer sur des projets internationaux (80 % de notre travail est global) Pr",
+    "duration_months": 0,
+    "location": "",
+    "published": "2026-07-17",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Stagiaire Consultant en stratégie (stage de 2ème partie de césure) (H/F)",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/stagiaire-consultant-en-strategie-stage-de-2eme-partie-de-cesure-h-f"
+   },
    "titre": "Stagiaire Consultant en stratégie (stage de 2ème partie de césure) (H/F)",
    "vue_le": "2026-10-20"
   },
   "a327023c39b9bdaa": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Onepoint",
+   "offre": {
+    "company": "Onepoint",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d'études - Consultant en stratégie opérationnelle F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-en-strat%C3%A9gie-op%C3%A9rationnelle-f-h-at-onepoint-4480653252"
+   },
    "titre": "Stage de fin d'études - Consultant en stratégie opérationnelle F/H",
    "vue_le": "2026-10-26"
   },
@@ -1303,8 +2570,21 @@
    "vue_le": "2026-10-28"
   },
   "a5357e6d42d20b11": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-15",
    "entreprise": "VISEO",
+   "offre": {
+    "company": "VISEO",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage PFE Business Analyst Salesforce F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-pfe-business-analyst-salesforce-f-h-at-viseo-4479987434"
+   },
    "titre": "Stage PFE Business Analyst Salesforce F/H",
    "vue_le": "2026-10-28"
   },
@@ -1317,6 +2597,19 @@
   "a666a249b1291779": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Detecon",
+   "offre": {
+    "company": "Detecon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Suisse",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Student Consultant – Private Industries (all genders)",
+    "url": "https://ch.linkedin.com/jobs/view/student-consultant-%E2%80%93-private-industries-all-genders-at-detecon-4486065704"
+   },
    "titre": "Student Consultant – Private Industries (all genders)",
    "vue_le": "2026-11-04"
   },
@@ -1341,12 +2634,38 @@
   "aa19dbcb4c258bfb": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Entreprise Transformation - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-entreprise-transformation-stage-at-capgemini-invent-4482011268"
+   },
    "titre": "Consultante / Consultant Entreprise Transformation - Stage",
    "vue_le": "2026-10-28"
   },
   "aa29fc46395c6ef4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Dynergie",
+   "offre": {
+    "company": "Dynergie",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Versailles",
+    "published": "2026-10-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant(e) en stratégie d'innovation (Paris)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-e-en-strat%C3%A9gie-d-innovation-paris-at-dynergie-4478946401"
+   },
    "titre": "Stage - Consultant(e) en stratégie d'innovation (Paris)",
    "vue_le": "2026-10-26"
   },
@@ -1431,6 +2750,19 @@
   "b381396f4356d12d": {
    "derniere_vue": "2026-11-15",
    "entreprise": "EY-Parthenon",
+   "offre": {
+    "company": "EY-Parthenon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-03",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant - Financial Services - EY Parthenon - Strategy & Execution (Graduate)",
+    "url": "https://ch.linkedin.com/jobs/view/consultant-financial-services-ey-parthenon-strategy-execution-graduate-at-ey-parthenon-4320249117"
+   },
    "titre": "Consultant - Financial Services - EY Parthenon - Strategy & Execution (Graduate)",
    "vue_le": "2026-11-14"
   },
@@ -1449,6 +2781,19 @@
   "b6242bb7b059729a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Manufacturing Automotive & Life Sciences - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-manufacturing-automotive-life-sciences-stage-at-capgemini-invent-4489921049"
+   },
    "titre": "Consultante / Consultant Manufacturing Automotive & Life Sciences - Stage",
    "vue_le": "2026-11-12"
   },
@@ -1461,12 +2806,38 @@
   "b8546793dd4df157": {
    "derniere_vue": "2026-11-15",
    "entreprise": "UBS",
+   "offre": {
+    "company": "UBS",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "2027 Internship – Group Internal Consulting – Zurich",
+    "url": "https://ch.linkedin.com/jobs/view/2027-internship-%E2%80%93-group-internal-consulting-%E2%80%93-zurich-at-ubs-4490316650"
+   },
    "titre": "2027 Internship – Group Internal Consulting – Zurich",
    "vue_le": "2026-11-13"
   },
   "b8e3b64448936d0b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Sopra Steria Next",
+   "offre": {
+    "company": "Sopra Steria Next",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Limonest",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant(e) transformation digitale - Lyon",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-e-transformation-digitale-lyon-at-sopra-steria-next-4484088862"
+   },
    "titre": "Stage - Consultant(e) transformation digitale - Lyon",
    "vue_le": "2026-10-28"
   },
@@ -1515,6 +2886,19 @@
   "be252ae86023394f": {
    "derniere_vue": "2026-11-15",
    "entreprise": "EY",
+   "offre": {
+    "company": "EY",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern - Consulting - Technology Strategy and Transformation",
+    "url": "https://ch.linkedin.com/jobs/view/intern-consulting-technology-strategy-and-transformation-at-ey-4454994186"
+   },
    "titre": "Intern - Consulting - Technology Strategy and Transformation",
    "vue_le": "2026-10-31"
   },
@@ -1527,6 +2911,19 @@
   "be6387ac4363a498": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Sideby",
+   "offre": {
+    "company": "Sideby",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Consultant(e) – Fin d'études (H/F) - Paris & Lyon",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-consultant-e-%E2%80%93-fin-d-%C3%A9tudes-h-f-paris-lyon-at-sideby-4464364211"
+   },
    "titre": "Stagiaire Consultant(e) – Fin d'études (H/F) - Paris & Lyon",
    "vue_le": "2026-10-28"
   },
@@ -1539,6 +2936,19 @@
   "bef40d8faf6e47b7": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Schneider Electric",
+   "offre": {
+    "company": "Schneider Electric",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Saint-Priest",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de Fin d'Études (PFE) - Ingénieur(e) Transformation Digitale & Solutions MES (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-pfe-ing%C3%A9nieur-e-transformation-digitale-solutions-mes-h-f-at-schneider-electric-4475465483"
+   },
    "titre": "Stage de Fin d'Études (PFE) - Ingénieur(e) Transformation Digitale & Solutions MES (H/F)",
    "vue_le": "2026-11-14"
   },
@@ -1551,24 +2961,76 @@
   "c0229d8aca935d1e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant en Stratégie Digitale, Expérience Client & IA générative - F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-en-strat%C3%A9gie-digitale-exp%C3%A9rience-client-ia-g%C3%A9n%C3%A9rative-f-h-at-deloitte-4487932202"
+   },
    "titre": "Stage Consultant en Stratégie Digitale, Expérience Client & IA générative - F/H",
    "vue_le": "2026-11-13"
   },
   "c120da6d0176b983": {
    "derniere_vue": "2026-11-15",
    "entreprise": "RMS",
+   "offre": {
+    "company": "RMS",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Ville de Paris",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Business & Strategy Project Assistant",
+    "url": "https://fr.linkedin.com/jobs/view/stage-business-strategy-project-assistant-at-rms-4488543150"
+   },
    "titre": "Stage - Business & Strategy Project Assistant",
    "vue_le": "2026-11-13"
   },
   "c18cebb0da159639": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Wavestone",
+   "offre": {
+    "company": "Wavestone",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Villeurbanne",
+    "published": "2026-10-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d'études - Consultant.e Data/IA - Lyon",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-e-data-ia-lyon-at-wavestone-4478662250"
+   },
    "titre": "Stage de fin d'études - Consultant.e Data/IA - Lyon",
    "vue_le": "2026-10-28"
   },
   "c25769758b4ab223": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Devoteam Digital Impulse",
+   "offre": {
+    "company": "Devoteam Digital Impulse",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Levallois-Perret",
+    "published": "2026-10-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant en Transformation Digitale - Stage de fin d'études (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-en-transformation-digitale-stage-de-fin-d-%C3%A9tudes-h-f-at-devoteam-digital-impulse-4483549299"
+   },
    "titre": "Consultant en Transformation Digitale - Stage de fin d'études (H/F)",
    "vue_le": "2026-11-03"
   },
@@ -1581,6 +3043,19 @@
   "c43d0d406d808492": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Advancy",
+    "contract": "stage",
+    "description": "Paris Entreprise Pourquoi rejoindre Advancy : Nous sommes la seule société de stratégie mondiale à avoir une échelle humaine. Vous travaillerez sur des projets significatifs, vous serez exposé à la haute direction et grandirez dans une culture qui valorise l’appropriation, l’apprentissage et le plaisir. Ce que nous proposons : Missions à fort impact : fusions et acquisitions, stratégie, transformation, restructuration Mentorat et coaching par des consultants expérimentés Une culture d’équipe dynamique et méritocratique De vraies opportunités pour transformer votre stage en offre à temps plein Mobilité internationale et connexions inter-bureaux Un esprit de « bureau heureux » : après-travail, événements d’équipe, hors sites Poste Faites de votre dernier stage un tremplin. Chez Advancy Paris, vous n’êtes pas là pour observer, vous êtes là pour contribuer. Dès le premier jour, vous ferez partie d’une équipe de conseil qui résout des défis stratégiques pour des leaders industriels mondiaux. Vous gagnerez rapidement une vraie exposition, une vraie responsabilité et un véritable apprentissage. Ce que vous ferez : Travailler sur un projet en direct avec 4 à 6 consultants Aider à structurer les problèmes et réaliser des analyses stratégiques Étudier les marchés, les concurrents et les chaînes de valeur Construisez des recommandations claires et prêtes pour le client Engager les clients seniors et soutenir la prestation Collaborer sur des projets internationaux (80 % de notre travail ",
+    "duration_months": 0,
+    "location": "",
+    "published": "2026-07-17",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Stagiaire Consultant en stratégie (stage de fin d’études) (H/F)",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/stagiaire-consultant-en-strategie-stage-de-fin-detudes-h-f"
+   },
    "titre": "Stagiaire Consultant en stratégie (stage de fin d’études) (H/F)",
    "vue_le": "2026-10-20"
   },
@@ -1599,12 +3074,38 @@
   "c6a283b07fdf68c8": {
    "derniere_vue": "2026-11-15",
    "entreprise": "ABGi France",
+   "offre": {
+    "company": "ABGi France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage : Consultant Scientifique en Innovation- Spécialisation IT H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-scientifique-en-innovation-sp%C3%A9cialisation-it-h-f-at-abgi-france-4487307485"
+   },
    "titre": "Stage : Consultant Scientifique en Innovation- Spécialisation IT H/F",
    "vue_le": "2026-11-13"
   },
   "c6bfdfb924a1081e": {
    "derniere_vue": "2026-11-15",
    "entreprise": "PPT Consulting",
+   "offre": {
+    "company": "PPT Consulting",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-14",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Final Year Internship Consultant - Energy, Transport & Manufacturing",
+    "url": "https://fr.linkedin.com/jobs/view/final-year-internship-consultant-energy-transport-manufacturing-at-ppt-consulting-4489850648"
+   },
    "titre": "Final Year Internship Consultant - Energy, Transport & Manufacturing",
    "vue_le": "2026-11-14"
   },
@@ -1617,12 +3118,38 @@
   "c72ab42c16a53ab7": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Thales",
+   "offre": {
+    "company": "Thales",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Vélizy-Villacoublay",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "STAGE - Consultant en transformation IA (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-en-transformation-ia-h-f-at-thales-4482110054"
+   },
    "titre": "STAGE - Consultant en transformation IA (H/F)",
    "vue_le": "2026-10-28"
   },
   "c75323b1e3567db3": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d’études Strategy & Business Design (FSI / Payments) F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d%E2%80%99%C3%A9tudes-strategy-business-design-fsi-payments-f-h-at-deloitte-4320094634"
+   },
    "titre": "Stage de fin d’études Strategy & Business Design (FSI / Payments) F/H",
    "vue_le": "2026-10-28"
   },
@@ -1635,12 +3162,38 @@
   "c7f0e7436eac7b36": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Accenture France",
+   "offre": {
+    "company": "Accenture France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant – Strategic Technology Effectiveness – Paris",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-%E2%80%93-strategic-technology-effectiveness-%E2%80%93-paris-at-accenture-france-4487843865"
+   },
    "titre": "Stage Consultant – Strategic Technology Effectiveness – Paris",
    "vue_le": "2026-11-11"
   },
   "c7f1385cfdd628ed": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Eramet",
+   "offre": {
+    "company": "Eramet",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Strategy & Business Development BU Manganese Allows - F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-strategy-business-development-bu-manganese-allows-f-h-at-eramet-4488411319"
+   },
    "titre": "Stage Strategy & Business Development BU Manganese Allows - F/H",
    "vue_le": "2026-11-07"
   },
@@ -1671,12 +3224,38 @@
   "cfb4d8c9b26ca2f6": {
    "derniere_vue": "2026-11-15",
    "entreprise": "VISEO",
+   "offre": {
+    "company": "VISEO",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Business Analyst Salesforce F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-business-analyst-salesforce-f-h-at-viseo-4490341094"
+   },
    "titre": "Stage Business Analyst Salesforce F/H",
    "vue_le": "2026-11-14"
   },
   "cfc2a5ee73068ac7": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Swiss Life Asset Managers",
+   "offre": {
+    "company": "Swiss Life Asset Managers",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship Infrastructure Private Equity - Value-add Strategy (6 months, start January 2027 or earlier )",
+    "url": "https://ch.linkedin.com/jobs/view/internship-infrastructure-private-equity-value-add-strategy-6-months-start-january-2027-or-earlier-at-swiss-life-asset-managers-4488525083"
+   },
    "titre": "Internship Infrastructure Private Equity - Value-add Strategy (6 months, start January 2027 or earlier )",
    "vue_le": "2026-11-13"
   },
@@ -1695,12 +3274,38 @@
   "d0fd53fcfaf07e2a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Bartle",
+   "offre": {
+    "company": "Bartle",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Ville de Paris",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant en Transformation H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-en-transformation-h-f-at-bartle-4484334174"
+   },
    "titre": "Stage Consultant en Transformation H/F",
    "vue_le": "2026-11-03"
   },
   "d2afed139c60c86c": {
    "derniere_vue": "2026-11-15",
    "entreprise": "SproClub",
+   "offre": {
+    "company": "SproClub",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-10-29",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "POEI - Consultant fonctionnel SAP",
+    "url": "https://fr.linkedin.com/jobs/view/poei-consultant-fonctionnel-sap-at-sproclub-4483053846"
+   },
    "titre": "POEI - Consultant fonctionnel SAP",
    "vue_le": "2026-11-14"
   },
@@ -1719,48 +3324,152 @@
   "d64ab404e56ec9d9": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-15",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante/Consultant Intelligent Industry - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-intelligent-industry-stage-at-capgemini-invent-4491213180"
+   },
    "titre": "Consultante/Consultant Intelligent Industry - Stage",
    "vue_le": "2026-11-15"
   },
   "d66fe386959c8849": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Europ Assistance",
+   "offre": {
+    "company": "Europ Assistance",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Saint-Denis",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Conseil en Stratégie, Transformation et IA H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-conseil-en-strat%C3%A9gie-transformation-et-ia-h-f-at-europ-assistance-4474321806"
+   },
    "titre": "Stage - Conseil en Stratégie, Transformation et IA H/F",
    "vue_le": "2026-10-26"
   },
   "d6d2b3171477004a": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "Cabinet (voir l'offre)",
+    "contract": "stage",
+    "description": "Paris, Lille Stagiaire Poste Descriptif du poste Nous recrutons actuellement nos stagiaires de fin d'études pour 2027. Nous sommes à la recherche de talents qui auront à cœur de participer à des missions de conseil en transformation auprès de nos clients, majoritairement issus des secteurs de l'énergie, de l'industrie, des transports et de la mobilité, des services financiers et du retail. Vos futures missions Accompagné dès votre arrivée par un ou une mentor, vous vivez pendant 6 mois une véritable expérience de Consultant. Vous êtes formé au métier de Consultant — Sur le terrain et grâce à notre programme de formation « Bartle Academy », vous développez progressivement les compétences et méthodes indispensables au métier de Consultant. Vous apprenez également à intégrer l'intelligence artificielle dans votre quotidien de Consultant, pour accélérer vos analyses, explorer de nouvelles approches, enrichir vos réflexions et gagner en efficacité dans la production de vos livrables, tout en développant votre esprit critique sur les usages de ces outils. Vous participez à une ou plusieurs missions de conseil — Vous travaillez en collaboration avec une équipe de Consultants Bartle auprès de nos clients et apportez votre rigueur, votre curiosité et votre créativité pour les accompagner dans leurs transformations. Vous intervenez sur l'ensemble du projet, du cadrage stratégique à la mise en œuvre opérationnelle, et êtes en relation directe avec les équipes dirigeantes de nos clients ",
+    "duration_months": 0,
+    "location": "",
+    "published": "2026-09-01",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "Stage Consultant en Transformation/Stratégie Paris & Lille H/F",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/stage-consultant-en-transformation-strategie-paris-lille-h-f"
+   },
    "titre": "Stage Consultant en Transformation/Stratégie Paris & Lille H/F",
    "vue_le": "2026-10-20"
   },
   "d6e15caf2ec03013": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Carrefour",
+   "offre": {
+    "company": "Carrefour",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Massy",
+    "published": "2026-10-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Analyste stratégie & performance (F/H) - en stage",
+    "url": "https://fr.linkedin.com/jobs/view/analyste-strat%C3%A9gie-performance-f-h-en-stage-at-carrefour-4481484114"
+   },
    "titre": "Analyste stratégie & performance (F/H) - en stage",
    "vue_le": "2026-11-13"
   },
   "d8db7db5a06edf6c": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Pasqal",
+   "offre": {
+    "company": "Pasqal",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris et périphérie",
+    "published": "2026-10-27",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Strategy & Corporate Development Internship",
+    "url": "https://fr.linkedin.com/jobs/view/strategy-corporate-development-internship-at-pasqal-4475831592"
+   },
    "titre": "Strategy & Corporate Development Internship",
    "vue_le": "2026-10-28"
   },
   "d8fb0835fe1b4d31": {
    "derniere_vue": "2026-11-15",
    "entreprise": "CEA",
+   "offre": {
+    "company": "CEA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Saclay",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de 6 mois– Stratégie & Business Development Deeptech H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-6-mois%E2%80%93-strat%C3%A9gie-business-development-deeptech-h-f-at-cea-4489598095"
+   },
    "titre": "Stage de 6 mois– Stratégie & Business Development Deeptech H/F",
    "vue_le": "2026-11-14"
   },
   "d934ddb9efc4d514": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Interpath",
+   "offre": {
+    "company": "Interpath",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship - Financial Restructuring I Consulting",
+    "url": "https://ch.linkedin.com/jobs/view/internship-financial-restructuring-i-consulting-at-interpath-4489938121"
+   },
    "titre": "Internship - Financial Restructuring I Consulting",
    "vue_le": "2026-11-14"
   },
   "d9f120b7d5d4b1ee": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Colombus Consulting",
+   "offre": {
+    "company": "Colombus Consulting",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant.e Stagiaire - Banque & Services Financiers (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-stagiaire-banque-services-financiers-f-h-at-colombus-consulting-4442611608"
+   },
    "titre": "Consultant.e Stagiaire - Banque & Services Financiers (F/H)",
    "vue_le": "2026-10-28"
   },
@@ -1779,6 +3488,19 @@
   "dc2d5368b101534b": {
    "derniere_vue": "2026-11-15",
    "entreprise": "ABGi France",
+   "offre": {
+    "company": "ABGi France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage : Consultant Scientifique en Innovation - Spé Mécanique H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-scientifique-en-innovation-sp%C3%A9-m%C3%A9canique-h-f-at-abgi-france-4487311493"
+   },
    "titre": "Stage : Consultant Scientifique en Innovation - Spé Mécanique H/F",
    "vue_le": "2026-11-13"
   },
@@ -1803,24 +3525,76 @@
   "dfd86ef2966da2cd": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Crédit Agricole Technologies et Services",
+   "offre": {
+    "company": "Crédit Agricole Technologies et Services",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-07",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Business Analyst - (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-business-analyst-f-h-at-cr%C3%A9dit-agricole-technologies-et-services-4477399531"
+   },
    "titre": "Stage - Business Analyst - (F/H)",
    "vue_le": "2026-11-14"
   },
   "e041ac32d244fd16": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Diptyque Paris",
+   "offre": {
+    "company": "Diptyque Paris",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Assistant Stratégie & Business Performance H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-assistant-strat%C3%A9gie-business-performance-h-f-at-diptyque-paris-4488869285"
+   },
    "titre": "Stage - Assistant Stratégie & Business Performance H/F",
    "vue_le": "2026-11-13"
   },
   "e14a1e92db96843d": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Opfikon, Zurich, Suisse",
+    "published": "2026-10-21",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Strategy & Transformation Associate Consultant - Intern",
+    "url": "https://ch.linkedin.com/jobs/view/strategy-transformation-associate-consultant-intern-at-capgemini-invent-4482074938"
+   },
    "titre": "Strategy & Transformation Associate Consultant - Intern",
    "vue_le": "2026-10-28"
   },
   "e187b001a8cbde79": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Assurance Vallée - Cluster Assurance AuRA",
+   "offre": {
+    "company": "Assurance Vallée - Cluster Assurance AuRA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Villeurbanne",
+    "published": "2026-10-30",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Assistant Performance/Business Analyst (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-assistant-performance-business-analyst-f-h-at-assurance-vall%C3%A9e-cluster-assurance-aura-4483434806"
+   },
    "titre": "Stage Assistant Performance/Business Analyst (F/H)",
    "vue_le": "2026-11-14"
   },
@@ -1833,12 +3607,38 @@
   "e2f299e948764bd5": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Simon-Kucher",
+   "offre": {
+    "company": "Simon-Kucher",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-10-28",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Associate Consultant (m/f/d) - Stage de fin d'études",
+    "url": "https://fr.linkedin.com/jobs/view/associate-consultant-m-f-d-stage-de-fin-d-%C3%A9tudes-at-simon-kucher-4444141432"
+   },
    "titre": "Associate Consultant (m/f/d) - Stage de fin d'études",
    "vue_le": "2026-11-04"
   },
   "e349d2a44ace05ae": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Audi Revolut F1 Team",
+   "offre": {
+    "company": "Audi Revolut F1 Team",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Hinwil, Zurich, Suisse",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern Commercial Strategy",
+    "url": "https://ch.linkedin.com/jobs/view/intern-commercial-strategy-at-audi-revolut-f1-team-4488322490"
+   },
    "titre": "Intern Commercial Strategy",
    "vue_le": "2026-11-13"
   },
@@ -1851,6 +3651,19 @@
   "e3e134a812b14ec8": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Accenture France",
+   "offre": {
+    "company": "Accenture France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant fonctionnel PLM en stage F/H - Paris",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-fonctionnel-plm-en-stage-f-h-paris-at-accenture-france-4488669305"
+   },
    "titre": "Consultant fonctionnel PLM en stage F/H - Paris",
    "vue_le": "2026-11-12"
   },
@@ -1887,6 +3700,19 @@
   "e99b46ad9de87b51": {
    "derniere_vue": "2026-11-15",
    "entreprise": "ABGi France",
+   "offre": {
+    "company": "ABGi France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-05",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage : Consultant Scientifique en Innovation - Spécialisation Electronique H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-scientifique-en-innovation-sp%C3%A9cialisation-electronique-h-f-at-abgi-france-4486762923"
+   },
    "titre": "Stage : Consultant Scientifique en Innovation - Spécialisation Electronique H/F",
    "vue_le": "2026-11-15"
   },
@@ -1929,6 +3755,19 @@
   "f1bf96934c2c402c": {
    "derniere_vue": "2026-11-15",
    "entreprise": "CGI Business Consulting",
+   "offre": {
+    "company": "CGI Business Consulting",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-10-30",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Conseil : Consultant(e) CFO Advisory F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-conseil-consultant-e-cfo-advisory-f-h-at-cgi-business-consulting-4485631268"
+   },
    "titre": "Stage Conseil : Consultant(e) CFO Advisory F/H",
    "vue_le": "2026-10-31"
   },
@@ -1947,12 +3786,38 @@
   "f392c8f3feb45ef4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-01",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Transformation Digitale IT - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-transformation-digitale-it-stage-at-capgemini-invent-4472474140"
+   },
    "titre": "Consultante / Consultant Transformation Digitale IT - Stage",
    "vue_le": "2026-11-03"
   },
   "f51ab768e4606d5d": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-08",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d’études – Conseil Techno & Gestion de projet (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d%E2%80%99%C3%A9tudes-%E2%80%93-conseil-techno-gestion-de-projet-h-f-at-deloitte-4443869642"
+   },
    "titre": "Stage de fin d’études – Conseil Techno & Gestion de projet (H/F)",
    "vue_le": "2026-10-26"
   },
@@ -1971,6 +3836,19 @@
   "f64a223e844b5e24": {
    "derniere_vue": "2026-11-15",
    "entreprise": "BDO France",
+   "offre": {
+    "company": "BDO France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-10-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Consultant en Stratégie pôle Aviation- F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-consultant-en-strat%C3%A9gie-p%C3%B4le-aviation-f-h-at-bdo-france-4483265469"
+   },
    "titre": "Stagiaire Consultant en Stratégie pôle Aviation- F/H",
    "vue_le": "2026-10-28"
   },
@@ -1989,6 +3867,19 @@
   "f720eeae27a99fe8": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Emerton",
+   "offre": {
+    "company": "Emerton",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Strategy Consultant (Internship)",
+    "url": "https://fr.linkedin.com/jobs/view/strategy-consultant-internship-at-emerton-4488514581"
+   },
    "titre": "Strategy Consultant (Internship)",
    "vue_le": "2026-11-13"
   },
@@ -2007,24 +3898,76 @@
   "f951f887944b73f9": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Onepoint",
+   "offre": {
+    "company": "Onepoint",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d'études - Consultant Stratégie IA F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-strat%C3%A9gie-ia-f-h-at-onepoint-4484376714"
+   },
    "titre": "Stage de fin d'études - Consultant Stratégie IA F/H",
    "vue_le": "2026-11-03"
   },
   "f9b76e5fe2357c03": {
    "derniere_vue": "2026-11-15",
    "entreprise": "MBDA",
+   "offre": {
+    "company": "MBDA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Le Plessis-Robinson",
+    "published": "2026-11-12",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Stratégie : R&T Capture Plan France F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-strat%C3%A9gie-r-t-capture-plan-france-f-h-at-mbda-4474309922"
+   },
    "titre": "Stage Stratégie : R&T Capture Plan France F/H",
    "vue_le": "2026-10-28"
   },
   "fbe324474646a3b4": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Stratégie IT - Organisation et Performance de la DSI F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-strat%C3%A9gie-it-organisation-et-performance-de-la-dsi-f-h-at-deloitte-4485742629"
+   },
    "titre": "Stagiaire Stratégie IT - Organisation et Performance de la DSI F/H",
    "vue_le": "2026-11-05"
   },
   "fc5a10df48ad61d7": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Deloitte",
+   "offre": {
+    "company": "Deloitte",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "La Défense",
+    "published": "2026-10-31",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Consultant IA & Business Transformation F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-ia-business-transformation-f-h-at-deloitte-4432860801"
+   },
    "titre": "Stage Consultant IA & Business Transformation F/H",
    "vue_le": "2026-10-28"
   },
@@ -2037,12 +3980,38 @@
   "fcd12b41eb350c40": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Cabinet (voir l'offre)",
+   "offre": {
+    "company": "BNP Paribas",
+    "contract": "stage",
+    "description": "Pantin Stage Entreprise Travailler au sein de BNP Paribas, c’est : Un package et des avantages : Une gratification mensuelle brute attractive, supérieure au minimum prévu par la loi, Un accès au restaurant d’entreprise ou à des tickets restaurant, Des activités sociales et culturelles via le comité d’entreprise, En fonction de l’environnement, le télétravail peut être possible et est à organiser avec le tuteur selon les règles de l’entreprise Vos perspectives d’évolution ? CIB Consulting & Transformation vise à offrir à ses talents un environnement leur permettant d’évoluer en continu, de sortir de leur zone de confort et de développer leurs compétences. Le consulting vous ouvrira également des perspectives dans de nouveaux domaines transverses, comme la data et la Transformation Numérique. Faisant partie intégrante du réseau des équipes de conseil interne du Groupe, CIB Consulting & Transfo offre de nombreuses passerelles au sein de la filière, y compris à l’international. D’autres opportunités pourront s’offrir à vous, favorisant votre insertion professionnelle : Le Graduate Programme vous permet de booster votre avenir, de développer vos compétences et votre leadership grâce à des missions à responsabilité, Le Volontariat International en Entreprise vous donne l’opportunité d’enrichir votre parcours avec une expérience internationale unique de 12 à 24 mois. Poste Vous rejoindrez CIB Consulting, l’équipe de conseil de CIB pensée comme une alternative aux cabinets externes. ",
+    "duration_months": 0,
+    "location": "",
+    "published": "2026-05-15",
+    "salary": "",
+    "source": "consultor",
+    "start_date": "",
+    "title": "STAGE – Consultant CIB Consulting (H/F) – 6 mois",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/stage-consultant-cib-consulting-h-f-6-mois"
+   },
    "titre": "STAGE – Consultant CIB Consulting (H/F) – 6 mois",
    "vue_le": "2026-10-20"
   },
   "fdc1eef3194a0732": {
    "derniere_vue": "2026-11-15",
    "entreprise": "Porsche Consulting",
+   "offre": {
+    "company": "Porsche Consulting",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Associate Consultant Intern (H/F)",
+    "url": "https://fr.linkedin.com/jobs/view/associate-consultant-intern-h-f-at-porsche-consulting-4488154343"
+   },
    "titre": "Associate Consultant Intern (H/F)",
    "vue_le": "2026-11-07"
   },
