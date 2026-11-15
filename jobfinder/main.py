@@ -56,7 +56,7 @@ def dedoublonner(offres):
 
 
 def ecrire_message_nouvelles(nouvelles, maj):
-    """Prépare le texte de l'e-mail (une « issue » GitHub). Fichier vide s'il n'y a rien."""
+    """Prépare le texte de l'e-mail (une « issue » GitHub). Pas de fichier s'il n'y a rien."""
     if not nouvelles:
         if FICHIER_NOUVELLES.exists():
             FICHIER_NOUVELLES.unlink()
@@ -72,11 +72,21 @@ def ecrire_message_nouvelles(nouvelles, maj):
 def main():
     cfg = lire_config()
     maintenant = datetime.now(ZoneInfo("Europe/Paris"))
+    jour = maintenant.date()
     maj = maintenant.strftime("%d/%m/%Y à %H:%M")
 
     offres, erreurs = lancer_sources(cfg)
     offres = dedoublonner(offres)
-    gardees, stats = matching.traiter(offres, cfg)
+    ids_du_jour = {o.id for o in offres}
+
+    # Offres vues les jours précédents mais absentes des sources ce matin
+    memoire = storage.charger()
+    archivees = storage.offres_archivees(memoire, ids_du_jour, jour)
+
+    # Statistiques par source : uniquement ce que les sources ont trouvé aujourd'hui
+    _, stats = matching.traiter(offres, cfg)
+    # Liste affichée : offres du jour + offres conservées, filtrées et notées
+    gardees, _ = matching.traiter(offres + archivees, cfg)
 
     # Toutes les sources activées apparaissent dans l'onglet « Sources », même à 0 offre
     for nom, active in (cfg.get("sources") or {}).items():
@@ -85,10 +95,15 @@ def main():
     for nom, message in erreurs.items():
         stats.setdefault(nom, {"trouvees": 0, "gardees": 0, "retirees": {}})["erreur"] = message
 
-    # Mémoire des offres déjà vues -> badge NOUVEAU
-    memoire = storage.charger()
-    nouvelles = storage.marquer_nouvelles(gardees, memoire, maintenant.date())
-    storage.nettoyer(memoire, maintenant.date())
+    # Mémoire : badge NOUVEAU et archive (seulement pour les offres vues aujourd'hui)
+    du_jour = [o for o in gardees if o.id in ids_du_jour]
+    nouvelles = storage.marquer_nouvelles(du_jour, memoire, jour)
+    conservees = 0
+    for o in gardees:
+        if o.id not in ids_du_jour:
+            o.badges.append("NON REVUE AUJOURD'HUI")
+            conservees += 1
+    storage.nettoyer(memoire, jour)
     storage.sauvegarder(memoire)
 
     gardees.sort(key=lambda o: (-o.score, o.company.lower()))
@@ -97,7 +112,8 @@ def main():
     if cfg.get("notifications", {}).get("email_si_nouvelles_offres", True):
         ecrire_message_nouvelles([o for o in gardees if o.is_new], maj)
 
-    print(f"Terminé : {len(offres)} offres lues, {len(gardees)} gardées, {nouvelles} nouvelles.")
+    print(f"Terminé : {len(offres)} offres lues, {len(gardees)} affichées "
+          f"(dont {conservees} conservées des jours précédents), {nouvelles} nouvelles.")
 
 
 if __name__ == "__main__":
