@@ -1,7 +1,7 @@
 {
  "offres": {
   "004673f1095e99a2": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "EY",
    "offre": {
     "company": "EY",
@@ -20,7 +20,7 @@
    "vue_le": "2026-10-28"
   },
   "01923e2c10d09194": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Inddigo",
    "offre": {
     "company": "Inddigo",
@@ -57,7 +57,7 @@
    "vue_le": "2026-10-28"
   },
   "0319832d9003d823": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "OPTEVEN ASSURANCES",
    "offre": {
     "company": "OPTEVEN ASSURANCES",
@@ -156,7 +156,7 @@
    "vue_le": "2026-10-26"
   },
   "0c5b144982f62149": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Simon-Kucher",
    "offre": {
     "company": "Simon-Kucher",
@@ -194,7 +194,7 @@
    "vue_le": "2026-11-12"
   },
   "0d57672d2872f5d3": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -267,7 +267,7 @@
    "vue_le": "2026-10-28"
   },
   "18b4163fd8e60e6c": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Sia",
    "offre": {
     "company": "Sia",
@@ -286,7 +286,7 @@
    "vue_le": "2026-11-14"
   },
   "1971e792885b00a5": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Talisker",
    "offre": {
     "company": "Talisker",
@@ -378,7 +378,7 @@
    "vue_le": "2026-10-28"
   },
   "237b67003539fb3f": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Wavestone",
    "offre": {
     "company": "Wavestone",
@@ -403,7 +403,7 @@
    "vue_le": "2026-10-28"
   },
   "23dcdc9efd36b8ea": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Wavestone",
    "offre": {
     "company": "Wavestone",
@@ -428,7 +428,7 @@
    "vue_le": "2026-11-06"
   },
   "24002e26db876bda": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "EFESO Management Consultants",
    "offre": {
     "company": "EFESO Management Consultants",
@@ -485,7 +485,7 @@
    "vue_le": "2026-10-26"
   },
   "272eb76fc0ee78fc": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -503,6 +503,25 @@
    "titre": "Stage Conseil en Transformation F/H",
    "vue_le": "2026-10-26"
   },
+  "286ab3efa2d351ae": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Capgemini",
+   "offre": {
+    "company": "Capgemini",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Innovation & Souveraineté Numérique - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-innovation-souverainet%C3%A9-num%C3%A9rique-stage-at-capgemini-4489912254"
+   },
+   "titre": "Consultante / Consultant Innovation & Souveraineté Numérique - Stage",
+   "vue_le": "2026-11-19"
+  },
   "29ede04edc70b5cf": {
    "derniere_vue": "2026-11-07",
    "entreprise": "MBDA",
@@ -510,7 +529,7 @@
    "vue_le": "2026-10-30"
   },
   "2a1eb8e930633433": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Ailancy Advisory",
    "offre": {
     "company": "Ailancy Advisory",
@@ -529,7 +548,7 @@
    "vue_le": "2026-10-30"
   },
   "2aeab458329ccf58": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "KPMG France",
    "offre": {
     "company": "KPMG France",
@@ -548,7 +567,7 @@
    "vue_le": "2026-11-04"
   },
   "2b03424465cdd95f": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Detecon",
    "offre": {
     "company": "Detecon",
@@ -579,7 +598,7 @@
    "vue_le": "2026-10-28"
   },
   "2c10fd9880df0a86": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Wavestone",
    "offre": {
     "company": "Wavestone",
@@ -587,7 +606,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Villeurbanne",
-    "published": "2026-11-03",
+    "published": "2026-11-18",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -623,7 +642,7 @@
    "vue_le": "2026-11-01"
   },
   "30b870d922b89f45": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Leyton",
    "offre": {
     "company": "Leyton",
@@ -686,7 +705,7 @@
    "vue_le": "2026-10-28"
   },
   "31dddc97bba0cea6": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Crédit Agricole Technologies et Services",
    "offre": {
     "company": "Crédit Agricole Technologies et Services",
@@ -704,6 +723,25 @@
    "titre": "Stage - Business Analyst - Crédits Agri-Pro & Entreprises (F/H)",
    "vue_le": "2026-11-14"
   },
+  "326e4110dc5e14f8": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Capgemini",
+   "offre": {
+    "company": "Capgemini",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-11",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Innovation & Souveraineté Numérique - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-innovation-souverainet%C3%A9-num%C3%A9rique-stage-at-capgemini-4489697978"
+   },
+   "titre": "Consultante / Consultant Innovation & Souveraineté Numérique - Stage",
+   "vue_le": "2026-11-19"
+  },
   "326f29062c94be1e": {
    "derniere_vue": "2026-11-03",
    "entreprise": "ABGi France",
@@ -711,7 +749,7 @@
    "vue_le": "2026-10-26"
   },
   "32a4f2aec27aeba5": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "UBS",
    "offre": {
     "company": "UBS",
@@ -736,7 +774,7 @@
    "vue_le": "2026-11-07"
   },
   "34b7a1303a343ed3": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Sia",
    "offre": {
     "company": "Sia",
@@ -760,8 +798,27 @@
    "titre": "Stage Business Analyst / Analyste stratégique & intelligence économique H/F 1",
    "vue_le": "2026-11-06"
   },
+  "3559f95045633302": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Sopra Steria",
+   "offre": {
+    "company": "Sopra Steria",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-e-sap-bl-sap-ara-lyon-at-sopra-steria-4492004739"
+   },
+   "titre": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+   "vue_le": "2026-11-19"
+  },
   "35aeb8fce3f8a824": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -780,7 +837,7 @@
    "vue_le": "2026-10-26"
   },
   "368c830ceb40a6a7": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "PwC France",
    "offre": {
     "company": "PwC France",
@@ -799,7 +856,7 @@
    "vue_le": "2026-11-13"
   },
   "36bebe3062df6af9": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "AFRY",
    "offre": {
     "company": "AFRY",
@@ -816,6 +873,25 @@
    },
    "titre": "Stage – Consultant en stratégie – Énergie",
    "vue_le": "2026-10-26"
+  },
+  "373ba93f752411d7": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante/Consultant Intelligent Industry - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-intelligent-industry-stage-at-capgemini-invent-4492065873"
+   },
+   "titre": "Consultante/Consultant Intelligent Industry - Stage",
+   "vue_le": "2026-11-19"
   },
   "38286863bc1a2c78": {
    "derniere_vue": "2026-11-06",
@@ -842,7 +918,7 @@
    "vue_le": "2026-10-28"
   },
   "391bceefeda8dc50": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Strategia Partners",
@@ -859,6 +935,25 @@
    },
    "titre": "Consultant(e) stagiaire",
    "vue_le": "2026-10-20"
+  },
+  "39f51386c88dc77d": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Agnostic Intelligence",
+   "offre": {
+    "company": "Agnostic Intelligence",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zoug, Zoug, Suisse",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Praktikum Consulting (m/w/d), 100% - 6 Monate",
+    "url": "https://ch.linkedin.com/jobs/view/praktikum-consulting-m-w-d-100%25-6-monate-at-agnostic-intelligence-4490873422"
+   },
+   "titre": "Praktikum Consulting (m/w/d), 100% - 6 Monate",
+   "vue_le": "2026-11-19"
   },
   "3a3771ff37f659d5": {
    "derniere_vue": "2026-11-18",
@@ -880,7 +975,7 @@
    "vue_le": "2026-10-28"
   },
   "3bc952e7d877f81d": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Renault Group",
    "offre": {
     "company": "Renault Group",
@@ -888,7 +983,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Boulogne-Billancourt",
-    "published": "2026-10-27",
+    "published": "2026-11-18",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -899,7 +994,7 @@
    "vue_le": "2026-10-28"
   },
   "3c7cf9a2cabf4c4b": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "PwC France",
    "offre": {
     "company": "PwC France",
@@ -930,7 +1025,7 @@
    "vue_le": "2026-11-05"
   },
   "3cc4ad2f51d2f62d": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Oney",
    "offre": {
     "company": "Oney",
@@ -968,7 +1063,7 @@
    "vue_le": "2026-10-28"
   },
   "3dab70ea3db6de25": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Audiens",
    "offre": {
     "company": "Audiens",
@@ -1030,7 +1125,7 @@
    "vue_le": "2026-10-26"
   },
   "43001b312d841574": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -1061,7 +1156,7 @@
    "vue_le": "2026-11-05"
   },
   "451132b0620bd3ff": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "EY-Parthenon",
    "offre": {
     "company": "EY-Parthenon",
@@ -1098,8 +1193,27 @@
    "titre": "Praktikum HR Consulting (m/w/d), 100% - 6 Monate",
    "vue_le": "2026-11-03"
   },
+  "458537a21d5bd054": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Faurecia",
+   "offre": {
+    "company": "Faurecia",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Nanterre",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Corporate Strategy Intern",
+    "url": "https://fr.linkedin.com/jobs/view/corporate-strategy-intern-at-faurecia-4492215034"
+   },
+   "titre": "Corporate Strategy Intern",
+   "vue_le": "2026-11-19"
+  },
   "477920b24e7f7ff3": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Altman Solon",
    "offre": {
     "company": "Altman Solon",
@@ -1161,7 +1275,7 @@
    "vue_le": "2026-10-28"
   },
   "4b9ea444e7f87d06": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Simon-Kucher",
@@ -1180,7 +1294,7 @@
    "vue_le": "2026-10-20"
   },
   "4ba055685f99f7b4": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Meanquest",
    "offre": {
     "company": "Meanquest",
@@ -1267,7 +1381,7 @@
    "vue_le": "2026-10-26"
   },
   "4f0328aa43b7d014": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -1286,7 +1400,7 @@
    "vue_le": "2026-10-26"
   },
   "4f03490b73343e38": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "MASAÏ",
    "offre": {
     "company": "MASAÏ",
@@ -1373,7 +1487,7 @@
    "vue_le": "2026-10-28"
   },
   "5921f9c7311e0b20": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Avanade",
    "offre": {
     "company": "Avanade",
@@ -1381,7 +1495,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Issy-les-Moulineaux",
-    "published": "2026-10-27",
+    "published": "2026-11-18",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -1392,7 +1506,7 @@
    "vue_le": "2026-10-28"
   },
   "5ae4430132a01c43": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Talan",
    "offre": {
     "company": "Talan",
@@ -1453,7 +1567,7 @@
    "vue_le": "2026-10-28"
   },
   "5fa7f4cd0deea126": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Mews Partners",
    "offre": {
     "company": "Mews Partners",
@@ -1472,7 +1586,7 @@
    "vue_le": "2026-11-18"
   },
   "6027e29211287874": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "AlixPartners",
    "offre": {
     "company": "AlixPartners",
@@ -1497,7 +1611,7 @@
    "vue_le": "2026-10-28"
   },
   "60f6e785c5eecba9": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Yole Group",
    "offre": {
     "company": "Yole Group",
@@ -1540,7 +1654,7 @@
    "vue_le": "2026-10-28"
   },
   "641380b30979db3b": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Dassault Systèmes",
    "offre": {
     "company": "Dassault Systèmes",
@@ -1578,7 +1692,7 @@
    "vue_le": "2026-11-06"
   },
   "6434a3393a7463f0": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Sopra Steria Next",
    "offre": {
     "company": "Sopra Steria Next",
@@ -1597,7 +1711,7 @@
    "vue_le": "2026-11-06"
   },
   "64b3615cc2c01767": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "CGI Business Consulting",
    "offre": {
     "company": "CGI Business Consulting",
@@ -1628,7 +1742,7 @@
    "vue_le": "2026-10-28"
   },
   "66fd30ccdf317ad9": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Orange Business",
    "offre": {
     "company": "Orange Business",
@@ -1647,7 +1761,7 @@
    "vue_le": "2026-11-18"
   },
   "6a196efdcb2fd6f2": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "SAVENCIA",
    "offre": {
     "company": "SAVENCIA",
@@ -1710,7 +1824,7 @@
    "vue_le": "2026-10-28"
   },
   "6c642b4ccc7a823e": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -1735,7 +1849,7 @@
    "vue_le": "2026-11-05"
   },
   "6dbfaa592dbad728": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "MSC Cruises",
    "offre": {
     "company": "MSC Cruises",
@@ -1743,7 +1857,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Genève, Genève, Suisse",
-    "published": "2026-10-27",
+    "published": "2026-11-18",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -1779,7 +1893,7 @@
    "vue_le": "2026-11-12"
   },
   "7094a3f7d39a5354": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "CMI",
@@ -1798,7 +1912,7 @@
    "vue_le": "2026-10-20"
   },
   "72199eadac60dcd5": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "KPMG France",
    "offre": {
     "company": "KPMG France",
@@ -1848,7 +1962,7 @@
    "vue_le": "2026-10-28"
   },
   "75bef4e94b82ecd9": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "MENESTYS RECRUTEMENT",
    "offre": {
     "company": "MENESTYS RECRUTEMENT",
@@ -1885,7 +1999,7 @@
    "vue_le": "2026-10-28"
   },
   "77b6c25fcaee8b84": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Onepoint",
    "offre": {
     "company": "Onepoint",
@@ -1959,7 +2073,7 @@
    "vue_le": "2026-10-28"
   },
   "7c6e3a6c0195d50e": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Assystem",
    "offre": {
     "company": "Assystem",
@@ -2003,7 +2117,7 @@
    "vue_le": "2026-11-04"
   },
   "7da56b46c3b5a3b1": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Simon-Kucher",
    "offre": {
     "company": "Simon-Kucher",
@@ -2034,7 +2148,7 @@
    "vue_le": "2026-11-12"
   },
   "7f8b9a6dd2e2d32f": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "ADEO",
    "offre": {
     "company": "ADEO",
@@ -2072,7 +2186,7 @@
    "vue_le": "2026-11-06"
   },
   "810183be84fce052": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Accenture France",
    "offre": {
     "company": "Accenture France",
@@ -2103,7 +2217,7 @@
    "vue_le": "2026-11-06"
   },
   "82a4d228523ea67a": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Asys",
    "offre": {
     "company": "Asys",
@@ -2166,7 +2280,7 @@
    "vue_le": "2026-11-13"
   },
   "84d1c1fdc5c95e60": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Oresys",
    "offre": {
     "company": "Oresys",
@@ -2191,7 +2305,7 @@
    "vue_le": "2026-10-28"
   },
   "85cf2b11501739c4": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Saegus",
    "offre": {
     "company": "Saegus",
@@ -2216,7 +2330,7 @@
    "vue_le": "2026-10-28"
   },
   "86a8ffa4bdb715c9": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "VISEO",
    "offre": {
     "company": "VISEO",
@@ -2297,7 +2411,7 @@
    "vue_le": "2026-11-06"
   },
   "8b6b02b5f6058cc5": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Mondial Relay",
    "offre": {
     "company": "Mondial Relay",
@@ -2322,7 +2436,7 @@
    "vue_le": "2026-10-30"
   },
   "8c3d1be1c9dbb8d4": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Artimon",
    "offre": {
     "company": "Artimon",
@@ -2341,7 +2455,7 @@
    "vue_le": "2026-11-12"
   },
   "8d78267fcc4059ba": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Magellan",
    "offre": {
     "company": "Magellan",
@@ -2372,7 +2486,7 @@
    "vue_le": "2026-10-28"
   },
   "8f9388bf50612d1f": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -2435,7 +2549,7 @@
    "vue_le": "2026-10-28"
   },
   "9422b27804d1b3c4": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Caisse d'Epargne Hauts de France",
    "offre": {
     "company": "Caisse d'Epargne Hauts de France",
@@ -2466,7 +2580,7 @@
    "vue_le": "2026-10-27"
   },
   "954d206642e01c90": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "WEMEAN",
    "offre": {
     "company": "WEMEAN",
@@ -2485,7 +2599,7 @@
    "vue_le": "2026-11-13"
   },
   "9582786a6b5f722e": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Swiss International Air Lines",
    "offre": {
     "company": "Swiss International Air Lines",
@@ -2493,7 +2607,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Kloten, Zurich, Suisse",
-    "published": "2026-11-07",
+    "published": "2026-11-18",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -2504,7 +2618,7 @@
    "vue_le": "2026-11-13"
   },
   "96d28a158f7dca8e": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -2529,7 +2643,7 @@
    "vue_le": "2026-10-26"
   },
   "989018853b31d58f": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Bain & Company",
@@ -2548,7 +2662,7 @@
    "vue_le": "2026-10-20"
   },
   "994baa819461dd94": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "SICPA",
    "offre": {
     "company": "SICPA",
@@ -2573,7 +2687,7 @@
    "vue_le": "2026-10-26"
   },
   "9a98f3dfa9a10792": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "SECAFI",
    "offre": {
     "company": "SECAFI",
@@ -2617,7 +2731,7 @@
    "vue_le": "2026-10-29"
   },
   "9b9688c91d1d7644": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Publicis Sapient Strategy",
@@ -2648,7 +2762,7 @@
    "vue_le": "2026-10-28"
   },
   "9d64ddd89ea8266c": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "zeb consulting",
    "offre": {
     "company": "zeb consulting",
@@ -2667,7 +2781,7 @@
    "vue_le": "2026-11-17"
   },
   "9d7a18920d341305": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "CEVA Logistics",
    "offre": {
     "company": "CEVA Logistics",
@@ -2717,7 +2831,7 @@
    "vue_le": "2026-11-14"
   },
   "a2e4f2a716d3c281": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Advancy",
@@ -2736,7 +2850,7 @@
    "vue_le": "2026-10-20"
   },
   "a327023c39b9bdaa": {
-   "derniere_vue": "2026-11-17",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Onepoint",
    "offre": {
     "company": "Onepoint",
@@ -2761,7 +2875,7 @@
    "vue_le": "2026-10-28"
   },
   "a4785d65aca77fb9": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Europcar Mobility Group",
    "offre": {
     "company": "Europcar Mobility Group",
@@ -2805,7 +2919,7 @@
    "vue_le": "2026-10-28"
   },
   "a666a249b1291779": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Detecon",
    "offre": {
     "company": "Detecon",
@@ -2842,7 +2956,7 @@
    "vue_le": "2026-10-28"
   },
   "aa19dbcb4c258bfb": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -2861,7 +2975,7 @@
    "vue_le": "2026-10-28"
   },
   "aa29fc46395c6ef4": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Dynergie",
    "offre": {
     "company": "Dynergie",
@@ -2896,6 +3010,25 @@
    "entreprise": "PPT Consulting",
    "titre": "Final Year Internship Consultant - Cybersecurity & AI Trust",
    "vue_le": "2026-11-04"
+  },
+  "aeaeb6f21db6a855": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Hello Tomorrow",
+   "offre": {
+    "company": "Hello Tomorrow",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-16",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Deep Tech & Innovation Consulting Intern",
+    "url": "https://fr.linkedin.com/jobs/view/deep-tech-innovation-consulting-intern-at-hello-tomorrow-4490948724"
+   },
+   "titre": "Deep Tech & Innovation Consulting Intern",
+   "vue_le": "2026-11-19"
   },
   "af4b018368fa3a25": {
    "derniere_vue": "2026-11-12",
@@ -2941,8 +3074,21 @@
    "vue_le": "2026-10-28"
   },
   "b213b577c31e18d1": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Artefact",
+   "offre": {
+    "company": "Artefact",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-06",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern SMA Consultant - Paris",
+    "url": "https://fr.linkedin.com/jobs/view/intern-sma-consultant-paris-at-artefact-4479854097"
+   },
    "titre": "Intern SMA Consultant - Paris",
    "vue_le": "2026-11-09"
   },
@@ -3002,7 +3148,7 @@
    "vue_le": "2026-10-28"
   },
   "b6242bb7b059729a": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -3027,7 +3173,7 @@
    "vue_le": "2026-10-28"
   },
   "b8546793dd4df157": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "UBS",
    "offre": {
     "company": "UBS",
@@ -3046,7 +3192,7 @@
    "vue_le": "2026-11-13"
   },
   "b8e3b64448936d0b": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Sopra Steria Next",
    "offre": {
     "company": "Sopra Steria Next",
@@ -3082,6 +3228,25 @@
    "titre": "Strategy & Business Development Intern f/m/d (80-100%)",
    "vue_le": "2026-11-12"
   },
+  "bb581f26706fa97d": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "ACT-ON HRIS",
+   "offre": {
+    "company": "ACT-ON HRIS",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Neuilly-sur-Seine",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant(e) SIRH Junior – Stage de fin d'étude H/F",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-sirh-junior-%E2%80%93-stage-de-fin-d-%C3%A9tude-h-f-at-act-on-hris-4492014925"
+   },
+   "titre": "Consultant(e) SIRH Junior – Stage de fin d'étude H/F",
+   "vue_le": "2026-11-19"
+  },
   "bb921f57c99046b8": {
    "derniere_vue": "2026-11-14",
    "entreprise": "EY",
@@ -3107,7 +3272,7 @@
    "vue_le": "2026-10-31"
   },
   "be252ae86023394f": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "EY",
    "offre": {
     "company": "EY",
@@ -3132,7 +3297,7 @@
    "vue_le": "2026-11-13"
   },
   "be6387ac4363a498": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Sideby",
    "offre": {
     "company": "Sideby",
@@ -3157,7 +3322,7 @@
    "vue_le": "2026-10-28"
   },
   "bef40d8faf6e47b7": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Schneider Electric",
    "offre": {
     "company": "Schneider Electric",
@@ -3182,7 +3347,7 @@
    "vue_le": "2026-11-06"
   },
   "c0229d8aca935d1e": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -3219,8 +3384,27 @@
    "titre": "Stage - Business & Strategy Project Assistant",
    "vue_le": "2026-11-13"
   },
+  "c16e7956f1255854": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "CNS Communications",
+   "offre": {
+    "company": "CNS Communications",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon et périphérie",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stagiaire Ingénieur-Consultant (IA, Cybersécurité, Cloud) - H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-consultant-ia-cybers%C3%A9curit%C3%A9-cloud-h-f-at-cns-communications-4491817528"
+   },
+   "titre": "Stagiaire Ingénieur-Consultant (IA, Cybersécurité, Cloud) - H/F",
+   "vue_le": "2026-11-19"
+  },
   "c18cebb0da159639": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Wavestone",
    "offre": {
     "company": "Wavestone",
@@ -3239,7 +3423,7 @@
    "vue_le": "2026-10-28"
   },
   "c25769758b4ab223": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Devoteam Digital Impulse",
    "offre": {
     "company": "Devoteam Digital Impulse",
@@ -3264,7 +3448,7 @@
    "vue_le": "2026-10-28"
   },
   "c43d0d406d808492": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Advancy",
@@ -3327,7 +3511,7 @@
    "vue_le": "2026-11-06"
   },
   "c6a283b07fdf68c8": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "ABGi France",
    "offre": {
     "company": "ABGi France",
@@ -3390,7 +3574,7 @@
    "vue_le": "2026-11-18"
   },
   "c72ab42c16a53ab7": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Thales",
    "offre": {
     "company": "Thales",
@@ -3434,7 +3618,7 @@
    "vue_le": "2026-10-28"
   },
   "c7f0e7436eac7b36": {
-   "derniere_vue": "2026-11-15",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Accenture France",
    "offre": {
     "company": "Accenture France",
@@ -3495,8 +3679,27 @@
    "titre": "Stage de fin d'études - Consultant·e  Change Management",
    "vue_le": "2026-10-28"
   },
+  "ccb902734a4f4253": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Agnostic Intelligence",
+   "offre": {
+    "company": "Agnostic Intelligence",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zoug, Zoug, Suisse",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Praktikum HR Consulting (m/w/d), 100% - 6 Monate",
+    "url": "https://ch.linkedin.com/jobs/view/praktikum-hr-consulting-m-w-d-100%25-6-monate-at-agnostic-intelligence-4490874190"
+   },
+   "titre": "Praktikum HR Consulting (m/w/d), 100% - 6 Monate",
+   "vue_le": "2026-11-19"
+  },
   "cfb4d8c9b26ca2f6": {
-   "derniere_vue": "2026-11-17",
+   "derniere_vue": "2026-11-19",
    "entreprise": "VISEO",
    "offre": {
     "company": "VISEO",
@@ -3559,7 +3762,7 @@
    "vue_le": "2026-10-28"
   },
   "d0fd53fcfaf07e2a": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Bartle",
    "offre": {
     "company": "Bartle",
@@ -3578,7 +3781,7 @@
    "vue_le": "2026-11-03"
   },
   "d2afed139c60c86c": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "SproClub",
    "offre": {
     "company": "SproClub",
@@ -3607,6 +3810,25 @@
    "entreprise": "Fives",
    "titre": "Stagiaire Stratégie Groupe F/H",
    "vue_le": "2026-10-30"
+  },
+  "d5f9bee916cead66": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "Capgemini",
+   "offre": {
+    "company": "Capgemini",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-19",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant d'Application Transformation Supply Chain - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-d-application-transformation-supply-chain-stage-at-capgemini-4492228952"
+   },
+   "titre": "Consultante / Consultant d'Application Transformation Supply Chain - Stage",
+   "vue_le": "2026-11-19"
   },
   "d64ab404e56ec9d9": {
    "derniere_vue": "2026-11-16",
@@ -3647,15 +3869,15 @@
    "vue_le": "2026-10-26"
   },
   "d6d2b3171477004a": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Cabinet (voir l'offre)",
     "contract": "stage",
-    "description": "Paris, Lille Stagiaire Poste Descriptif du poste Nous recrutons actuellement nos stagiaires de fin d'études pour 2027. Nous sommes à la recherche de talents qui auront à cœur de participer à des missions de conseil en transformation auprès de nos clients, majoritairement issus des secteurs de l'énergie, de l'industrie, des transports et de la mobilité, des services financiers et du retail. Vos futures missions Accompagné dès votre arrivée par un ou une mentor, vous vivez pendant 6 mois une véritable expérience de Consultant. Vous êtes formé au métier de Consultant — Sur le terrain et grâce à notre programme de formation « Bartle Academy », vous développez progressivement les compétences et méthodes indispensables au métier de Consultant. Vous apprenez également à intégrer l'intelligence artificielle dans votre quotidien de Consultant, pour accélérer vos analyses, explorer de nouvelles approches, enrichir vos réflexions et gagner en efficacité dans la production de vos livrables, tout en développant votre esprit critique sur les usages de ces outils. Vous participez à une ou plusieurs missions de conseil — Vous travaillez en collaboration avec une équipe de Consultants Bartle auprès de nos clients et apportez votre rigueur, votre curiosité et votre créativité pour les accompagner dans leurs transformations. Vous intervenez sur l'ensemble du projet, du cadrage stratégique à la mise en œuvre opérationnelle, et êtes en relation directe avec les équipes dirigeantes de nos clients ",
+    "description": "",
     "duration_months": 0,
     "location": "",
-    "published": "2026-09-01",
+    "published": "",
     "salary": "",
     "source": "consultor",
     "start_date": "",
@@ -3704,7 +3926,7 @@
    "vue_le": "2026-10-28"
   },
   "d8fb0835fe1b4d31": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "CEA",
    "offre": {
     "company": "CEA",
@@ -3723,7 +3945,7 @@
    "vue_le": "2026-11-14"
   },
   "d934ddb9efc4d514": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Interpath",
    "offre": {
     "company": "Interpath",
@@ -3742,7 +3964,7 @@
    "vue_le": "2026-11-14"
   },
   "d9f120b7d5d4b1ee": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Colombus Consulting",
    "offre": {
     "company": "Colombus Consulting",
@@ -3773,7 +3995,7 @@
    "vue_le": "2026-10-20"
   },
   "dc2d5368b101534b": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "ABGi France",
    "offre": {
     "company": "ABGi France",
@@ -3810,7 +4032,7 @@
    "vue_le": "2026-11-03"
   },
   "dfd86ef2966da2cd": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Crédit Agricole Technologies et Services",
    "offre": {
     "company": "Crédit Agricole Technologies et Services",
@@ -3848,7 +4070,7 @@
    "vue_le": "2026-11-13"
   },
   "e14a1e92db96843d": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -3892,7 +4114,7 @@
    "vue_le": "2026-10-28"
   },
   "e2f299e948764bd5": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Simon-Kucher",
    "offre": {
     "company": "Simon-Kucher",
@@ -3936,7 +4158,7 @@
    "vue_le": "2026-10-26"
   },
   "e3e134a812b14ec8": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Accenture France",
    "offre": {
     "company": "Accenture France",
@@ -3961,7 +4183,7 @@
    "vue_le": "2026-10-28"
   },
   "e5ff76e31474adda": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Mews Partners",
    "offre": {
     "company": "Mews Partners",
@@ -4041,7 +4263,7 @@
    "vue_le": "2026-10-28"
   },
   "ef7800d9c09fbc00": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -4059,6 +4281,25 @@
    "titre": "Stage Conseil : Solutions d'entreprises - SAP F/H",
    "vue_le": "2026-10-29"
   },
+  "f01ff9bb889fd33d": {
+   "derniere_vue": "2026-11-19",
+   "entreprise": "IBM",
+   "offre": {
+    "company": "IBM",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-18",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "IBM Consulting apprenctice / COBOL developer",
+    "url": "https://fr.linkedin.com/jobs/view/ibm-consulting-apprenctice-cobol-developer-at-ibm-4491306883"
+   },
+   "titre": "IBM Consulting apprenctice / COBOL developer",
+   "vue_le": "2026-11-19"
+  },
   "f0ce928762095fd4": {
    "derniere_vue": "2026-11-01",
    "entreprise": "Rocken®",
@@ -4072,7 +4313,7 @@
    "vue_le": "2026-10-28"
   },
   "f1bf96934c2c402c": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "CGI Business Consulting",
    "offre": {
     "company": "CGI Business Consulting",
@@ -4103,7 +4344,7 @@
    "vue_le": "2026-11-04"
   },
   "f392c8f3feb45ef4": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -4122,7 +4363,7 @@
    "vue_le": "2026-11-03"
   },
   "f51ab768e4606d5d": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -4153,7 +4394,7 @@
    "vue_le": "2026-10-28"
   },
   "f64a223e844b5e24": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "BDO France",
    "offre": {
     "company": "BDO France",
@@ -4184,7 +4425,7 @@
    "vue_le": "2026-11-13"
   },
   "f720eeae27a99fe8": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Emerton",
    "offre": {
     "company": "Emerton",
@@ -4228,7 +4469,7 @@
    "vue_le": "2026-10-28"
   },
   "f951f887944b73f9": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Onepoint",
    "offre": {
     "company": "Onepoint",
@@ -4266,7 +4507,7 @@
    "vue_le": "2026-10-28"
   },
   "fbe324474646a3b4": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -4285,7 +4526,7 @@
    "vue_le": "2026-11-05"
   },
   "fc5a10df48ad61d7": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -4310,7 +4551,7 @@
    "vue_le": "2026-10-26"
   },
   "fcd12b41eb350c40": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "BNP Paribas",
@@ -4329,7 +4570,7 @@
    "vue_le": "2026-10-20"
   },
   "fdc1eef3194a0732": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-19",
    "entreprise": "Porsche Consulting",
    "offre": {
     "company": "Porsche Consulting",
