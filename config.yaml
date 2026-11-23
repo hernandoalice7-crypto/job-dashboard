@@ -7,21 +7,19 @@
 
 # ---------- TYPE DE CONTRAT ----------
 contrat:
-  duree_max_mois: 6            # durée maximale acceptée par l'école
-  types_acceptes:              # contrats acceptés
+  duree_max_mois: 6
+  types_acceptes:
     - stage
     - vie
     - graduate
-  type_prefere: stage          # le stage de fin d'études gagne plus de points
+  type_prefere: stage
 
 # ---------- DATES DE DÉBUT ----------
 dates:
-  debut_min: "2027-03-22"      # lendemain de la fin des examens (week-end compris)
-  debut_max: "2027-07-31"      # au plus tard fin juillet 2027
-  # Offres qui commencent avant la fin des examens : affichées avec un badge
+  debut_min: "2027-03-22"
+  debut_max: "2027-07-31"
   avant_examens_du: "2027-03-01"
   avant_examens_au: "2027-03-21"
-  # Offres sans date de début : gardées, avec le badge « DATE ? »
   garder_si_date_inconnue: true
 
 # ---------- MÉTIERS ----------
@@ -37,8 +35,14 @@ metiers:
     - associate consultant
     - business analyst
     - stratégie corporate
+    - stratégie d'entreprise
     - corporate strategy
+    - business strategy
     - strategy intern
+    - strategy & operations
+    - competitive intelligence
+    - veille concurrentielle
+    - innovation strategy
     - stagiaire consultant
     - consultant stagiaire
     - analyste stratégie
@@ -47,7 +51,28 @@ metiers:
     - transformation
     - transformation consultant
     - conseil en transformation
+    - finance transformation
+    - pmo
     - change management
+    - conduite du changement
+    - due diligence
+    - transaction services
+    - deal advisory
+    - m&a
+    - private equity
+    - venture capital
+    - esg
+    - sustainability
+    - climate
+    - transition écologique
+    - impact investing
+    - data strategy
+    - digital strategy
+    - politiques publiques
+    - paiements
+    - fintech
+    - conseil interne
+    - ingénieur d'affaires
     - stratégie
     - strategy
   # Petit bonus de score si ces mots apparaissent dans l'offre
@@ -59,6 +84,9 @@ metiers:
     - private equity
     - transition écologique
     - esg
+    - direction financière
+    - procurement
+    - achats
   # EXCLUS : une offre avec un de ces mots dans le titre est retirée
   exclus:
     - audit
@@ -71,6 +99,19 @@ metiers:
     - apprentissage
     - cdi
     - freelance
+    # Vente pure (non souhaitée)
+    - account executive
+    - sales representative
+    - sales intern
+    - business developer
+    - vendeur
+    - téléconseiller
+  # Ces mots ne retirent PAS une offre si le titre contient « stage », « stagiaire »
+  # ou « intern » (« Project Manager Intern » est gardé, « Manager » seul est retiré)
+  exclus_sauf_si_stage:
+    - manager
+    - senior
+    - directeur
 
 # ---------- LIEUX ----------
 lieux:
@@ -100,12 +141,10 @@ lieux:
     - basel
   exclus:                      # villes refusées
     - nantes
-  # Offre sans lieu indiqué : gardée avec un badge « LIEU ? »
   garder_si_lieu_inconnu: true
 
 # ---------- LANGUES ----------
 langues:
-  # Une offre qui exige l'une de ces langues est retirée
   rédhibitoires:
     - allemand
     - german
@@ -116,41 +155,260 @@ langues:
     - mandarin
 
 # ---------- ENTREPRISES ET SECTEURS ----------
-# Aucun critère : on ne filtre ni par secteur ni par taille.
 entreprises_exclues: []
 
 # ---------- SALAIRE ----------
 salaire:
-  minimum: 0                   # aucun minimum : on affiche le salaire, sans éliminer
+  minimum: 0
 
 # ---------- SCORE SUR 100 ----------
-# Total des points = 100. Tu peux changer les chiffres.
 score:
-  metier: 35                   # prioritaire = 35, acceptable = 20
-  contrat: 15                  # stage fin d'études = 15, autre = 8
-  date_debut: 15               # 22 mars à mai = 15, juin = 12, juillet = 10, avant examens = 8, inconnue = 5
-  lieu: 15                     # Paris = 15, Lyon/Lille = 10, Suisse = 8
-  fraicheur: 10                # offre récente = plus de points
+  metier: 35
+  contrat: 15
+  date_debut: 15
+  lieu: 15
+  fraicheur: 10
   mots_bonus: 5
-  salaire_affiche: 5           # petit bonus si le salaire est indiqué
+  salaire_affiche: 5
 
 # ---------- SOURCES ----------
-# true = utilisée, false = ignorée. Une source cassée ne bloque jamais les autres.
 sources:
   consultor: true
-  welcome_to_the_jungle: true
-  france_travail: true         # nécessite une clé gratuite (voir plus tard)
-  business_france_vie: true
-  jobteaser: false             # souvent bloqué depuis GitHub
-  linkedin: true              # souvent bloqué depuis GitHub
+  linkedin: true
+  carrieres: true
+  welcome_to_the_jungle: false # pas encore installée
+  france_travail: false        # pas encore installée (clé gratuite à créer)
+  business_france_vie: false   # pas encore installée
+  jobteaser: false
 
-# Entreprises dont on suit la page carrières (on les ajoutera ensemble)
+# Pages carrières à suivre (à compléter ensemble)
+# Format : "identifiant" ou "identifiant|Nom affiché"
 entreprises_suivies:
   greenhouse: []
   lever: []
   ashby: []
+  smartrecruiters: []
   workday: []
 
 # ---------- NOTIFICATION ----------
 notifications:
-  email_si_nouvelles_offres: true   # via une « issue » GitHub
+  email_si_nouvelles_offres: true
+
+# ---------- ENTREPRISES CHERCHÉES SUR LINKEDIN ----------
+# Une recherche par entreprise. Mets tes priorités en haut :
+# si LinkedIn bloque, les dernières seront ratées.
+# Si le nom contient une apostrophe, mets des guillemets : "L'Oréal"
+entreprises_linkedin:
+  # --- Cabinets de stratégie et de conseil ---
+  - McKinsey
+  - Boston Consulting Group
+  - Bain & Company
+  - Roland Berger
+  - Oliver Wyman
+  - Kearney
+  - Strategy&
+  - EY-Parthenon
+  - Monitor Deloitte
+  - Deloitte
+  - PwC
+  - KPMG
+  - Accenture
+  - Capgemini Invent
+  - Wavestone
+  - Sia Partners
+  - Alvarez & Marsal
+  - Eight Advisory
+  - Simon-Kucher
+  - Arthur D. Little
+  - Kéa
+  - Advancy
+  - Archery Strategy Consulting
+  - Katalyse
+  - Bartle
+  - CMI Stratégies
+  - Strategia Partners
+  - Corporate Value Associates
+  - L.E.K. Consulting
+  - Mars & Company
+  - OC&C Strategy Consultants
+  - Estin & Co
+  - Eurogroup Consulting
+  - Horváth
+  - Implement Consulting Group
+  - AlixPartners
+  - FTI Consulting
+  - Accuracy
+  - Mews Partners
+  - Ares & Co
+  - Avencore
+  - Cylad
+  - PMP Strategy
+  - Eleven Strategy
+  - iQo
+  - Publicis Sapient
+  - Oresys
+  - Onepoint
+  - Sopra Steria
+  - Ailancy
+  - Porsche Consulting
+  - Cartesian
+  - Exton Consulting
+  - Magellan Consulting
+  - Julhiet Sterwen
+  - Colombus Consulting
+  - Argon & Co
+  - BearingPoint
+  - Mazars
+  - Grant Thornton
+  - BDO
+  - Almond
+  - Converteo
+  - Talan
+  - Quantmetry
+  - Mercer
+  - Korn Ferry
+  - Willis Towers Watson
+  # --- Luxe, beauté, grande consommation ---
+  - "L'Oréal"
+  - LVMH
+  - Kering
+  - Hermès
+  - Chanel
+  - Dior
+  - Richemont
+  - Danone
+  - Pernod Ricard
+  - Rémy Cointreau
+  - Nestlé
+  - Unilever
+  - Procter & Gamble
+  - Mondelez
+  - Coca-Cola
+  - PepsiCo
+  - Heineken
+  - Lactalis
+  - Bel
+  - Decathlon
+  # --- Transport, aéronautique, défense ---
+  - Air France
+  - Air France-KLM
+  - SNCF
+  - RATP
+  - Airbus
+  - Safran
+  - Thales
+  - Dassault Aviation
+  - Dassault Systèmes
+  - Alstom
+  - Naval Group
+  - ArianeGroup
+  - CMA CGM
+  - Amadeus
+  # --- Énergie, industrie, services ---
+  - TotalEnergies
+  - EDF
+  - Engie
+  - Schneider Electric
+  - Legrand
+  - Saint-Gobain
+  - Veolia
+  - Vinci
+  - Bouygues
+  - Eiffage
+  - Michelin
+  - Renault
+  - Stellantis
+  - Valeo
+  - Forvia
+  - Sodexo
+  - Edenred
+  - Bureau Veritas
+  - Accor
+  - La Poste
+  # --- Banque, assurance, finance ---
+  - BNP Paribas
+  - Société Générale
+  - Crédit Agricole
+  - Crédit Mutuel
+  - BPCE
+  - Natixis
+  - AXA
+  - Allianz
+  - Generali
+  - CNP Assurances
+  - Groupama
+  - Amundi
+  - Bpifrance
+  - Caisse des Dépôts
+  - Banque de France
+  - Euronext
+  # --- Santé ---
+  - Sanofi
+  - Servier
+  - Pierre Fabre
+  # --- Distribution ---
+  - Carrefour
+  - Auchan
+  # --- Médias, télécoms, communication ---
+  - Orange
+  - Bouygues Telecom
+  - SFR
+  - Publicis Groupe
+  - Havas
+  - JCDecaux
+  - Vivendi
+  - Canal+
+  - TF1
+  # --- Tech ---
+  - Microsoft
+  - Google
+  - Amazon
+  - Meta
+  - Salesforce
+  - SAP
+  - Oracle
+  - IBM
+  - Kyndryl
+  - Capgemini
+  - Doctolib
+  - BlaBlaCar
+  - Back Market
+  - Alan
+  - Qonto
+  - Mirakl
+  - Criteo
+  - OVHcloud
+  - Ubisoft
+  - Deezer
+  # --- Suisse ---
+  - Nestlé Suisse
+  - Novartis
+  - Roche
+  - UBS
+  - Zurich Insurance
+  - Swiss Re
+  - ABB
+  - Givaudan
+  - Logitech
+  - CFF SBB
+  # --- Ajouts ---
+  - Air Liquide
+  - Arkema
+  - EssilorLuxottica
+  - Sephora
+  - L'Occitane
+  - Yves Rocher
+  - Fnac Darty
+  - Leroy Merlin
+  - IKEA
+  - Henkel
+  - Beiersdorf
+  - Capgemini Engineering
+  - Atos
+  - Worldline
+  - Ipsen
+  - bioMérieux
+  - Vallourec
+  - Technip Energies
+  - Nexans
+  - Imerys
