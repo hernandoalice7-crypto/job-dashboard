@@ -127,8 +127,13 @@ def evaluer(o, cfg, aujourdhui):
     o.reasons, o.badges = [], []
 
     # --- 1. Exclusions directes ---
-    if any(has_word(titre, m) for m in M.get("exclus", [])):
-        return "mot_exclu_dans_titre"
+    est_stage = any(has_word(titre, k) for k in ("stage", "stagiaire", "intern", "internship"))
+    souples = [norm(x) for x in M.get("exclus_sauf_si_stage", [])]
+    for m in M.get("exclus", []):
+        if est_stage and norm(m) in souples:
+            continue
+        if has_word(titre, m):
+            return "mot_exclu_dans_titre"
     exclues = [norm(e) for e in (cfg.get("entreprises_exclues") or [])]
     if norm(o.company) in exclues:
         return "entreprise_exclue"
