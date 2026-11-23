@@ -1,7 +1,7 @@
 {
  "offres": {
   "004673f1095e99a2": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "EY",
    "offre": {
     "company": "EY",
@@ -93,6 +93,25 @@
    "titre": "STAGE DE FIN D'ETUDES - Consultant(e) Performance Management (EPM) - H/F",
    "vue_le": "2026-10-28"
   },
+  "06f8368e75672286": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "Sensirion",
+   "offre": {
+    "company": "Sensirion",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Stäfa, Zurich, Suisse",
+    "published": "2026-11-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Internship Strategy & Executive Projects • 100%",
+    "url": "https://ch.linkedin.com/jobs/view/internship-strategy-executive-projects-%E2%80%A2-100%25-at-sensirion-4492578153"
+   },
+   "titre": "Internship Strategy & Executive Projects • 100%",
+   "vue_le": "2026-11-23"
+  },
   "07e04434a56aa3ef": {
    "derniere_vue": "2026-11-01",
    "entreprise": "Algoé",
@@ -156,7 +175,7 @@
    "vue_le": "2026-10-26"
   },
   "0c5b144982f62149": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Simon-Kucher",
    "offre": {
     "company": "Simon-Kucher",
@@ -267,7 +286,7 @@
    "vue_le": "2026-10-28"
   },
   "18b4163fd8e60e6c": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Sia",
    "offre": {
     "company": "Sia",
@@ -286,7 +305,7 @@
    "vue_le": "2026-11-14"
   },
   "1971e792885b00a5": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Talisker",
    "offre": {
     "company": "Talisker",
@@ -875,7 +894,7 @@
    "vue_le": "2026-11-13"
   },
   "36bebe3062df6af9": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "AFRY",
    "offre": {
     "company": "AFRY",
@@ -956,7 +975,7 @@
    "vue_le": "2026-10-20"
   },
   "39f51386c88dc77d": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Agnostic Intelligence",
    "offre": {
     "company": "Agnostic Intelligence",
@@ -994,7 +1013,7 @@
    "vue_le": "2026-10-28"
   },
   "3bc952e7d877f81d": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Renault Group",
    "offre": {
     "company": "Renault Group",
@@ -1013,7 +1032,7 @@
    "vue_le": "2026-10-28"
   },
   "3c7cf9a2cabf4c4b": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "PwC France",
    "offre": {
     "company": "PwC France",
@@ -1175,7 +1194,7 @@
    "vue_le": "2026-11-05"
   },
   "451132b0620bd3ff": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "EY-Parthenon",
    "offre": {
     "company": "EY-Parthenon",
@@ -1313,7 +1332,7 @@
    "vue_le": "2026-10-20"
   },
   "4ba055685f99f7b4": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Meanquest",
    "offre": {
     "company": "Meanquest",
@@ -1321,7 +1340,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Vaud, Suisse",
-    "published": "2026-10-30",
+    "published": "2026-11-20",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -1330,6 +1349,25 @@
    },
    "titre": "Consultant-e / référent-e numérique responsable",
    "vue_le": "2026-11-07"
+  },
+  "4d3058f4a5ac8cc4": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "KALI GROUP",
+   "offre": {
+    "company": "KALI GROUP",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-09",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Ingénieur d'Affaires - Stage de fin d'études (F/H)",
+    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-d-affaires-stage-de-fin-d-%C3%A9tudes-f-h-at-kali-group-4488885326"
+   },
+   "titre": "Ingénieur d'Affaires - Stage de fin d'études (F/H)",
+   "vue_le": "2026-11-23"
   },
   "4d57f417300dae57": {
    "derniere_vue": "2026-11-13",
@@ -1398,6 +1436,25 @@
    },
    "titre": "Stagiaire Management, Conseil & Stratégie",
    "vue_le": "2026-10-26"
+  },
+  "4eebf79208749c4e": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "ABGi France",
+   "offre": {
+    "company": "ABGi France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage : Consultant Scientifique en Innovation - Spé en Systèmes embarqués H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-scientifique-en-innovation-sp%C3%A9-en-syst%C3%A8mes-embarqu%C3%A9s-h-f-at-abgi-france-4492591418"
+   },
+   "titre": "Stage : Consultant Scientifique en Innovation - Spé en Systèmes embarqués H/F",
+   "vue_le": "2026-11-23"
   },
   "4f0328aa43b7d014": {
    "derniere_vue": "2026-11-23",
@@ -1567,6 +1624,25 @@
    "titre": "Consultant.e Adoption des usages IA – Stage de fin d'études",
    "vue_le": "2026-10-29"
   },
+  "5c5a4d20956c3b59": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "MP DATA",
+   "offre": {
+    "company": "MP DATA",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Ingénieur d'Affaires / Business Manager",
+    "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d-affaires-business-manager-at-mp-data-4492589812"
+   },
+   "titre": "Stage Ingénieur d'Affaires / Business Manager",
+   "vue_le": "2026-11-23"
+  },
   "5c5d2b19a5346e1a": {
    "derniere_vue": "2026-10-28",
    "entreprise": "Ralph Lauren",
@@ -1578,6 +1654,25 @@
    "entreprise": "Wüest Partner",
    "titre": "Graduate Programme: Real Estate Consulting – 12 mois, début le 1er mars 2027",
    "vue_le": "2026-10-29"
+  },
+  "5d82bee764b81102": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "ACT-ON HRIS",
+   "offre": {
+    "company": "ACT-ON HRIS",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Neuilly-sur-Seine",
+    "published": "2026-11-23",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant(e) SIRH Junior – Stage de fin d'études H/F",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-sirh-junior-%E2%80%93-stage-de-fin-d-%C3%A9tudes-h-f-at-act-on-hris-4493662097"
+   },
+   "titre": "Consultant(e) SIRH Junior – Stage de fin d'études H/F",
+   "vue_le": "2026-11-23"
   },
   "5e69009e61b67356": {
    "derniere_vue": "2026-11-05",
@@ -1605,7 +1700,7 @@
    "vue_le": "2026-11-18"
   },
   "6027e29211287874": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "AlixPartners",
    "offre": {
     "company": "AlixPartners",
@@ -1673,7 +1768,7 @@
    "vue_le": "2026-10-28"
   },
   "641380b30979db3b": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Dassault Systèmes",
    "offre": {
     "company": "Dassault Systèmes",
@@ -1836,6 +1931,25 @@
    "titre": "Stagiaire - Chargé de mission Stratégie Opé. Junior H/F",
    "vue_le": "2026-10-28"
   },
+  "6bded41d9c5a3757": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "Artefact",
+   "offre": {
+    "company": "Artefact",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-10",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Data Consultant - Paris",
+    "url": "https://fr.linkedin.com/jobs/view/stage-data-consultant-paris-at-artefact-4464394068"
+   },
+   "titre": "Stage Data Consultant - Paris",
+   "vue_le": "2026-11-23"
+  },
   "6bf22b8752790e0f": {
    "derniere_vue": "2026-11-16",
    "entreprise": "Protiviti France",
@@ -1862,7 +1976,7 @@
    "vue_le": "2026-10-28"
   },
   "6c642b4ccc7a823e": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -1885,6 +1999,25 @@
    "entreprise": "Michelin",
    "titre": "Stage - Consultant Innovation Digital (F/H)",
    "vue_le": "2026-11-05"
+  },
+  "6da464b993e9bfdb": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "fortil",
+   "offre": {
+    "company": "fortil",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Villeneuve-d'Ascq",
+    "published": "2026-11-13",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Ingénieur D'affaires Industrielles H/F",
+    "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d-affaires-industrielles-h-f-at-fortil-4491003800"
+   },
+   "titre": "Stage Ingénieur D'affaires Industrielles H/F",
+   "vue_le": "2026-11-23"
   },
   "6dbfaa592dbad728": {
    "derniere_vue": "2026-11-19",
@@ -1992,6 +2125,25 @@
    },
    "titre": "Internship - Stratégie & Transformation (H/F)",
    "vue_le": "2026-10-26"
+  },
+  "748c79654570f502": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "Wavestone",
+   "offre": {
+    "company": "Wavestone",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-19",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant·e Junior en Technologies Emergentes – CTO/CIO Advisory - stage de fin d'études",
+    "url": "https://fr.linkedin.com/jobs/view/consultant%C2%B7e-junior-en-technologies-emergentes-%E2%80%93-cto-cio-advisory-stage-de-fin-d-%C3%A9tudes-at-wavestone-4491399121"
+   },
+   "titre": "Consultant·e Junior en Technologies Emergentes – CTO/CIO Advisory - stage de fin d'études",
+   "vue_le": "2026-11-23"
   },
   "75760fe8c6001a32": {
    "derniere_vue": "2026-11-01",
@@ -2111,7 +2263,7 @@
    "vue_le": "2026-10-28"
   },
   "7c6e3a6c0195d50e": {
-   "derniere_vue": "2026-11-21",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Assystem",
    "offre": {
     "company": "Assystem",
@@ -2254,6 +2406,25 @@
    "titre": "Oliver Wyman - Core Consulting Group - Intern (m/f/d) - Zurich",
    "vue_le": "2026-11-06"
   },
+  "824161a98ddf416e": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "Oresys",
+   "offre": {
+    "company": "Oresys",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-23",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant en management/Consultante en management",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-en-management-consultante-en-management-at-oresys-4493648984"
+   },
+   "titre": "Consultant en management/Consultante en management",
+   "vue_le": "2026-11-23"
+  },
   "82a4d228523ea67a": {
    "derniere_vue": "2026-11-23",
    "entreprise": "Asys",
@@ -2368,7 +2539,7 @@
    "vue_le": "2026-10-28"
   },
   "86a8ffa4bdb715c9": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "VISEO",
    "offre": {
     "company": "VISEO",
@@ -2474,7 +2645,7 @@
    "vue_le": "2026-10-30"
   },
   "8c3d1be1c9dbb8d4": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Artimon",
    "offre": {
     "company": "Artimon",
@@ -2493,7 +2664,7 @@
    "vue_le": "2026-11-12"
   },
   "8d78267fcc4059ba": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Magellan",
    "offre": {
     "company": "Magellan",
@@ -2675,7 +2846,7 @@
    "vue_le": "2026-11-13"
   },
   "96d28a158f7dca8e": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -2887,6 +3058,25 @@
    "titre": "Stage Consultant – Architecture & Industry Strategy – Paris",
    "vue_le": "2026-11-14"
   },
+  "a27a496fbad31839": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "Etyo",
+   "offre": {
+    "company": "Etyo",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-10-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage Ingénieur travaux / gestion de projet Immobilier _ Conseil & AMO F/H",
+    "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-travaux-gestion-de-projet-immobilier-conseil-amo-f-h-at-etyo-4492562732"
+   },
+   "titre": "Stage Ingénieur travaux / gestion de projet Immobilier _ Conseil & AMO F/H",
+   "vue_le": "2026-11-23"
+  },
   "a2e4f2a716d3c281": {
    "derniere_vue": "2026-11-23",
    "entreprise": "Cabinet (voir l'offre)",
@@ -2976,7 +3166,7 @@
    "vue_le": "2026-10-28"
   },
   "a666a249b1291779": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Detecon",
    "offre": {
     "company": "Detecon",
@@ -3055,6 +3245,25 @@
    "entreprise": "SECAFI",
    "titre": "STAGE - Consultant en diagnostic stratégique et analyse financière - Lyon (H/F)",
    "vue_le": "2026-10-26"
+  },
+  "ac048c8ad1ec980d": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "BaXian AG",
+   "offre": {
+    "company": "BaXian AG",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zoug, Zoug, Suisse",
+    "published": "2026-11-19",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Praktikum Consulting (m/w/d), 100% - 6 Monate",
+    "url": "https://ch.linkedin.com/jobs/view/praktikum-consulting-m-w-d-100%25-6-monate-at-baxian-ag-4491365962"
+   },
+   "titre": "Praktikum Consulting (m/w/d), 100% - 6 Monate",
+   "vue_le": "2026-11-23"
   },
   "ad56c6b7798d6ae5": {
    "derniere_vue": "2026-11-05",
@@ -3249,7 +3458,7 @@
    "vue_le": "2026-10-28"
   },
   "b8546793dd4df157": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "UBS",
    "offre": {
     "company": "UBS",
@@ -3266,6 +3475,25 @@
    },
    "titre": "2027 Internship – Group Internal Consulting – Zurich",
    "vue_le": "2026-11-13"
+  },
+  "b8615340dcf90f9d": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "AptiSkills",
+   "offre": {
+    "company": "AptiSkills",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lille",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Ingénieur d'affaires (H/F)  - Lille",
+    "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d-affaires-h-f-lille-at-aptiskills-4476197780"
+   },
+   "titre": "Stage - Ingénieur d'affaires (H/F)  - Lille",
+   "vue_le": "2026-11-23"
   },
   "b8e3b64448936d0b": {
    "derniere_vue": "2026-11-23",
@@ -3367,7 +3595,7 @@
    "vue_le": "2026-10-31"
   },
   "be252ae86023394f": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "EY",
    "offre": {
     "company": "EY",
@@ -3417,7 +3645,7 @@
    "vue_le": "2026-10-28"
   },
   "bef40d8faf6e47b7": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Schneider Electric",
    "offre": {
     "company": "Schneider Electric",
@@ -3518,7 +3746,7 @@
    "vue_le": "2026-10-28"
   },
   "c25769758b4ab223": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Devoteam Digital Impulse",
    "offre": {
     "company": "Devoteam Digital Impulse",
@@ -3526,7 +3754,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Levallois-Perret",
-    "published": "2026-10-26",
+    "published": "2026-11-23",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -3537,10 +3765,42 @@
    "vue_le": "2026-11-03"
   },
   "c2b128109a6e866a": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Simon-Kucher",
+   "offre": {
+    "company": "Simon-Kucher",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Zurich, Zurich, Suisse",
+    "published": "2026-11-17",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Intern/Associate Consultant – Financial Services (m/w/d)",
+    "url": "https://ch.linkedin.com/jobs/view/intern-associate-consultant-%E2%80%93-financial-services-m-w-d-at-simon-kucher-4474041524"
+   },
    "titre": "Intern/Associate Consultant – Financial Services (m/w/d)",
    "vue_le": "2026-10-28"
+  },
+  "c2fd86a1429ef897": {
+   "derniere_vue": "2026-11-23",
+   "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-20",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Public & Services - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-public-services-stage-at-capgemini-invent-4492922744"
+   },
+   "titre": "Consultante / Consultant Public & Services - Stage",
+   "vue_le": "2026-11-23"
   },
   "c43d0d406d808492": {
    "derniere_vue": "2026-11-23",
@@ -3876,7 +4136,7 @@
    "vue_le": "2026-11-03"
   },
   "d2afed139c60c86c": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "SproClub",
    "offre": {
     "company": "SproClub",
@@ -4109,7 +4369,7 @@
    "vue_le": "2026-10-20"
   },
   "dc2d5368b101534b": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "ABGi France",
    "offre": {
     "company": "ABGi France",
@@ -4140,8 +4400,21 @@
    "vue_le": "2026-10-29"
   },
   "df922bbf9be6060f": {
-   "derniere_vue": "2026-11-09",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Capgemini Invent",
+   "offre": {
+    "company": "Capgemini Invent",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Issy-les-Moulineaux",
+    "published": "2026-11-02",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultante / Consultant Manufacturing Automotive & Life Sciences - Stage",
+    "url": "https://fr.linkedin.com/jobs/view/consultante-consultant-manufacturing-automotive-life-sciences-stage-at-capgemini-invent-4486426150"
+   },
    "titre": "Consultante / Consultant Manufacturing Automotive & Life Sciences - Stage",
    "vue_le": "2026-11-03"
   },
@@ -4228,7 +4501,7 @@
    "vue_le": "2026-10-28"
   },
   "e2f299e948764bd5": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Simon-Kucher",
    "offre": {
     "company": "Simon-Kucher",
@@ -4236,7 +4509,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Paris",
-    "published": "2026-10-28",
+    "published": "2026-11-19",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -4272,7 +4545,7 @@
    "vue_le": "2026-10-26"
   },
   "e3e134a812b14ec8": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Accenture France",
    "offre": {
     "company": "Accenture France",
@@ -4377,7 +4650,7 @@
    "vue_le": "2026-10-28"
   },
   "ef7800d9c09fbc00": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -4427,7 +4700,7 @@
    "vue_le": "2026-10-28"
   },
   "f1bf96934c2c402c": {
-   "derniere_vue": "2026-11-19",
+   "derniere_vue": "2026-11-23",
    "entreprise": "CGI Business Consulting",
    "offre": {
     "company": "CGI Business Consulting",
@@ -4596,7 +4869,7 @@
    "vue_le": "2026-11-13"
   },
   "f72e932ccd75fa29": {
-   "derniere_vue": "2026-11-18",
+   "derniere_vue": "2026-11-23",
    "entreprise": "Artimon",
    "offre": {
     "company": "Artimon",
