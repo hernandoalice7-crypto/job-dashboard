@@ -9,8 +9,8 @@ from jobfinder.models import Offer
 # Le fichier est à la racine du dépôt (à côté de config.yaml)
 FICHIER = Path(__file__).resolve().parent.parent / "seen_offers.json"
 
-OUBLI_APRES_JOURS = 90   # une offre non revue depuis ce délai est oubliée
-GARDER_JOURS = 30        # une offre non revue reste affichée pendant ce délai
+OUBLI_APRES_JOURS = 36500   # 100 ans : on n'oublie jamais une offre
+GARDER_JOURS = 36500        # une offre non revue reste affichée sans limite
 
 CHAMPS = ("title", "company", "url", "source", "location", "published",
           "start_date", "contract", "duration_months", "salary", "description")
@@ -83,7 +83,7 @@ def marquer_nouvelles(offres, memoire, aujourdhui):
 
 
 def nettoyer(memoire, aujourdhui):
-    """Oublie les offres qu'on n'a pas revues depuis longtemps."""
+    """Oublie les offres qu'on n'a pas revues depuis très longtemps."""
     limite = (aujourdhui - timedelta(days=OUBLI_APRES_JOURS)).isoformat()
     memoire["offres"] = {
         k: v for k, v in memoire["offres"].items()
