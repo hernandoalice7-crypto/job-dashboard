@@ -17,6 +17,7 @@ concurrency:
 jobs:
   recherche:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     env:
       NOUVELLES_FICHIER: /tmp/nouvelles_offres.md
     steps:
