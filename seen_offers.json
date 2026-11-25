@@ -213,7 +213,7 @@
    "vue_le": "2026-11-12"
   },
   "0d57672d2872f5d3": {
-   "derniere_vue": "2026-11-22",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -323,6 +323,25 @@
    "titre": "Consultant(e) en Management & Organisation - Stage",
    "vue_le": "2026-11-18"
   },
+  "1a747e476b7fcf01": {
+   "derniere_vue": "2026-11-25",
+   "entreprise": "Skaleet",
+   "offre": {
+    "company": "Skaleet",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Boulogne-Billancourt",
+    "published": "2026-11-04",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Strategy & GTM Intern - Fintech H/F (6 months, Jan. 2027)",
+    "url": "https://fr.linkedin.com/jobs/view/strategy-gtm-intern-fintech-h-f-6-months-jan-2027-at-skaleet-4486500698"
+   },
+   "titre": "Strategy & GTM Intern - Fintech H/F (6 months, Jan. 2027)",
+   "vue_le": "2026-11-25"
+  },
   "1a8583e590af9dd6": {
    "derniere_vue": "2026-11-01",
    "entreprise": "Sopra Steria",
@@ -384,6 +403,25 @@
    "titre": "Stage : Consultant Scientifique en Innovation - Spé Matériaux H/F",
    "vue_le": "2026-11-04"
   },
+  "221c36e859acc587": {
+   "derniere_vue": "2026-11-25",
+   "entreprise": "KPMG France",
+   "offre": {
+    "company": "KPMG France",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Lyon",
+    "published": "2026-11-24",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant Stagiaire Evaluation et modélisation financière - Lyon H/F",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-stagiaire-evaluation-et-mod%C3%A9lisation-financi%C3%A8re-lyon-h-f-at-kpmg-france-4494170363"
+   },
+   "titre": "Consultant Stagiaire Evaluation et modélisation financière - Lyon H/F",
+   "vue_le": "2026-11-25"
+  },
   "226c8023f2b866d5": {
    "derniere_vue": "2026-11-07",
    "entreprise": "Emerton",
@@ -397,7 +435,7 @@
    "vue_le": "2026-10-28"
   },
   "237b67003539fb3f": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Wavestone",
    "offre": {
     "company": "Wavestone",
@@ -504,7 +542,7 @@
    "vue_le": "2026-10-26"
   },
   "272eb76fc0ee78fc": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -548,7 +586,7 @@
    "vue_le": "2026-10-30"
   },
   "2a1eb8e930633433": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Ailancy Advisory",
    "offre": {
     "company": "Ailancy Advisory",
@@ -661,7 +699,7 @@
    "vue_le": "2026-11-01"
   },
   "30276d467ba369fc": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "NUVIA",
    "offre": {
     "company": "NUVIA",
@@ -856,7 +894,7 @@
    "vue_le": "2026-11-19"
   },
   "35aeb8fce3f8a824": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -956,7 +994,7 @@
    "vue_le": "2026-10-28"
   },
   "391bceefeda8dc50": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Strategia Partners",
@@ -1283,7 +1321,7 @@
    "vue_le": "2026-11-19"
   },
   "477920b24e7f7ff3": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Altman Solon",
    "offre": {
     "company": "Altman Solon",
@@ -1345,7 +1383,7 @@
    "vue_le": "2026-10-28"
   },
   "4b9ea444e7f87d06": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Simon-Kucher",
@@ -1489,7 +1527,7 @@
    "vue_le": "2026-11-23"
   },
   "4f0328aa43b7d014": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -1508,7 +1546,7 @@
    "vue_le": "2026-10-26"
   },
   "4f03490b73343e38": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "MASAÏ",
    "offre": {
     "company": "MASAÏ",
@@ -1614,7 +1652,7 @@
    "vue_le": "2026-10-28"
   },
   "5ae4430132a01c43": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Talan",
    "offre": {
     "company": "Talan",
@@ -1622,7 +1660,7 @@
     "description": "",
     "duration_months": 0,
     "location": "Paris",
-    "published": "2026-11-03",
+    "published": "2026-11-24",
     "salary": "",
     "source": "linkedin",
     "start_date": "",
@@ -2096,7 +2134,7 @@
    "vue_le": "2026-11-12"
   },
   "7094a3f7d39a5354": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "CMI",
@@ -2115,7 +2153,7 @@
    "vue_le": "2026-10-20"
   },
   "72199eadac60dcd5": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "KPMG France",
    "offre": {
     "company": "KPMG France",
@@ -2458,7 +2496,7 @@
    "vue_le": "2026-11-23"
   },
   "82a4d228523ea67a": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Asys",
    "offre": {
     "company": "Asys",
@@ -2677,7 +2715,7 @@
    "vue_le": "2026-10-30"
   },
   "8c3d1be1c9dbb8d4": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Artimon",
    "offre": {
     "company": "Artimon",
@@ -2721,7 +2759,7 @@
    "vue_le": "2026-10-27"
   },
   "8e646310b9069100": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Tenzing Conseil",
    "offre": {
     "company": "Tenzing Conseil",
@@ -2903,7 +2941,7 @@
    "vue_le": "2026-10-26"
   },
   "989018853b31d58f": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Bain & Company",
@@ -3041,7 +3079,7 @@
    "vue_le": "2026-11-17"
   },
   "9d7a18920d341305": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "CEVA Logistics",
    "offre": {
     "company": "CEVA Logistics",
@@ -3110,7 +3148,7 @@
    "vue_le": "2026-11-23"
   },
   "a2e4f2a716d3c281": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Advancy",
@@ -3528,7 +3566,7 @@
    "vue_le": "2026-11-23"
   },
   "b8e3b64448936d0b": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Sopra Steria Next",
    "offre": {
     "company": "Sopra Steria Next",
@@ -3835,7 +3873,7 @@
    "vue_le": "2026-11-23"
   },
   "c43d0d406d808492": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Advancy",
@@ -4005,7 +4043,7 @@
    "vue_le": "2026-10-28"
   },
   "c7f0e7436eac7b36": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Accenture France",
    "offre": {
     "company": "Accenture France",
@@ -4124,7 +4162,7 @@
    "vue_le": "2026-11-13"
   },
   "d028cf097829871f": {
-   "derniere_vue": "2026-11-16",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Faurecia",
    "offre": {
     "company": "Faurecia",
@@ -4237,7 +4275,7 @@
    "vue_le": "2026-11-15"
   },
   "d66fe386959c8849": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Europ Assistance",
    "offre": {
     "company": "Europ Assistance",
@@ -4256,7 +4294,7 @@
    "vue_le": "2026-10-26"
   },
   "d6d2b3171477004a": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Cabinet (voir l'offre)",
@@ -4294,7 +4332,7 @@
    "vue_le": "2026-11-13"
   },
   "d8d1eb83019561be": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Ares & Co",
    "offre": {
     "company": "Ares & Co",
@@ -4601,6 +4639,25 @@
    "titre": "Strategy Intern - Organisational Development",
    "vue_le": "2026-10-28"
   },
+  "e5a135c6a6f4d04e": {
+   "derniere_vue": "2026-11-25",
+   "entreprise": "Sia",
+   "offre": {
+    "company": "Sia",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-25",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage de fin d’études Consultant(e) Secteur Public",
+    "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d%E2%80%99%C3%A9tudes-consultant-e-secteur-public-at-sia-4494606196"
+   },
+   "titre": "Stage de fin d’études Consultant(e) Secteur Public",
+   "vue_le": "2026-11-25"
+  },
   "e5ff76e31474adda": {
    "derniere_vue": "2026-11-19",
    "entreprise": "Mews Partners",
@@ -4751,7 +4808,7 @@
    "vue_le": "2026-10-31"
   },
   "f2717a2c73ac45ec": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Volvo Group",
    "offre": {
     "company": "Volvo Group",
@@ -4776,7 +4833,7 @@
    "vue_le": "2026-10-26"
   },
   "f2d28d05bf983f24": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "julhiet sterwen",
    "offre": {
     "company": "julhiet sterwen",
@@ -4851,7 +4908,7 @@
    "vue_le": "2026-10-28"
   },
   "f64a223e844b5e24": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "BDO France",
    "offre": {
     "company": "BDO France",
@@ -5008,7 +5065,7 @@
    "vue_le": "2026-10-26"
   },
   "fcd12b41eb350c40": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-25",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "BNP Paribas",
