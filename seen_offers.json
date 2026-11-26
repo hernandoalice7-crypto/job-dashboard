@@ -213,7 +213,7 @@
    "vue_le": "2026-11-12"
   },
   "0d57672d2872f5d3": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Capgemini Invent",
    "offre": {
     "company": "Capgemini Invent",
@@ -435,7 +435,7 @@
    "vue_le": "2026-10-28"
   },
   "237b67003539fb3f": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Wavestone",
    "offre": {
     "company": "Wavestone",
@@ -586,7 +586,7 @@
    "vue_le": "2026-10-30"
   },
   "2a1eb8e930633433": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Ailancy Advisory",
    "offre": {
     "company": "Ailancy Advisory",
@@ -850,7 +850,7 @@
    "vue_le": "2026-11-07"
   },
   "34b7a1303a343ed3": {
-   "derniere_vue": "2026-11-24",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Sia",
    "offre": {
     "company": "Sia",
@@ -894,7 +894,7 @@
    "vue_le": "2026-11-19"
   },
   "35aeb8fce3f8a824": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -994,7 +994,7 @@
    "vue_le": "2026-10-28"
   },
   "391bceefeda8dc50": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Strategia Partners",
@@ -1321,7 +1321,7 @@
    "vue_le": "2026-11-19"
   },
   "477920b24e7f7ff3": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Altman Solon",
    "offre": {
     "company": "Altman Solon",
@@ -1383,7 +1383,7 @@
    "vue_le": "2026-10-28"
   },
   "4b9ea444e7f87d06": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Simon-Kucher",
@@ -1527,7 +1527,7 @@
    "vue_le": "2026-11-23"
   },
   "4f0328aa43b7d014": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Deloitte",
    "offre": {
     "company": "Deloitte",
@@ -1652,7 +1652,7 @@
    "vue_le": "2026-10-28"
   },
   "5ae4430132a01c43": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Talan",
    "offre": {
     "company": "Talan",
@@ -2134,7 +2134,7 @@
    "vue_le": "2026-11-12"
   },
   "7094a3f7d39a5354": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "CMI",
@@ -2153,7 +2153,7 @@
    "vue_le": "2026-10-20"
   },
   "72199eadac60dcd5": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "KPMG France",
    "offre": {
     "company": "KPMG France",
@@ -2715,7 +2715,7 @@
    "vue_le": "2026-10-30"
   },
   "8c3d1be1c9dbb8d4": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Artimon",
    "offre": {
     "company": "Artimon",
@@ -2759,7 +2759,7 @@
    "vue_le": "2026-10-27"
   },
   "8e646310b9069100": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Tenzing Conseil",
    "offre": {
     "company": "Tenzing Conseil",
@@ -2941,7 +2941,7 @@
    "vue_le": "2026-10-26"
   },
   "989018853b31d58f": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Bain & Company",
@@ -2983,6 +2983,25 @@
    "entreprise": "FINANCE CONSULT",
    "titre": "Stage Consultant junior F/H - Finances et politiques publiques, secteur social et médico-social",
    "vue_le": "2026-10-26"
+  },
+  "9a3ffac02663e9d4": {
+   "derniere_vue": "2026-11-26",
+   "entreprise": "Sopra Steria",
+   "offre": {
+    "company": "Sopra Steria",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Courbevoie",
+    "published": "2026-11-25",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Stage - Consultant Stratégie des Paiements - Services Financiers - Courbevoie",
+    "url": "https://fr.linkedin.com/jobs/view/stage-consultant-strat%C3%A9gie-des-paiements-services-financiers-courbevoie-at-sopra-steria-4494676074"
+   },
+   "titre": "Stage - Consultant Stratégie des Paiements - Services Financiers - Courbevoie",
+   "vue_le": "2026-11-26"
   },
   "9a98f3dfa9a10792": {
    "derniere_vue": "2026-11-19",
@@ -3079,7 +3098,7 @@
    "vue_le": "2026-11-17"
   },
   "9d7a18920d341305": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "CEVA Logistics",
    "offre": {
     "company": "CEVA Logistics",
@@ -3148,7 +3167,7 @@
    "vue_le": "2026-11-23"
   },
   "a2e4f2a716d3c281": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Advancy",
@@ -3265,6 +3284,25 @@
    "entreprise": "Sanofi",
    "titre": "stage 6 mois support projet digital transformation",
    "vue_le": "2026-11-01"
+  },
+  "a9243c560fafcfe7": {
+   "derniere_vue": "2026-11-26",
+   "entreprise": "EY-Parthenon",
+   "offre": {
+    "company": "EY-Parthenon",
+    "contract": "stage",
+    "description": "",
+    "duration_months": 0,
+    "location": "Paris",
+    "published": "2026-11-26",
+    "salary": "",
+    "source": "linkedin",
+    "start_date": "",
+    "title": "Consultant(e) Stagiaire - Transaction Strategy & Execution - Intégration/Séparation - Paris - F/H",
+    "url": "https://fr.linkedin.com/jobs/view/consultant-e-stagiaire-transaction-strategy-execution-int%C3%A9gration-s%C3%A9paration-paris-f-h-at-ey-parthenon-4495021824"
+   },
+   "titre": "Consultant(e) Stagiaire - Transaction Strategy & Execution - Intégration/Séparation - Paris - F/H",
+   "vue_le": "2026-11-26"
   },
   "a96067e29eac54c9": {
    "derniere_vue": "2026-11-09",
@@ -3873,7 +3911,7 @@
    "vue_le": "2026-11-23"
   },
   "c43d0d406d808492": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Advancy",
@@ -4043,7 +4081,7 @@
    "vue_le": "2026-10-28"
   },
   "c7f0e7436eac7b36": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Accenture France",
    "offre": {
     "company": "Accenture France",
@@ -4275,7 +4313,7 @@
    "vue_le": "2026-11-15"
   },
   "d66fe386959c8849": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Europ Assistance",
    "offre": {
     "company": "Europ Assistance",
@@ -4294,7 +4332,7 @@
    "vue_le": "2026-10-26"
   },
   "d6d2b3171477004a": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "Cabinet (voir l'offre)",
@@ -4332,7 +4370,7 @@
    "vue_le": "2026-11-13"
   },
   "d8d1eb83019561be": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Ares & Co",
    "offre": {
     "company": "Ares & Co",
@@ -4640,7 +4678,7 @@
    "vue_le": "2026-10-28"
   },
   "e5a135c6a6f4d04e": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Sia",
    "offre": {
     "company": "Sia",
@@ -4833,7 +4871,7 @@
    "vue_le": "2026-10-26"
   },
   "f2d28d05bf983f24": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "julhiet sterwen",
    "offre": {
     "company": "julhiet sterwen",
@@ -5065,7 +5103,7 @@
    "vue_le": "2026-10-26"
   },
   "fcd12b41eb350c40": {
-   "derniere_vue": "2026-11-25",
+   "derniere_vue": "2026-11-26",
    "entreprise": "Cabinet (voir l'offre)",
    "offre": {
     "company": "BNP Paribas",
